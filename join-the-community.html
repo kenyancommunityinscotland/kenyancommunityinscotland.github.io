@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Kenyan Community in Scotland</title>
+<title>Join the Community – Kenyan Community in Scotland</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -114,6 +114,9 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
 </script>
+<link href="site_libs/selectize-0.15.2/css/selectize.bootstrap3.css" rel="stylesheet">
+<script src="site_libs/selectize-0.15.2/js/selectize.min.js"></script>
+<script src="site_libs/selectize-0.15.2/accessibility/js/selectize-plugin-a11y.min.js"></script>
 
 
 <link rel="stylesheet" href="assets/styles.css">
@@ -141,7 +144,7 @@ gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -157,7 +160,7 @@ gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./join-the-community.html"> 
+    <a class="nav-link active" href="./join-the-community.html" aria-current="page"> 
 <span class="menu-text">Join Us</span></a>
   </li>  
 </ul>
@@ -220,7 +223,7 @@ gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Join the Community</h1>
 </div>
 
 
@@ -237,15 +240,98 @@ gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
 </header>
 
 
-<p>About this site</p>
+<section id="join-the-kenyan-community-in-scotland" class="level1">
+<h1>Join the Kenyan Community in Scotland</h1>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(shiny)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(blastula)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(glue)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co"># UI components</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">textInput</span>(<span class="st">"name"</span>, <span class="st">"Full Name:"</span>, <span class="at">placeholder =</span> <span class="st">"Enter your full name"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="form-group shiny-input-container">
+<label class="control-label" id="name-label" for="name">Full Name:</label>
+<input id="name" type="text" class="shiny-input-text form-control" value="" placeholder="Enter your full name">
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">textInput</span>(<span class="st">"email"</span>, <span class="st">"Email Address:"</span>, <span class="at">placeholder =</span> <span class="st">"Enter your email address"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="form-group shiny-input-container">
+<label class="control-label" id="email-label" for="email">Email Address:</label>
+<input id="email" type="text" class="shiny-input-text form-control" value="" placeholder="Enter your email address">
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">selectInput</span>(<span class="st">"interest"</span>, <span class="st">"Area of Interest:"</span>, <span class="at">choices =</span> <span class="fu">c</span>(<span class="st">"Networking"</span>, <span class="st">"Volunteering"</span>, <span class="st">"Events"</span>, <span class="st">"Sponsorship"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display no-overflow-x">
+<div class="form-group shiny-input-container">
+<label class="control-label" id="interest-label" for="interest">Area of Interest:</label>
+<div>
+<select id="interest" class="shiny-input-select"><option value="Networking" selected="">Networking</option>
+<option value="Volunteering">Volunteering</option>
+<option value="Events">Events</option>
+<option value="Sponsorship">Sponsorship</option></select>
+<script type="application/json" data-for="interest" data-nonempty="">{"plugins":["selectize-plugin-a11y"]}</script>
+</div>
+</div>
+</div>
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">actionButton</span>(<span class="st">"submit"</span>, <span class="st">"Submit"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<button id="submit" type="button" class="btn btn-default action-button">Submit</button>
+</div>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">textOutput</span>(<span class="st">"confirmation"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div id="confirmation" class="shiny-text-output"></div>
+</div>
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Server-side logic</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="fu">observeEvent</span>(input<span class="sc">$</span>submit, {</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Save data</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>  entry <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(</span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>    <span class="at">name =</span> input<span class="sc">$</span>name,</span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>    <span class="at">email =</span> input<span class="sc">$</span>email,</span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>    <span class="at">interest =</span> input<span class="sc">$</span>interest,</span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>    <span class="at">timestamp =</span> <span class="fu">Sys.time</span>()</span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>  <span class="cf">if</span> (<span class="sc">!</span><span class="fu">file.exists</span>(<span class="st">"community_signups.csv"</span>)) {</span>
+<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>    <span class="fu">write.csv</span>(entry, <span class="st">"community_signups.csv"</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a>  } <span class="cf">else</span> {</span>
+<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a>    <span class="fu">write.table</span>(entry, <span class="st">"community_signups.csv"</span>, <span class="at">append =</span> <span class="cn">TRUE</span>, <span class="at">sep =</span> <span class="st">","</span>, <span class="at">col.names =</span> <span class="cn">FALSE</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Compose and send welcome email</span></span>
+<span id="cb6-19"><a href="#cb6-19" aria-hidden="true" tabindex="-1"></a>  email <span class="ot">&lt;-</span> <span class="fu">compose_email</span>(</span>
+<span id="cb6-20"><a href="#cb6-20" aria-hidden="true" tabindex="-1"></a>    <span class="at">body =</span> <span class="fu">md</span>(<span class="fu">glue</span>(</span>
+<span id="cb6-21"><a href="#cb6-21" aria-hidden="true" tabindex="-1"></a>      <span class="st">"Hello {input$name},</span><span class="sc">\n\n</span><span class="st">"</span>,</span>
+<span id="cb6-22"><a href="#cb6-22" aria-hidden="true" tabindex="-1"></a>      <span class="st">"Thank you for joining the Kenyan Community in Scotland! 🎉</span><span class="sc">\n\n</span><span class="st">"</span>,</span>
+<span id="cb6-23"><a href="#cb6-23" aria-hidden="true" tabindex="-1"></a>      <span class="st">"We are excited to have you onboard.</span><span class="sc">\n\n</span><span class="st">"</span>,</span>
+<span id="cb6-24"><a href="#cb6-24" aria-hidden="true" tabindex="-1"></a>      <span class="st">"Stay tuned for upcoming events and activities!</span><span class="sc">\n\n</span><span class="st">"</span>,</span>
+<span id="cb6-25"><a href="#cb6-25" aria-hidden="true" tabindex="-1"></a>      <span class="st">"**Your selected area of interest:** {input$interest}</span><span class="sc">\n\n</span><span class="st">"</span>,</span>
+<span id="cb6-26"><a href="#cb6-26" aria-hidden="true" tabindex="-1"></a>      <span class="st">"Warm regards,</span><span class="sc">\n\n</span><span class="st">"</span>,</span>
+<span id="cb6-27"><a href="#cb6-27" aria-hidden="true" tabindex="-1"></a>      <span class="st">"Kenyan Community in Scotland Team"</span></span>
+<span id="cb6-28"><a href="#cb6-28" aria-hidden="true" tabindex="-1"></a>    ))</span>
+<span id="cb6-29"><a href="#cb6-29" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb6-30"><a href="#cb6-30" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb6-31"><a href="#cb6-31" aria-hidden="true" tabindex="-1"></a>  <span class="fu">smtp_send</span>(</span>
+<span id="cb6-32"><a href="#cb6-32" aria-hidden="true" tabindex="-1"></a>    email,</span>
+<span id="cb6-33"><a href="#cb6-33" aria-hidden="true" tabindex="-1"></a>    <span class="at">from =</span> <span class="st">"your-email@gmail.com"</span>,</span>
+<span id="cb6-34"><a href="#cb6-34" aria-hidden="true" tabindex="-1"></a>    <span class="at">to =</span> input<span class="sc">$</span>email,</span>
+<span id="cb6-35"><a href="#cb6-35" aria-hidden="true" tabindex="-1"></a>    <span class="at">subject =</span> <span class="st">"Welcome to the Kenyan Community in Scotland!"</span>,</span>
+<span id="cb6-36"><a href="#cb6-36" aria-hidden="true" tabindex="-1"></a>    <span class="at">credentials =</span> <span class="fu">creds_key</span>(<span class="at">id =</span> <span class="st">"gmail"</span>)</span>
+<span id="cb6-37"><a href="#cb6-37" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb6-38"><a href="#cb6-38" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb6-39"><a href="#cb6-39" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Confirmation message</span></span>
+<span id="cb6-40"><a href="#cb6-40" aria-hidden="true" tabindex="-1"></a>  output<span class="sc">$</span>confirmation <span class="ot">&lt;-</span> <span class="fu">renderText</span>({</span>
+<span id="cb6-41"><a href="#cb6-41" aria-hidden="true" tabindex="-1"></a>    <span class="fu">paste</span>(<span class="st">"Thank you,"</span>, input<span class="sc">$</span>name, <span class="st">"for joining! Please check your email. 📧"</span>)</span>
+<span id="cb6-42"><a href="#cb6-42" aria-hidden="true" tabindex="-1"></a>  })</span>
+<span id="cb6-43"><a href="#cb6-43" aria-hidden="true" tabindex="-1"></a>})</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </div>
 
 
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -824,7 +910,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <div class="social-links">
 <p><a href="https://www.facebook.com/KenyanCommunityInScotland" aria-label="Go to KCIS's Facebook" title="Facebook" target="_blank" rel="noopener"> <i class="fa-brands fa-facebook" aria-label="facebook"></i> </a> <a href="https://x.com/KenyanCommScot" aria-label="Go to KCIS's Twitter (X)" title="Twitter (X)" target="_blank" rel="noopener"> <i class="fa-brands fa-x-twitter" aria-label="x-twitter"></i> </a> <a href="https://www.instagram.com/kenyancommunityinscotland" aria-label="Go to KCIS's Instagram" title="Instagram" target="_blank" rel="noopener"> <i class="fa-brands fa-instagram" aria-label="instagram"></i> </a> <a href="https://www.threads.net/@KenyanCommunityInScotland" aria-label="Go to KCIS's Threads" title="Threads" target="_blank" rel="noopener"> <i class="fa-brands fa-threads" aria-label="threads"></i> </a> <a href="https://www.youtube.com/@kenyancommunityinscotland" aria-label="Go to KCIS's YouTube" title="YouTube" target="_blank" rel="noopener"> <i class="fa-brands fa-youtube" aria-label="youtube"></i> </a> <a href="https://www.tiktok.com/@kenyancommscot" aria-label="Go to KCIS's TikTok" title="TikTok" target="_blank" rel="noopener"> <i class="fa-brands fa-tiktok" aria-label="tiktok"></i> </a> <a href="https://www.linkedin.com/company/kenyancommunityinscotland/" aria-label="Go to KCIS's LinkedIn" title="LinkedIn" target="_blank" rel="noopener"> <i class="fa-brands fa-linkedin" aria-label="linkedin"></i> </a> <a href="https://github.com/kenyancommunityinscotland/" aria-label="Go to KCIS's GitHub" title="GitHub" target="_blank" rel="noopener"> <i class="fa-brands fa-github" aria-label="github"></i> </a></p>
 </div>
-<div class="toc-actions"><ul><li><a href="https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io/edit/main/about.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<div class="toc-actions"><ul><li><a href="https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io/edit/main/join-the-community.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">

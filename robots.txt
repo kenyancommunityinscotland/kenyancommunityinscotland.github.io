@@ -1,1 +1,1 @@
-Sitemap: https://kenyancommunityinscotland.github.io/sitemap.xml
+Sitemap: http://kenyancommunityinscotland.uk/sitemap.xml

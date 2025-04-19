@@ -1,16 +1,72 @@
 [
   {
+    "objectID": "join-the-community.html",
+    "href": "join-the-community.html",
+    "title": "Join the Community",
+    "section": "",
+    "text": "Join the Kenyan Community in Scotland\n\n\nlibrary(shiny)\nlibrary(blastula)\nlibrary(glue)\n\n# UI components\ntextInput(\"name\", \"Full Name:\", placeholder = \"Enter your full name\")\n\n\nFull Name:\n\n\n\ntextInput(\"email\", \"Email Address:\", placeholder = \"Enter your email address\")\n\n\nEmail Address:\n\n\n\nselectInput(\"interest\", \"Area of Interest:\", choices = c(\"Networking\", \"Volunteering\", \"Events\", \"Sponsorship\"))\n\n\nArea of Interest:\n\nNetworking\nVolunteering\nEvents\nSponsorship\n\n\n\n\nactionButton(\"submit\", \"Submit\")\n\nSubmit\n\ntextOutput(\"confirmation\")\n\n\n\n# Server-side logic\nobserveEvent(input$submit, {\n  \n  # Save data\n  entry &lt;- data.frame(\n    name = input$name,\n    email = input$email,\n    interest = input$interest,\n    timestamp = Sys.time()\n  )\n  \n  if (!file.exists(\"community_signups.csv\")) {\n    write.csv(entry, \"community_signups.csv\", row.names = FALSE)\n  } else {\n    write.table(entry, \"community_signups.csv\", append = TRUE, sep = \",\", col.names = FALSE, row.names = FALSE)\n  }\n  \n  # Compose and send welcome email\n  email &lt;- compose_email(\n    body = md(glue(\n      \"Hello {input$name},\\n\\n\",\n      \"Thank you for joining the Kenyan Community in Scotland! 🎉\\n\\n\",\n      \"We are excited to have you onboard.\\n\\n\",\n      \"Stay tuned for upcoming events and activities!\\n\\n\",\n      \"**Your selected area of interest:** {input$interest}\\n\\n\",\n      \"Warm regards,\\n\\n\",\n      \"Kenyan Community in Scotland Team\"\n    ))\n  )\n  \n  smtp_send(\n    email,\n    from = \"your-email@gmail.com\",\n    to = input$email,\n    subject = \"Welcome to the Kenyan Community in Scotland!\",\n    credentials = creds_key(id = \"gmail\")\n  )\n  \n  # Confirmation message\n  output$confirmation &lt;- renderText({\n    paste(\"Thank you,\", input$name, \"for joining! Please check your email. 📧\")\n  })\n})\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A Fantastic Afternoon at Our Networking Mixer\n\n\n\n\n\n\nCommunity\n\n\nNetworking\n\n\nEvents\n\n\n\n\n\n\nJan 14, 2024\n\n\nLinus Chirchir\n\n\n2 min\n\n\n298 words\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#blog",
+    "href": "index.html#blog",
+    "title": "Kenyan Community in Scotland",
+    "section": "Blog",
+    "text": "Blog\n\n\n\n\n\n\n\n\n\n\nA Fantastic Afternoon at Our Networking Mixer\n\n\n\n\n\n\nLinus Chirchir\n\n\nJan 14, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
+    "title": "Kenyan Community in Scotland",
+    "section": "Partners",
+    "text": "Partners"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "kenyancommunityinscotland.github.io",
+    "objectID": "blog/a_fantastic_afternoon_at_our_networking_mixer.html",
+    "href": "blog/a_fantastic_afternoon_at_our_networking_mixer.html",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "On 14 January 2024, the Kenyan Community in Scotland hosted a memorable Networking Mixer at The Foot of The Walk - JD Wetherspoon in Edinburgh. The afternoon was filled with energy, laughter, and meaningful conversations, bringing together a vibrant group of Kenyan professionals and friends.\nA huge thank you to everyone who made time to attend. It was heartwarming to see so many familiar faces and meet new members of our growing community. The positive atmosphere reflected the strength and unity of Kenyans living in Scotland.\n\n\n\n\nLively Networking Sessions: Attendees engaged in dynamic discussions, exchanging ideas, career experiences, and professional insights across diverse industries including healthcare, IT, education, business, and the arts.\nSharing Life in Edinburgh: Many shared personal journeys about settling and thriving in Edinburgh, offering invaluable advice to newcomers.\nStrengthening Community Bonds: Friendships were rekindled and new relationships were formed, reinforcing the importance of staying connected and supporting each other.\nYouth and Family Engagement: It was also wonderful to see younger members of the community present, adding to the joyful and inclusive spirit of the day.\n\n\n\n\n\nOur heartfelt appreciation goes to our venue, The Foot of The Walk - JD Wetherspoon, for providing a welcoming, comfortable, and relaxed environment. The excellent service and cozy setting contributed immensely to the success of the event.\n\n\n\n\nThis mixer was more than just an event; it was a reminder of the strength that lies in community. It highlighted our shared experiences, our aspirations, and the endless possibilities that collaboration brings.\nWe are excited about the future and are already planning more events to continue building a strong, supportive, and thriving Kenyan community network in Scotland.\nStay tuned for announcements on upcoming workshops, social events, and mentorship programs. Together, we are building a brighter future!"
+  },
+  {
+    "objectID": "blog/a_fantastic_afternoon_at_our_networking_mixer.html#event-highlights",
+    "href": "blog/a_fantastic_afternoon_at_our_networking_mixer.html#event-highlights",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
+    "section": "",
+    "text": "Lively Networking Sessions: Attendees engaged in dynamic discussions, exchanging ideas, career experiences, and professional insights across diverse industries including healthcare, IT, education, business, and the arts.\nSharing Life in Edinburgh: Many shared personal journeys about settling and thriving in Edinburgh, offering invaluable advice to newcomers.\nStrengthening Community Bonds: Friendships were rekindled and new relationships were formed, reinforcing the importance of staying connected and supporting each other.\nYouth and Family Engagement: It was also wonderful to see younger members of the community present, adding to the joyful and inclusive spirit of the day."
+  },
+  {
+    "objectID": "blog/a_fantastic_afternoon_at_our_networking_mixer.html#a-special-thanks",
+    "href": "blog/a_fantastic_afternoon_at_our_networking_mixer.html#a-special-thanks",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
+    "section": "",
+    "text": "Our heartfelt appreciation goes to our venue, The Foot of The Walk - JD Wetherspoon, for providing a welcoming, comfortable, and relaxed environment. The excellent service and cozy setting contributed immensely to the success of the event."
+  },
+  {
+    "objectID": "blog/a_fantastic_afternoon_at_our_networking_mixer.html#reflections-and-next-steps",
+    "href": "blog/a_fantastic_afternoon_at_our_networking_mixer.html#reflections-and-next-steps",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
+    "section": "",
+    "text": "This mixer was more than just an event; it was a reminder of the strength that lies in community. It highlighted our shared experiences, our aspirations, and the endless possibilities that collaboration brings.\nWe are excited about the future and are already planning more events to continue building a strong, supportive, and thriving Kenyan community network in Scotland.\nStay tuned for announcements on upcoming workshops, social events, and mentorship programs. Together, we are building a brighter future!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Let’s Connect\nI’m always open to discussing new ideas, collaborating on exciting projects, or simply networking with like-minded professionals. If you have any questions, inquiries, or opportunities, I’d love to hear from you!\n\nEmail:\nReach me directly at linus [at] linuschirchir [dot] com.\n(Replace [at] with @ and [dot] with .)\nConnect with me on social media:\n\nLinkedIn — Let’s network and share professional insights.\nGitHub — Check out my latest projects and contributions.\nFacebook — Stay connected for updates and discussions.\nTwitter (X) — Follow me for thoughts on data, AI, and beyond.\n\n\nWhether it’s for collaboration, advice, or simply to say hello, I’m looking forward to connecting with you. Don’t hesitate to reach out—I’m always eager to engage with new ideas and opportunities!\n\n\n\n\n\n Back to top"
   }
 ]
