@@ -1,0 +1,67 @@
+---
+title: "Join the Community"
+format: html
+execute:
+  shiny: true
+---
+
+# Join the Kenyan Community in Scotland
+
+::: {.cell}
+```{r}
+library(shiny)
+library(blastula)
+library(glue)
+
+# UI components
+textInput("name", "Full Name:", placeholder = "Enter your full name")
+textInput("email", "Email Address:", placeholder = "Enter your email address")
+selectInput("interest", "Area of Interest:", choices = c("Networking", "Volunteering", "Events", "Sponsorship"))
+actionButton("submit", "Submit")
+textOutput("confirmation")
+
+# Server-side logic
+observeEvent(input$submit, {
+  
+  # Save data
+  entry <- data.frame(
+    name = input$name,
+    email = input$email,
+    interest = input$interest,
+    timestamp = Sys.time()
+  )
+  
+  if (!file.exists("community_signups.csv")) {
+    write.csv(entry, "community_signups.csv", row.names = FALSE)
+  } else {
+    write.table(entry, "community_signups.csv", append = TRUE, sep = ",", col.names = FALSE, row.names = FALSE)
+  }
+  
+  # Compose and send welcome email
+  email <- compose_email(
+    body = md(glue(
+      "Hello {input$name},\n\n",
+      "Thank you for joining the Kenyan Community in Scotland! 🎉\n\n",
+      "We are excited to have you onboard.\n\n",
+      "Stay tuned for upcoming events and activities!\n\n",
+      "**Your selected area of interest:** {input$interest}\n\n",
+      "Warm regards,\n\n",
+      "Kenyan Community in Scotland Team"
+    ))
+  )
+  
+  smtp_send(
+    email,
+    from = "your-email@gmail.com",
+    to = input$email,
+    subject = "Welcome to the Kenyan Community in Scotland!",
+    credentials = creds_key(id = "gmail")
+  )
+  
+  # Confirmation message
+  output$confirmation <- renderText({
+    paste("Thank you,", input$name, "for joining! Please check your email. 📧")
+  })
+})
+```
+:::

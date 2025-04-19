@@ -1,0 +1,29 @@
+---
+title: "Page Not Found"
+description: "Sorry, the page you're looking for doesn't exist."
+page-layout: full
+format:
+  html:
+    title-block-banner: true
+    title-block-banner-color: "#006400"
+---
+
+# Oops! Page Not Found (404)
+
+It looks like the page you were trying to reach doesn't exist or may have been moved.
+
+[Return to Home](/)  
+or  
+[Explore Our Events](/events.qmd)
+
+---
+
+![Friendly lion looking lost](https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg){width="400px" fig-align="center" fig-alt="Friendly lion looking lost"}
+
+---
+
+> _Proudly connecting Kenyans across Scotland, United Kingdom._  
+> 
+> ![Kenyan Flag](/images/kenyan_flag.svg){width=30px}
+> ![Scottish Flag](/images/scottish_flag.svg){width=30px}
+> ![UK Flag](/images/uk_flag.svg){width=30px}

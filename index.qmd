@@ -1,11 +1,80 @@
 ---
-title: "kenyancommunityinscotland.github.io"
+pagetitle: "Kenyan Community in Scotland"
+page-layout: full
+search: true
+image: /images/cultural_festival.JPG
+image-alt: "Maasai Cultural Festival"
+repo-actions: [edit, issue]
+comments: 
+  giscus: 
+    repo: kenyancommunityinscotland/kenyancommunityinscotland.github.io
+
+about:
+  template: solana
+  image-width: 32em
+  id: hero-heading
+
+listing:
+  - id: books
+    contents: 
+    - /books
+    - "!books/index.qmd"
+    sort: "title"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+    
+  - id: blog
+    contents: 
+    - /blog
+    - "!blog/index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
 ---
 
-This is a Quarto website.
+<br><br>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {#hero-heading}
+### Empowering the Kenyan Community Across Scotland
 
-```{r}
-1 + 1
-```
+Fostering unity, growth, and opportunity for Kenyans living in Scotland through community engagement, culture, and support. Be part of a growing movement: connect, contribute, and make an impact today!
+
+::: hero-buttons
+[Join the Community](join-the-community.qmd){.btn .btn-lg .btn-primary role="button"} [Volunteer or Partner](volunteer-or-partner.qmd){.btn .btn-lg .btn-primary role="button"}
+:::
+
+:::
+
+## [Blog](blog/index.qmd)
+
+::: {#blog}
+:::
+
+::: footer-text
+::: {.footer-container .white-background}
+::: footer-block
+::: grid
+::: {.g-col-12 .g-col-md-2}
+
+## [Partners](partners.qmd){aria-label="Information about how to support Kenyan Community in Scotland"}
+:::
+
+::: {.g-col-12 .g-col-md-2}
+[![](/images/high_commision.JPG){fig-alt="The Kenya High Commission UK" fig-align="left" width="80"}](https://www.kenyahighcom.org.uk/)
+:::
+
+::: {.g-col-12 .g-col-md-2}
+[![](/images/edinburgh_di.jpg){fig-alt="City of Edinburgh Council – Diversity and Inclusion Office" fig-align="left" width="115"}](https://www.edinburgh.gov.uk/work-us/equal-opportunities)
+:::
+:::
+:::
+:::
+:::

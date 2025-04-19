@@ -2,18 +2,129 @@ project:
   type: website
 
 website:
-  title: "kenyancommunityinscotland.github.io"
+  title: "Kenyan Community in Scotland"
+  description: "A hub for Kenyans across Scotland, United Kingdom"
+  site-url: http://kenyancommunityinscotland.uk/
+  page-navigation: true
+  back-to-top-navigation: true
+  favicon: /images/logo.png
+  repo-url: https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io
+  repo-actions: [edit, issue]
+  google-analytics: "G-XP3CL76VVS" # Remember to disable during development if forking
   navbar:
+    toggle-position: right
+    logo-href: http://kenyancommunityinscotland.uk/
+    logo: /images/logo.png
+    logo-alt: "Kenyan Community in Scotland Logo"
+    title: false
+    collapse-below: lg
+    right:
+    - icon: facebook
+      href: https://www.facebook.com/KenyanCommunityInScotland
+      target: _blank
+    - icon: twitter-x
+      href: https://x.com/KenyanCommScot
+      target: _blank
+    - icon: instagram
+      href: https://www.instagram.com/kenyancommunityinscotland
+      target: _blank
+    - icon: threads
+      href: https://www.threads.net/@KenyanCommunityInScotland
+      target: _blank
+    - icon: youtube
+      href: https://www.youtube.com/@kenyancommunityinscotland
+      target: _blank
+    - icon: tiktok
+      href: https://www.tiktok.com/@kenyancommscot
+      target: _blank
+    - icon: linkedin
+      href: https://www.linkedin.com/company/kenyancommunityinscotland
+    - icon: github
+      href: https://github.com/kenyancommunityinscotland/
+      target: _blank
+
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+        aria-label: Home Page
+      - text: "About"
+        href: about.qmd
+        aria-label: About Page
+      - text: Events
+        href: events.qmd
+        aria-label: Events Page
+      - text: "Blog"
+        href: blog/index.qmd
+        aria-label: Blog Page
+      - text: "Contact"
+        href: contact.qmd
+        aria-label: Contact Page
+      - text: "Join Us"
+        href: join-the-community.qmd
+        aria-label: Join Us page
+
+  page-footer:
+    left: >-
+     {{< now year >}} Kenyan Community in Scotland &#8729; Made with [![Quarto](https://quarto.org/quarto.png){fig-alt="Quarto logo blue round circle with a cross within the circumference" width=65px}](https://quarto.org/)
+# The now year is from a Quarto extension https://www.garrickadenbuie.com/blog/quarto-now/
+    center: |
+      <div class="social-links">
+      <a href="https://www.facebook.com/KenyanCommunityInScotland" aria-label="Go to KCIS's Facebook" title="Facebook" target="_blank" rel="noopener">
+        {{< fa brands facebook >}}
+        </a>
+        <a href="https://x.com/KenyanCommScot" aria-label="Go to KCIS's Twitter (X)" title="Twitter (X)" target="_blank" rel="noopener">
+        {{< fa brands x-twitter >}}
+        </a>
+      <a href="https://www.instagram.com/kenyancommunityinscotland" aria-label="Go to KCIS's Instagram" title="Instagram" target="_blank" rel="noopener">
+        {{< fa brands instagram >}}
+        </a>
+      <a href="https://www.threads.net/@KenyanCommunityInScotland" aria-label="Go to KCIS's Threads" title="Threads" target="_blank" rel="noopener">
+        {{< fa brands threads >}}
+        </a>
+      <a href="https://www.youtube.com/@kenyancommunityinscotland" aria-label="Go to KCIS's YouTube" title="YouTube" target="_blank" rel="noopener">
+        {{< fa brands youtube >}}
+        </a>
+        <a href="https://www.tiktok.com/@kenyancommscot" aria-label="Go to KCIS's TikTok" title="TikTok" target="_blank" rel="noopener">
+        {{< fa brands tiktok >}}
+        </a>
+        <a href="https://www.linkedin.com/company/kenyancommunityinscotland/" aria-label="Go to KCIS's LinkedIn" title="LinkedIn" target="_blank" rel="noopener">
+        {{< fa brands linkedin >}}
+        </a>
+        <a href="https://github.com/kenyancommunityinscotland/" aria-label="Go to KCIS's GitHub" title="GitHub" target="_blank" rel="noopener">
+        {{< fa brands github >}}
+        </a>
+      </div>
+
+    right:
+      - text: "Accessibility"
+        href: accessibility.qmd
+        aria-label: Accessibility Commitment
+      - text: "Terms and Conditions"
+        href: ts-and-cs.qmd
+        aria-label: Terms and Conditions
+      - text: "Contact"
+        href: contact.qmd
+        aria-label: Contacts on About Page
+      - text: "Licence"
+        href: licence.qmd
+        aria-label: Licence Details
+      - icon: rss
+        href: blog/index.xml
+        aria-label: RSS blog feed
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme:
+      light:
+        - assets/font.scss
+        - assets/light.scss
+      dark:
+        - assets/font.scss
+        - assets/dark.scss
+    css: assets/styles.css
+    code-link: true
+    link-external-newwindow: true
 
-
-
+execute:
+  freeze: true
+  warning: false
