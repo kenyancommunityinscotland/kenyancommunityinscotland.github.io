@@ -5,10 +5,8 @@ execute:
   shiny: true
 ---
 
-# Join the Kenyan Community in Scotland
-
 ::: {.cell}
-```{r}
+```{r setup, include=FALSE}
 library(shiny)
 library(blastula)
 library(glue)

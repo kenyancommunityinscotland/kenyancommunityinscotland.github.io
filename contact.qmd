@@ -1,24 +1,59 @@
 ---
-title: Contact
+title: "Contact Us"
+page-layout: full
 ---
 
----
+# Get in Touch
 
-### Let's Connect
+We would love to hear from you! Whether you have a question, feedback, or are interested in joining or partnering with the Kenyan Community in Scotland, feel free to reach out.
 
-I’m always open to discussing new ideas, collaborating on exciting projects, or simply networking with like-minded professionals. If you have any questions, inquiries, or opportunities, I’d love to hear from you!
+## Contact Information
 
-- **Email**:  
-  Reach me directly at **linus [at] linuschirchir [dot] com**.  
-  *(Replace [at] with @ and [dot] with .)*
+📧 **Email:** [info@kenyancommunityinscotland.uk](mailto:info@kenyancommunityinscotland.uk)
 
-- **Connect with me on social media**:
+🌐 **Website:** [kenyancommunityinscotland.uk](https://kenyancommunityinscotland.uk)
 
-  - [LinkedIn](https://www.linkedin.com/in/LinusChirchir/) — Let’s network and share professional insights.
-  - [GitHub](https://github.com/LinusChirchir) — Check out my latest projects and contributions.
-  - [Facebook](https://facebook.com/ChirchirLinus1) — Stay connected for updates and discussions.
-  - [Twitter (X)](https://x.com/LinusChirchir) — Follow me for thoughts on data, AI, and beyond.
+## Connect with Us
 
-Whether it’s for collaboration, advice, or simply to say hello, I’m looking forward to connecting with you. Don’t hesitate to reach out—I’m always eager to engage with new ideas and opportunities!
+Stay updated with our latest news, events, and community activities by connecting with us on social media. Follow our official accounts to learn about upcoming cultural festivals, community gatherings, professional networking opportunities, and important updates that matter to the Kenyan community living in Scotland. Our platforms also provide a space to celebrate our achievements, share our stories, and support one another.
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 1.2em; flex-wrap: wrap; font-size: 2em;">
+
+<a href="https://www.facebook.com/KenyanCommunityInScotland" aria-label="Go to KCIS's Facebook" title="Facebook" target="_blank" rel="noopener">
+{{< fa brands facebook >}}
+</a>
+<a href="https://x.com/KenyanCommScot" aria-label="Go to KCIS's Twitter (X)" title="Twitter (X)" target="_blank" rel="noopener">
+{{< fa brands x-twitter >}}
+</a>
+<a href="https://www.instagram.com/kenyancommunityinscotland" aria-label="Go to KCIS's Instagram" title="Instagram" target="_blank" rel="noopener">
+{{< fa brands instagram >}}
+</a>
+<a href="https://www.threads.net/@KenyanCommunityInScotland" aria-label="Go to KCIS's Threads" title="Threads" target="_blank" rel="noopener">
+{{< fa brands threads >}}
+</a>
+<a href="https://www.youtube.com/@kenyancommunityinscotland" aria-label="Go to KCIS's YouTube" title="YouTube" target="_blank" rel="noopener">
+{{< fa brands youtube >}}
+</a>
+<a href="https://www.tiktok.com/@kenyancommscot" aria-label="Go to KCIS's TikTok" title="TikTok" target="_blank" rel="noopener">
+{{< fa brands tiktok >}}
+</a>
+<a href="https://www.linkedin.com/company/kenyancommunityinscotland/" aria-label="Go to KCIS's LinkedIn" title="LinkedIn" target="_blank" rel="noopener">
+{{< fa brands linkedin >}}
+</a>
+<a href="https://github.com/kenyancommunityinscotland/" aria-label="Go to KCIS's GitHub" title="GitHub" target="_blank" rel="noopener">
+{{< fa brands github >}}
+</a>
+
+</div>
+
+## Visit Us
+
+We occasionally host community events, meetups, and cultural festivals across Scotland. Keep an eye on our [Events page](events/index.qmd) for upcoming gatherings!
+
+## Feedback
+
+Your feedback helps us grow and serve you better. Feel free to share your suggestions and ideas by sending an email or filling out our upcoming feedback form.
+
+We look forward to connecting with you!
 
 ---

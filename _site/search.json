@@ -58,9 +58,9 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Contact Us",
     "section": "",
-    "text": "Let’s Connect\nI’m always open to discussing new ideas, collaborating on exciting projects, or simply networking with like-minded professionals. If you have any questions, inquiries, or opportunities, I’d love to hear from you!\n\nEmail:\nReach me directly at linus [at] linuschirchir [dot] com.\n(Replace [at] with @ and [dot] with .)\nConnect with me on social media:\n\nLinkedIn — Let’s network and share professional insights.\nGitHub — Check out my latest projects and contributions.\nFacebook — Stay connected for updates and discussions.\nTwitter (X) — Follow me for thoughts on data, AI, and beyond.\n\n\nWhether it’s for collaboration, advice, or simply to say hello, I’m looking forward to connecting with you. Don’t hesitate to reach out—I’m always eager to engage with new ideas and opportunities!\n\n\n\n\n\n Back to top"
+    "text": "We would love to hear from you! Whether you have a question, feedback, or are interested in joining or partnering with the Kenyan Community in Scotland, feel free to reach out.\n\n\n📧 Email: info@kenyancommunityinscotland.uk\n🌐 Website: kenyancommunityinscotland.uk\n\n\n\nStay updated with our latest news, events, and community activities by connecting with us on social media. Follow our official accounts to learn about upcoming cultural festivals, community gatherings, professional networking opportunities, and important updates that matter to the Kenyan community living in Scotland. Our platforms also provide a space to celebrate our achievements, share our stories, and support one another.\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\n\nWe occasionally host community events, meetups, and cultural festivals across Scotland. Keep an eye on our Events page for upcoming gatherings!\n\n\n\nYour feedback helps us grow and serve you better. Feel free to share your suggestions and ideas by sending an email or filling out our upcoming feedback form.\nWe look forward to connecting with you!"
   },
   {
     "objectID": "join-the-community.html",
@@ -102,7 +102,7 @@
     "href": "about.html#get-involved",
     "title": "About US",
     "section": "Get Involved",
-    "text": "Get Involved\nWhether you are new to Scotland or have called it home for years, we invite you to join us.\nTogether, we can build a community that uplifts every member and celebrates the best of who we are.\n👉 Join the Community\n👉 Volunteer or Partner\n\n\nConnecting Roots and Building Futures"
+    "text": "Get Involved\nWhether you are new to Scotland or have called it home for years, we invite you to join us.\nTogether, we can build a community that uplifts every member and celebrates the best of who we are.\n👉 Join the Community\n👉 Partner with US\n\n\nConnecting Roots and Building Futures"
   },
   {
     "objectID": "join.html",
@@ -410,27 +410,55 @@
     "href": "partner-with-us.html",
     "title": "Partner with Us",
     "section": "",
-    "text": "We warmly invite organizations, businesses, and institutions to partner with the Kenyan Community in Scotland.\n\n\n\nSupport vibrant cultural and professional initiatives.\nConnect with a dynamic, diverse, and engaged community.\nContribute to building a stronger Kenyan-Scottish relationship.\n\n\n\n\n\nSponsor events and cultural programs.\nProvide mentorship and training opportunities.\nCollaborate on community development projects.\n\n\n\n\nInterested in partnering with us?\n👉 Please contact us to start the conversation!\nTogether, we can build a brighter future."
+    "text": "We warmly invite organizations, businesses, and institutions to partner with the Kenyan Community in Scotland."
   },
   {
     "objectID": "partner-with-us.html#why-partner-with-us",
     "href": "partner-with-us.html#why-partner-with-us",
     "title": "Partner with Us",
-    "section": "",
-    "text": "Support vibrant cultural and professional initiatives.\nConnect with a dynamic, diverse, and engaged community.\nContribute to building a stronger Kenyan-Scottish relationship."
+    "section": "Why Partner with Us?",
+    "text": "Why Partner with Us?\n\nSupport vibrant cultural and professional initiatives.\nConnect with a dynamic, diverse, and engaged community.\nContribute to building a stronger Kenyan-Scottish relationship."
   },
   {
     "objectID": "partner-with-us.html#how-you-can-partner",
     "href": "partner-with-us.html#how-you-can-partner",
     "title": "Partner with Us",
-    "section": "",
-    "text": "Sponsor events and cultural programs.\nProvide mentorship and training opportunities.\nCollaborate on community development projects."
+    "section": "How You Can Partner",
+    "text": "How You Can Partner\n\nSponsor events and cultural programs.\nProvide mentorship and training opportunities.\nCollaborate on community development projects."
   },
   {
     "objectID": "partner-with-us.html#get-in-touch",
     "href": "partner-with-us.html#get-in-touch",
     "title": "Partner with Us",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nInterested in partnering with us?\n👉 Please contact us to start the conversation!\nTogether, we can build a brighter future."
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact Us",
     "section": "",
-    "text": "Interested in partnering with us?\n👉 Please contact us to start the conversation!\nTogether, we can build a brighter future."
+    "text": "📧 Email: info@kenyancommunityinscotland.uk\n🌐 Website: kenyancommunityinscotland.uk"
+  },
+  {
+    "objectID": "contact.html#connect-with-us",
+    "href": "contact.html#connect-with-us",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Stay updated with our latest news, events, and community activities by connecting with us on social media. Follow our official accounts to learn about upcoming cultural festivals, community gatherings, professional networking opportunities, and important updates that matter to the Kenyan community living in Scotland. Our platforms also provide a space to celebrate our achievements, share our stories, and support one another."
+  },
+  {
+    "objectID": "contact.html#visit-us",
+    "href": "contact.html#visit-us",
+    "title": "Contact Us",
+    "section": "",
+    "text": "We occasionally host community events, meetups, and cultural festivals across Scotland. Keep an eye on our Events page for upcoming gatherings!"
+  },
+  {
+    "objectID": "contact.html#feedback",
+    "href": "contact.html#feedback",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Your feedback helps us grow and serve you better. Feel free to share your suggestions and ideas by sending an email or filling out our upcoming feedback form.\nWe look forward to connecting with you!"
   }
 ]
