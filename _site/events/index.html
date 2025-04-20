@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Discover and participate in events organized by the Kenyan Community in Scotland.">
 
-<title>Contact – Kenyan Community in Scotland</title>
+<title>Events – Kenyan Community in Scotland</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,29 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//images/logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="..//images/logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-author','listing-categories','listing-date','listing-word-count','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-XP3CL76VVS"></script>
 
 <script type="text/javascript">
@@ -81,11 +113,40 @@ gtag('js', new Date());
 gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="assets/styles.css">
-</head>
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
-<body class="nav-fixed fullcontent">
+<link rel="stylesheet" href="../assets/styles.css">
+<link rel="alternate" type="application/rss+xml" title="Kenyan Community in Scotland" href="index.xml" data-external="1"></head>
+
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -93,7 +154,7 @@ gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="http://kenyancommunityinscotland.uk/" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo.png" alt="Kenyan Community in Scotland Logo" class="navbar-logo">
+    <img src="../images/logo.png" alt="Kenyan Community in Scotland Logo" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -103,43 +164,43 @@ gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./join.html"> 
+    <a class="nav-link" href="../join.html"> 
 <span class="menu-text">Join</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./volunteer.html"> 
+    <a class="nav-link" href="../volunteer.qmd"> 
 <span class="menu-text">Volunteer</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./partner.html"> 
+    <a class="nav-link" href="../partner.html"> 
 <span class="menu-text">Partner</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./events/index.html"> 
+    <a class="nav-link active" href="../events/index.html" aria-current="page"> 
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news/index.html"> 
+    <a class="nav-link" href="../news/index.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html"> 
+    <a class="nav-link" href="../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources/index.html"> 
+    <a class="nav-link" href="../resources/index.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./gallery/index.html"> 
+    <a class="nav-link" href="../gallery/index.html"> 
 <span class="menu-text">Gallery</span></a>
   </li>  
 </ul>
@@ -193,21 +254,28 @@ gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Contact</h1>
+<h1 class="title">Events</h1>
+</div>
+
+<div>
+  <div class="description">
+    <p>Discover and participate in events organized by the Kenyan Community in Scotland.</p>
+  </div>
 </div>
 
 
-
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -219,29 +287,18 @@ gtag('config', 'G-XP3CL76VVS', { 'anonymize_ip': true});
 </header>
 
 
-<hr>
-<section id="lets-connect" class="level3">
-<h3 class="anchored" data-anchor-id="lets-connect">Let’s Connect</h3>
-<p>I’m always open to discussing new ideas, collaborating on exciting projects, or simply networking with like-minded professionals. If you have any questions, inquiries, or opportunities, I’d love to hear from you!</p>
-<ul>
-<li><p><strong>Email</strong>:<br>
-Reach me directly at <strong>linus [at] linuschirchir [dot] com</strong>.<br>
-<em>(Replace [at] with @ and [dot] with .)</em></p></li>
-<li><p><strong>Connect with me on social media</strong>:</p>
-<ul>
-<li><a href="https://www.linkedin.com/in/LinusChirchir/">LinkedIn</a> — Let’s network and share professional insights.</li>
-<li><a href="https://github.com/LinusChirchir">GitHub</a> — Check out my latest projects and contributions.</li>
-<li><a href="https://facebook.com/ChirchirLinus1">Facebook</a> — Stay connected for updates and discussions.</li>
-<li><a href="https://x.com/LinusChirchir">Twitter (X)</a> — Follow me for thoughts on data, AI, and beyond.</li>
-</ul></li>
-</ul>
-<p>Whether it’s for collaboration, advice, or simply to say hello, I’m looking forward to connecting with you. Don’t hesitate to reach out—I’m always eager to engage with new ideas and opportunities!</p>
-<hr>
 
 
-</section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -821,31 +878,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <div class="social-links">
 <p><a href="https://www.facebook.com/KenyanCommunityInScotland" aria-label="Go to KCIS's Facebook" title="Facebook" target="_blank" rel="noopener"> <i class="fa-brands fa-facebook" aria-label="facebook"></i> </a> <a href="https://x.com/KenyanCommScot" aria-label="Go to KCIS's Twitter (X)" title="Twitter (X)" target="_blank" rel="noopener"> <i class="fa-brands fa-x-twitter" aria-label="x-twitter"></i> </a> <a href="https://www.instagram.com/kenyancommunityinscotland" aria-label="Go to KCIS's Instagram" title="Instagram" target="_blank" rel="noopener"> <i class="fa-brands fa-instagram" aria-label="instagram"></i> </a> <a href="https://www.threads.net/@KenyanCommunityInScotland" aria-label="Go to KCIS's Threads" title="Threads" target="_blank" rel="noopener"> <i class="fa-brands fa-threads" aria-label="threads"></i> </a> <a href="https://www.youtube.com/@kenyancommunityinscotland" aria-label="Go to KCIS's YouTube" title="YouTube" target="_blank" rel="noopener"> <i class="fa-brands fa-youtube" aria-label="youtube"></i> </a> <a href="https://www.tiktok.com/@kenyancommscot" aria-label="Go to KCIS's TikTok" title="TikTok" target="_blank" rel="noopener"> <i class="fa-brands fa-tiktok" aria-label="tiktok"></i> </a> <a href="https://www.linkedin.com/company/kenyancommunityinscotland/" aria-label="Go to KCIS's LinkedIn" title="LinkedIn" target="_blank" rel="noopener"> <i class="fa-brands fa-linkedin" aria-label="linkedin"></i> </a> <a href="https://github.com/kenyancommunityinscotland/" aria-label="Go to KCIS's GitHub" title="GitHub" target="_blank" rel="noopener"> <i class="fa-brands fa-github" aria-label="github"></i> </a></p>
 </div>
-<div class="toc-actions"><ul><li><a href="https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io/edit/main/contact.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+<div class="toc-actions"><ul><li><a href="https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io/edit/main/events/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="./accessibility.qmd">
+    <a class="nav-link" href="../accessibility.qmd">
 <p>Accessibility</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./ts-and-cs.qmd">
+    <a class="nav-link" href="../ts-and-cs.qmd">
 <p>Terms and Conditions</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link active" href="./contact.html" aria-current="page">
+    <a class="nav-link" href="../contact.html">
 <p>Contact</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./licence.html">
+    <a class="nav-link" href="../licence.html">
 <p>Licence</p>
 </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="./blog/index.xml">
+    <a class="nav-link" href="../blog/index.xml">
       <i class="bi bi-rss" role="img" aria-label="RSS blog feed">
 </i> 
     </a>

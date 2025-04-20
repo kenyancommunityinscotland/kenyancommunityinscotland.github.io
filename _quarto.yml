@@ -44,24 +44,36 @@ website:
       target: _blank
 
     left:
-      - text: Home
+      - text: "Home"
         href: index.qmd
-        aria-label: Home Page
+        aria-label: "Homepage of the Kenyan Community in Scotland"
       - text: "About"
         href: about.qmd
-        aria-label: About Page
-      - text: Events
-        href: events.qmd
-        aria-label: Events Page
+        aria-label: "Learn more about the Kenyan Community in Scotland"
+      - text: "Join"
+        href: join.qmd
+        aria-label: "Join the Kenyan Community in Scotland"
+      - text: "Volunteer"
+        href: volunteer.qmd
+        aria-label: "Volunteer opportunities with the Kenyan Community in Scotland"
+      - text: "Partner"
+        href: partner-with-us.qmd
+        aria-label: "Partner with the Kenyan Community in Scotland"
+      - text: "Events"
+        href: events/index.qmd
+        aria-label: "View upcoming and past events by the Kenyan Community in Scotland"
+      - text: "News"
+        href: news/index.qmd
+        aria-label: "Latest news and updates from the Kenyan Community in Scotland"
       - text: "Blog"
         href: blog/index.qmd
-        aria-label: Blog Page
-      - text: "Contact"
-        href: contact.qmd
-        aria-label: Contact Page
-      - text: "Join Us"
-        href: join-the-community.qmd
-        aria-label: Join Us page
+        aria-label: "Community blog posts and reflections"
+      - text: "Resources"
+        href: resources/index.qmd
+        aria-label: "Helpful resources and guides for Kenyans living in Scotland"
+      - text: "Gallery"
+        href: gallery/index.qmd
+        aria-label: "Photo gallery of Kenyan Community events in Scotland"
 
   page-footer:
     left: >-

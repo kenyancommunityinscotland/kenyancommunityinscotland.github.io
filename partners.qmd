@@ -1,0 +1,30 @@
+---
+title: "Our Partners"
+page-layout: full
+---
+
+The Kenyan Community in Scotland is proud to have received support from various organizations **featured on our homepage** that share our mission of unity, growth, and opportunity.
+
+We sincerely thank our partners for their ongoing collaboration and encouragement.
+
+---
+
+## Why Partnerships Matter
+
+Our partnerships help us to:
+
+- Deliver meaningful cultural events
+- Empower community development initiatives
+- Strengthen ties between Kenyans and Scottish communities
+
+## Join Our Growing Network
+
+::: {.callout-note}
+Would your organization like to join this growing network of supporters?
+
+👉 [Partner with Us](partner-with-us.qmd){.btn .btn-primary .btn-lg role="button" aria-label="Partner with the Kenyan Community in Scotland"}
+
+Together, we can build a stronger future for our community!
+:::
+
+---

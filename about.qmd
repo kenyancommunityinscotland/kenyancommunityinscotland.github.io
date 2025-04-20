@@ -1,9 +1,40 @@
 ---
-title: "About"
+title: "About US"
 ---
 
-About this site
+The **Kenyan Community in Scotland** is a vibrant, welcoming network dedicated to connecting, supporting, and empowering Kenyans living across Scotland. 
 
-```{r}
-1 + 1
-```
+Founded with the vision of fostering a strong, inclusive community, we aim to celebrate our rich Kenyan heritage while promoting integration, collaboration, and success within Scottish society.
+
+## Our Mission
+
+- To create a platform where Kenyans in Scotland can connect, share, and grow together.
+- To promote cultural exchange, understanding, and appreciation between Kenyans and the wider Scottish community.
+- To support members through professional networking, mentorship, social events, and community service initiatives.
+
+## Our Vision
+
+We envision a thriving Kenyan diaspora in Scotland that remains deeply connected to its roots while actively contributing to the social, cultural, and economic fabric of Scottish society.
+
+## What We Do
+
+- **Community Events**: Organizing cultural celebrations, professional mixers, workshops, and family gatherings.
+- **Support and Advocacy**: Offering resources, peer support, and advocacy for newcomers and long-term residents alike.
+- **Partnerships**: Collaborating with organizations, businesses, and institutions to create opportunities for our members.
+- **Youth Engagement**: Inspiring and mentoring the next generation of Kenyan-Scots.
+
+## Get Involved
+
+Whether you are new to Scotland or have called it home for years, we invite you to join us.  
+Together, we can build a community that uplifts every member and celebrates the best of who we are.
+
+👉 [Join the Community](/join-the-community.qmd)  
+👉 [Volunteer or Partner](/volunteer.qmd)
+
+---
+
+> _Connecting Roots and Building Futures_  
+> 
+> ![Kenyan Flag](/images/kenyan_flag.svg){width=30px}
+> ![Scottish Flag](/images/scottish_flag.svg){width=30px}
+> ![UK Flag](/images/uk_flag.svg){width=30px}

@@ -1,0 +1,20 @@
+---
+title: "Gallery"
+description: |
+  Explore moments captured from our events and celebrations.
+listing: 
+  sort: "date desc"
+  type: grid
+  categories: false
+  image-placeholder: /images/logo.png
+  sort-ui: false
+  filter-ui: false
+  fields: [image, title, categories, date]
+  page-size: 6
+  feed: false
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+citation: false
+---

@@ -1,0 +1,8 @@
+---
+title: "Kenyan Community Networking Mixer"
+date: 2025-05-01
+categories: [Events]
+image: /images/networking_event.jpg
+---
+
+Join us for an afternoon of networking, learning, and connection in Edinburgh! All members are welcome.

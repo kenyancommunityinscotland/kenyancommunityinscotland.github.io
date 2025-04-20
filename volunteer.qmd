@@ -1,0 +1,35 @@
+---
+title: "Volunteer with US"
+page-layout: full
+---
+
+We believe that building a strong community starts with passionate individuals who are willing to give their time, skills, and energy. Whether you are looking to make a difference, meet new people, or share your expertise, we welcome you to volunteer with us!
+
+## Why Volunteer?
+
+- **Make a Positive Impact**: Help foster a vibrant, supportive Kenyan community in Scotland.
+- **Develop New Skills**: Gain experience in event management, community outreach, mentoring, and more.
+- **Build Connections**: Meet fellow Kenyans and friends of Kenya living across Scotland.
+
+## Volunteer Opportunities
+
+We offer a range of volunteering opportunities, including:
+
+- **Event Support**: Assist with planning and organizing cultural festivals, networking events, and family days.
+- **Community Outreach**: Help us connect with new members and promote community engagement.
+- **Mentorship Programs**: Share your knowledge and experience to support students, professionals, and families.
+- **Content Creation**: Help us create blogs, newsletters, social media content, and more.
+
+No matter your skills or background, there is a place for you in our community!
+
+## How to Get Involved
+
+Ready to make a difference?
+
+👉 [Sign Up to Volunteer](#){.btn .btn-primary .btn-lg role="button" aria-label="Sign up to volunteer with the Kenyan Community in Scotland"}
+
+Or email us directly at [info@kenyancommunityinscotland.uk](mailto:info@kenyancommunityinscotland.uk)
+
+We can't wait to welcome you to the team!
+
+---

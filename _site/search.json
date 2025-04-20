@@ -16,9 +16,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About US",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "The Kenyan Community in Scotland is a vibrant, welcoming network dedicated to connecting, supporting, and empowering Kenyans living across Scotland.\nFounded with the vision of fostering a strong, inclusive community, we aim to celebrate our rich Kenyan heritage while promoting integration, collaboration, and success within Scottish society."
   },
   {
     "objectID": "blog/a_fantastic_afternoon_at_our_networking_mixer.html",
@@ -68,5 +68,369 @@
     "title": "Join the Community",
     "section": "",
     "text": "Join the Kenyan Community in Scotland\n\n\nlibrary(shiny)\nlibrary(blastula)\nlibrary(glue)\n\n# UI components\ntextInput(\"name\", \"Full Name:\", placeholder = \"Enter your full name\")\n\n\nFull Name:\n\n\n\ntextInput(\"email\", \"Email Address:\", placeholder = \"Enter your email address\")\n\n\nEmail Address:\n\n\n\nselectInput(\"interest\", \"Area of Interest:\", choices = c(\"Networking\", \"Volunteering\", \"Events\", \"Sponsorship\"))\n\n\nArea of Interest:\n\nNetworking\nVolunteering\nEvents\nSponsorship\n\n\n\n\nactionButton(\"submit\", \"Submit\")\n\nSubmit\n\ntextOutput(\"confirmation\")\n\n\n\n# Server-side logic\nobserveEvent(input$submit, {\n  \n  # Save data\n  entry &lt;- data.frame(\n    name = input$name,\n    email = input$email,\n    interest = input$interest,\n    timestamp = Sys.time()\n  )\n  \n  if (!file.exists(\"community_signups.csv\")) {\n    write.csv(entry, \"community_signups.csv\", row.names = FALSE)\n  } else {\n    write.table(entry, \"community_signups.csv\", append = TRUE, sep = \",\", col.names = FALSE, row.names = FALSE)\n  }\n  \n  # Compose and send welcome email\n  email &lt;- compose_email(\n    body = md(glue(\n      \"Hello {input$name},\\n\\n\",\n      \"Thank you for joining the Kenyan Community in Scotland! 🎉\\n\\n\",\n      \"We are excited to have you onboard.\\n\\n\",\n      \"Stay tuned for upcoming events and activities!\\n\\n\",\n      \"**Your selected area of interest:** {input$interest}\\n\\n\",\n      \"Warm regards,\\n\\n\",\n      \"Kenyan Community in Scotland Team\"\n    ))\n  )\n  \n  smtp_send(\n    email,\n    from = \"your-email@gmail.com\",\n    to = input$email,\n    subject = \"Welcome to the Kenyan Community in Scotland!\",\n    credentials = creds_key(id = \"gmail\")\n  )\n  \n  # Confirmation message\n  output$confirmation &lt;- renderText({\n    paste(\"Thank you,\", input$name, \"for joining! Please check your email. 📧\")\n  })\n})\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "licence.html",
+    "href": "licence.html",
+    "title": "Licence",
+    "section": "",
+    "text": "Opinions and views expressed on this website represent those of the Kenyan Community in Scotland and do not necessarily reflect the official stance of any affiliated institutions, employers, or partners.\nAll content published on kenyancommunityinscotland.uk is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.\nYou are free to:\n\nShare - Copy and redistribute the material in any medium or format.\nAdapt - Remix, transform, and build upon the material.\n\nUnder the following terms:\n\nAttribution - You must give appropriate credit, provide a link to the license, and indicate if changes were made.\nNonCommercial - You may not use the material for commercial purposes.\nShareAlike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\nFor full license details, please visit Creative Commons BY-NC-SA 4.0.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About US",
+    "section": "Our Mission",
+    "text": "Our Mission\n\nTo create a platform where Kenyans in Scotland can connect, share, and grow together.\nTo promote cultural exchange, understanding, and appreciation between Kenyans and the wider Scottish community.\nTo support members through professional networking, mentorship, social events, and community service initiatives."
+  },
+  {
+    "objectID": "about.html#our-vision",
+    "href": "about.html#our-vision",
+    "title": "About US",
+    "section": "Our Vision",
+    "text": "Our Vision\nWe envision a thriving Kenyan diaspora in Scotland that remains deeply connected to its roots while actively contributing to the social, cultural, and economic fabric of Scottish society."
+  },
+  {
+    "objectID": "about.html#what-we-do",
+    "href": "about.html#what-we-do",
+    "title": "About US",
+    "section": "What We Do",
+    "text": "What We Do\n\nCommunity Events: Organizing cultural celebrations, professional mixers, workshops, and family gatherings.\nSupport and Advocacy: Offering resources, peer support, and advocacy for newcomers and long-term residents alike.\nPartnerships: Collaborating with organizations, businesses, and institutions to create opportunities for our members.\nYouth Engagement: Inspiring and mentoring the next generation of Kenyan-Scots."
+  },
+  {
+    "objectID": "about.html#get-involved",
+    "href": "about.html#get-involved",
+    "title": "About US",
+    "section": "Get Involved",
+    "text": "Get Involved\nWhether you are new to Scotland or have called it home for years, we invite you to join us.\nTogether, we can build a community that uplifts every member and celebrates the best of who we are.\n👉 Join the Community\n👉 Volunteer or Partner\n\n\nConnecting Roots and Building Futures"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join the Community",
+    "section": "",
+    "text": "Join the Kenyan Community in Scotland\n\n\nlibrary(shiny)\nlibrary(blastula)\nlibrary(glue)\n\n# UI components\ntextInput(\"name\", \"Full Name:\", placeholder = \"Enter your full name\")\n\n\nFull Name:\n\n\n\ntextInput(\"email\", \"Email Address:\", placeholder = \"Enter your email address\")\n\n\nEmail Address:\n\n\n\nselectInput(\"interest\", \"Area of Interest:\", choices = c(\"Networking\", \"Volunteering\", \"Events\", \"Sponsorship\"))\n\n\nArea of Interest:\n\nNetworking\nVolunteering\nEvents\nSponsorship\n\n\n\n\nactionButton(\"submit\", \"Submit\")\n\nSubmit\n\ntextOutput(\"confirmation\")\n\n\n\n# Server-side logic\nobserveEvent(input$submit, {\n  \n  # Save data\n  entry &lt;- data.frame(\n    name = input$name,\n    email = input$email,\n    interest = input$interest,\n    timestamp = Sys.time()\n  )\n  \n  if (!file.exists(\"community_signups.csv\")) {\n    write.csv(entry, \"community_signups.csv\", row.names = FALSE)\n  } else {\n    write.table(entry, \"community_signups.csv\", append = TRUE, sep = \",\", col.names = FALSE, row.names = FALSE)\n  }\n  \n  # Compose and send welcome email\n  email &lt;- compose_email(\n    body = md(glue(\n      \"Hello {input$name},\\n\\n\",\n      \"Thank you for joining the Kenyan Community in Scotland! 🎉\\n\\n\",\n      \"We are excited to have you onboard.\\n\\n\",\n      \"Stay tuned for upcoming events and activities!\\n\\n\",\n      \"**Your selected area of interest:** {input$interest}\\n\\n\",\n      \"Warm regards,\\n\\n\",\n      \"Kenyan Community in Scotland Team\"\n    ))\n  )\n  \n  smtp_send(\n    email,\n    from = \"your-email@gmail.com\",\n    to = input$email,\n    subject = \"Welcome to the Kenyan Community in Scotland!\",\n    credentials = creds_key(id = \"gmail\")\n  )\n  \n  # Confirmation message\n  output$confirmation &lt;- renderText({\n    paste(\"Thank you,\", input$name, \"for joining! Please check your email. 📧\")\n  })\n})\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "No matching items\n\n Back to top"
+  },
+  {
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "Events",
+    "section": "",
+    "text": "No matching items\n\n Back to top"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Guide to Accessing Healthcare in Scotland\n\n\n\n\n\nA detailed guide to help Kenyan community members navigate healthcare services in Scotland.\n\n\n\n\n\n\n\n\n\n\nGuide to Kenyan Passport Renewal in the UK\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "gallery/index.html",
+    "href": "gallery/index.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "No matching items\n\n Back to top"
+  },
+  {
+    "objectID": "partner.html",
+    "href": "partner.html",
+    "title": "Partner with Us",
+    "section": "",
+    "text": "We warmly invite organizations, businesses, and institutions to partner with the Kenyan Community in Scotland."
+  },
+  {
+    "objectID": "partner.html#why-partner-with-us",
+    "href": "partner.html#why-partner-with-us",
+    "title": "Partner with Us",
+    "section": "Why Partner with Us?",
+    "text": "Why Partner with Us?\n\nSupport vibrant cultural and professional initiatives.\nConnect with a dynamic, diverse, and engaged community.\nContribute to building a stronger Kenyan-Scottish relationship."
+  },
+  {
+    "objectID": "partner.html#how-you-can-partner",
+    "href": "partner.html#how-you-can-partner",
+    "title": "Partner with Us",
+    "section": "How You Can Partner",
+    "text": "How You Can Partner\n\nSponsor events and cultural programs\nProvide mentorship and training opportunities\nCollaborate on community development projects"
+  },
+  {
+    "objectID": "partner.html#get-in-touch",
+    "href": "partner.html#get-in-touch",
+    "title": "Partner with Us",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nInterested in partnering with us?\n👉 Please contact us to start the conversation!\nTogether, we can build a brighter future."
+  },
+  {
+    "objectID": "index.html#events",
+    "href": "index.html#events",
+    "title": "Kenyan Community in Scotland",
+    "section": "Events",
+    "text": "Events\n\n\n\n\n\n\n\n\nCommunity Networking Event - Edinburgh\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKenyan Community Networking Mixer\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Kenyan Community in Scotland",
+    "section": "News",
+    "text": "News\n\n\n\n\n\n\n\n\nMay 2025 News Update\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCommunity Website Launch\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "Kenyan Community in Scotland",
+    "section": "Resources",
+    "text": "Resources\n\n\n\n\n\n\n\n\nGuide to Accessing Healthcare in Scotland\n\n\nA detailed guide to help Kenyan community members navigate healthcare services in Scotland.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuide to Kenyan Passport Renewal in the UK\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#gallery",
+    "href": "index.html#gallery",
+    "title": "Kenyan Community in Scotland",
+    "section": "Gallery",
+    "text": "Gallery\n\n\n\n\n\n\n\n\n\n\nCultural Festival Highlights\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCommunity Event Highlights\n\n\n\n\n\n\n\n\n\nJan 14, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/guide-to-kenyan-passport-renewal-in-the-uk.html",
+    "href": "resources/guide-to-kenyan-passport-renewal-in-the-uk.html",
+    "title": "Guide to Kenyan Passport Renewal in the UK",
+    "section": "",
+    "text": "Need to renew your Kenyan passport while living in the UK? This guide walks you through:\n\nRequired documents\nApplication process\nAppointment booking tips\n\nAlways double-check with the Kenyan Embassy in London for the latest information.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "news/may-2025-update.html",
+    "href": "news/may-2025-update.html",
+    "title": "May 2025 News Update",
+    "section": "",
+    "text": "Exciting updates from the Kenyan Community in Scotland:\n\nLaunch of our official website\nSuccessful networking event in Edinburgh\nPlans for upcoming cultural events\n\nStay connected for more news!\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "gallery/community-event-highlights.html",
+    "href": "gallery/community-event-highlights.html",
+    "title": "Community Event Highlights",
+    "section": "",
+    "text": "Enjoy some beautiful moments from our recent events!\n  \nStay tuned for more memories and celebrations!\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "events/community-networking-event.html",
+    "href": "events/community-networking-event.html",
+    "title": "Community Networking Event - Edinburgh",
+    "section": "",
+    "text": "Join us for an exciting networking event in Edinburgh, where members of the Kenyan Community in Scotland come together to connect, share, and inspire.\nHighlights: - Networking opportunities - Sharing professional experiences - Building lasting community connections\nStay tuned for more events like this!\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "events/event1.html",
+    "href": "events/event1.html",
+    "title": "Kenyan Community Networking Mixer",
+    "section": "",
+    "text": "Join us for an afternoon of networking, learning, and connection in Edinburgh! All members are welcome.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "gallery/gallery1.html",
+    "href": "gallery/gallery1.html",
+    "title": "Cultural Festival Highlights",
+    "section": "",
+    "text": "Photos capturing the vibrancy, colors, and spirit of the Maasai cultural festival.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "news/news1.html",
+    "href": "news/news1.html",
+    "title": "Community Website Launch",
+    "section": "",
+    "text": "We are excited to announce the launch of the official Kenyan Community in Scotland website! Stay tuned for updates and events.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resources/resource1.html",
+    "href": "resources/resource1.html",
+    "title": "Guide to Accessing Healthcare in Scotland",
+    "section": "",
+    "text": "Learn how to register with a GP, access NHS services, and stay healthy while living in Scotland.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "volunteer.html",
+    "href": "volunteer.html",
+    "title": "Volunteer with US",
+    "section": "",
+    "text": "We believe that building a strong community starts with passionate individuals who are willing to give their time, skills, and energy. Whether you are looking to make a difference, meet new people, or share your expertise, we welcome you to volunteer with us!"
+  },
+  {
+    "objectID": "volunteer.html#why-volunteer",
+    "href": "volunteer.html#why-volunteer",
+    "title": "Volunteer with US",
+    "section": "Why Volunteer?",
+    "text": "Why Volunteer?\n\nMake a Positive Impact: Help foster a vibrant, supportive Kenyan community in Scotland.\nDevelop New Skills: Gain experience in event management, community outreach, mentoring, and more.\nBuild Connections: Meet fellow Kenyans and friends of Kenya living across Scotland."
+  },
+  {
+    "objectID": "volunteer.html#volunteer-opportunities",
+    "href": "volunteer.html#volunteer-opportunities",
+    "title": "Volunteer with US",
+    "section": "Volunteer Opportunities",
+    "text": "Volunteer Opportunities\nWe offer a range of volunteering opportunities, including:\n\nEvent Support: Assist with planning and organizing cultural festivals, networking events, and family days.\nCommunity Outreach: Help us connect with new members and promote community engagement.\nMentorship Programs: Share your knowledge and experience to support students, professionals, and families.\nContent Creation: Help us create blogs, newsletters, social media content, and more.\n\nNo matter your skills or background, there is a place for you in our community!"
+  },
+  {
+    "objectID": "volunteer.html#how-to-get-involved",
+    "href": "volunteer.html#how-to-get-involved",
+    "title": "Volunteer with US",
+    "section": "How to Get Involved",
+    "text": "How to Get Involved\nReady to make a difference?\n👉 Sign Up to Volunteer\nOr email us directly at info@kenyancommunityinscotland.uk\nWe can’t wait to welcome you to the team!"
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility Commitment",
+    "section": "",
+    "text": "The Kenyan Community in Scotland is committed to ensuring digital accessibility for all visitors to our website, including people with disabilities. We aim to make our website and content as accessible, inclusive, and user-friendly as possible."
+  },
+  {
+    "objectID": "accessibility.html#our-commitment",
+    "href": "accessibility.html#our-commitment",
+    "title": "Accessibility Commitment",
+    "section": "Our Commitment",
+    "text": "Our Commitment\nWe strive to:\n\nDesign content that is usable and readable for everyone.\nEnsure that our website is navigable by keyboard and assistive technologies.\nProvide text alternatives for non-text content, such as images.\nMaintain high contrast between text and background colors.\nUse clear and simple language wherever possible."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-features",
+    "href": "accessibility.html#accessibility-features",
+    "title": "Accessibility Commitment",
+    "section": "Accessibility Features",
+    "text": "Accessibility Features\nOur website includes the following features:\n\nResponsive design that works across desktop, tablet, and mobile devices.\nAlternative text descriptions for images.\nAccessible navigation menus.\nLogical heading structures to assist screen readers."
+  },
+  {
+    "objectID": "accessibility.html#ongoing-improvements",
+    "href": "accessibility.html#ongoing-improvements",
+    "title": "Accessibility Commitment",
+    "section": "Ongoing Improvements",
+    "text": "Ongoing Improvements\nWe recognize that accessibility is an ongoing effort. We are continuously reviewing and updating our website to improve usability for all users.\nIf you encounter any accessibility barriers or have suggestions for improvements, we welcome your feedback."
+  },
+  {
+    "objectID": "accessibility.html#contact-us",
+    "href": "accessibility.html#contact-us",
+    "title": "Accessibility Commitment",
+    "section": "Contact Us",
+    "text": "Contact Us\nIf you experience difficulty accessing any part of our website or would like to report an accessibility issue, please contact us:\n📧 Email: info@kenyancommunityinscotland.uk\nWe aim to respond to all accessibility feedback within 5 working days."
+  },
+  {
+    "objectID": "ts-and-cs.html",
+    "href": "ts-and-cs.html",
+    "title": "Terms and Conditions",
+    "section": "",
+    "text": "Welcome to the Kenyan Community in Scotland website. By accessing or using our website, you agree to the following terms and conditions."
+  },
+  {
+    "objectID": "ts-and-cs.html#use-of-content",
+    "href": "ts-and-cs.html#use-of-content",
+    "title": "Terms and Conditions",
+    "section": "Use of Content",
+    "text": "Use of Content\nAll content published on this website is for informational purposes only. Unless otherwise stated, all content is owned by or licensed to the Kenyan Community in Scotland and is protected by applicable copyright and intellectual property laws.\nYou may share and adapt our content under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) provided you:\n\nAttribute the work appropriately.\nDo not use the content for commercial purposes.\nShare any adaptations under the same license.\n\nFor full license details, visit Creative Commons BY-NC-SA 4.0."
+  },
+  {
+    "objectID": "ts-and-cs.html#website-use",
+    "href": "ts-and-cs.html#website-use",
+    "title": "Terms and Conditions",
+    "section": "Website Use",
+    "text": "Website Use\nYou agree not to use this website in a manner that:\n\nViolates any applicable laws or regulations.\nInfringes the rights of others.\nAttempts to gain unauthorized access to systems or data.\nImpairs or interferes with the operation of this website."
+  },
+  {
+    "objectID": "ts-and-cs.html#external-links",
+    "href": "ts-and-cs.html#external-links",
+    "title": "Terms and Conditions",
+    "section": "External Links",
+    "text": "External Links\nOur website may contain links to external websites that are not maintained by us. We are not responsible for the content or accessibility of these external sites."
+  },
+  {
+    "objectID": "ts-and-cs.html#disclaimer",
+    "href": "ts-and-cs.html#disclaimer",
+    "title": "Terms and Conditions",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThe Kenyan Community in Scotland makes every effort to ensure the accuracy of the information on this site but does not guarantee its completeness or suitability for any purpose."
+  },
+  {
+    "objectID": "ts-and-cs.html#changes-to-these-terms",
+    "href": "ts-and-cs.html#changes-to-these-terms",
+    "title": "Terms and Conditions",
+    "section": "Changes to These Terms",
+    "text": "Changes to These Terms\nWe reserve the right to modify these terms and conditions at any time. Changes will be effective immediately upon posting on the website."
+  },
+  {
+    "objectID": "ts-and-cs.html#contact-us",
+    "href": "ts-and-cs.html#contact-us",
+    "title": "Terms and Conditions",
+    "section": "Contact Us",
+    "text": "Contact Us\nIf you have any questions about these terms and conditions, please contact us:\n📧 Email: info@kenyancommunityinscotland.uk"
+  },
+  {
+    "objectID": "partners.html",
+    "href": "partners.html",
+    "title": "Our Partners",
+    "section": "",
+    "text": "The Kenyan Community in Scotland is proud to have received support from various organizations featured on our homepage that share our mission of unity, growth, and opportunity.\nWe sincerely thank our partners for their ongoing collaboration and encouragement."
+  },
+  {
+    "objectID": "partners.html#why-partner-with-us",
+    "href": "partners.html#why-partner-with-us",
+    "title": "Partner with Us",
+    "section": "Why Partner with Us?",
+    "text": "Why Partner with Us?\n\nSupport vibrant cultural and professional initiatives.\nConnect with a dynamic, diverse, and engaged community.\nContribute to building a stronger Kenyan-Scottish relationship."
+  },
+  {
+    "objectID": "partners.html#how-you-can-partner",
+    "href": "partners.html#how-you-can-partner",
+    "title": "Partner with Us",
+    "section": "How You Can Partner",
+    "text": "How You Can Partner\n\nSponsor events and cultural programs.\nProvide mentorship and training opportunities.\nCollaborate on community development projects."
+  },
+  {
+    "objectID": "partners.html#get-in-touch",
+    "href": "partners.html#get-in-touch",
+    "title": "Partner with Us",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nInterested in partnering with us?\n👉 Please contact us to start the conversation!\nTogether, we can build a brighter future."
+  },
+  {
+    "objectID": "partners.html#why-partnerships-matter",
+    "href": "partners.html#why-partnerships-matter",
+    "title": "Our Partners",
+    "section": "Why Partnerships Matter",
+    "text": "Why Partnerships Matter\nOur partnerships help us to:\n\nDeliver meaningful cultural events\nEmpower community development initiatives\nStrengthen ties between Kenyans and Scottish communities"
+  },
+  {
+    "objectID": "partners.html#join-our-growing-network",
+    "href": "partners.html#join-our-growing-network",
+    "title": "Our Partners",
+    "section": "Join Our Growing Network",
+    "text": "Join Our Growing Network\n\n\n\n\n\n\nNote\n\n\n\nWould your organization like to join this growing network of supporters?\n👉 Partner with Us\nTogether, we can build a stronger future for our community!"
+  },
+  {
+    "objectID": "partner-with-us.html",
+    "href": "partner-with-us.html",
+    "title": "Partner with Us",
+    "section": "",
+    "text": "We warmly invite organizations, businesses, and institutions to partner with the Kenyan Community in Scotland.\n\n\n\nSupport vibrant cultural and professional initiatives.\nConnect with a dynamic, diverse, and engaged community.\nContribute to building a stronger Kenyan-Scottish relationship.\n\n\n\n\n\nSponsor events and cultural programs.\nProvide mentorship and training opportunities.\nCollaborate on community development projects.\n\n\n\n\nInterested in partnering with us?\n👉 Please contact us to start the conversation!\nTogether, we can build a brighter future."
+  },
+  {
+    "objectID": "partner-with-us.html#why-partner-with-us",
+    "href": "partner-with-us.html#why-partner-with-us",
+    "title": "Partner with Us",
+    "section": "",
+    "text": "Support vibrant cultural and professional initiatives.\nConnect with a dynamic, diverse, and engaged community.\nContribute to building a stronger Kenyan-Scottish relationship."
+  },
+  {
+    "objectID": "partner-with-us.html#how-you-can-partner",
+    "href": "partner-with-us.html#how-you-can-partner",
+    "title": "Partner with Us",
+    "section": "",
+    "text": "Sponsor events and cultural programs.\nProvide mentorship and training opportunities.\nCollaborate on community development projects."
+  },
+  {
+    "objectID": "partner-with-us.html#get-in-touch",
+    "href": "partner-with-us.html#get-in-touch",
+    "title": "Partner with Us",
+    "section": "",
+    "text": "Interested in partnering with us?\n👉 Please contact us to start the conversation!\nTogether, we can build a brighter future."
   }
 ]

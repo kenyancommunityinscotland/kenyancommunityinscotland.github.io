@@ -13,8 +13,6 @@ format:
 It looks like the page you were trying to reach doesn't exist or may have been moved.
 
 [Return to Home](/)  
-or  
-[Explore Our Events](/events.qmd)
 
 ---
 

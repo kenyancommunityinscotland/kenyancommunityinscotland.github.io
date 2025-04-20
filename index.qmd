@@ -8,25 +8,23 @@ repo-actions: [edit, issue]
 comments: 
   giscus: 
     repo: kenyancommunityinscotland/kenyancommunityinscotland.github.io
-
 about:
   template: solana
   image-width: 32em
   id: hero-heading
-
 listing:
-  - id: books
+  - id: events
     contents: 
-    - /books
-    - "!books/index.qmd"
-    sort: "title"
+    - /events
+    - "!events/index.qmd"
+    sort: "date desc"
     type: grid
     categories: false
     sort-ui: false
     filter-ui: false
     max-items: 3
     feed: false
-    
+
   - id: blog
     contents: 
     - /blog
@@ -38,7 +36,45 @@ listing:
     filter-ui: false
     max-items: 3
     feed: false
+
+  - id: news
+    contents: 
+    - /news
+    - "!news/index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: resources
+    contents: 
+    - /resources
+    - "!resources/index.qmd"
+    sort: "title"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
+
+  - id: gallery
+    contents: 
+    - /gallery
+    - "!gallery/index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 6
+    feed: false
 ---
+
+<br><br>
 
 <br><br>
 
@@ -48,9 +84,14 @@ listing:
 Fostering unity, growth, and opportunity for Kenyans living in Scotland through community engagement, culture, and support. Be part of a growing movement: connect, contribute, and make an impact today!
 
 ::: hero-buttons
-[Join the Community](join-the-community.qmd){.btn .btn-lg .btn-primary role="button"} [Volunteer or Partner](volunteer-or-partner.qmd){.btn .btn-lg .btn-primary role="button"}
+[Join the Community](join.qmd){.btn .btn-lg .btn-primary role="button"} [Partner with Us](partner.qmd){.btn .btn-lg .btn-primary role="button"}
 :::
 
+:::
+
+## [Events](events/index.qmd)
+
+::: {#events}
 :::
 
 ## [Blog](blog/index.qmd)
@@ -58,12 +99,26 @@ Fostering unity, growth, and opportunity for Kenyans living in Scotland through 
 ::: {#blog}
 :::
 
+## [News](news/index.qmd)
+
+::: {#news}
+:::
+
+## [Resources](resources/index.qmd)
+
+::: {#resources}
+:::
+
+## [Gallery](gallery/index.qmd)
+
+::: {#gallery}
+:::
+
 ::: footer-text
 ::: {.footer-container .white-background}
 ::: footer-block
 ::: grid
 ::: {.g-col-12 .g-col-md-2}
-
 ## [Partners](partners.qmd){aria-label="Information about how to support Kenyan Community in Scotland"}
 :::
 

@@ -1,0 +1,41 @@
+---
+title: "Accessibility Commitment"
+page-layout: full
+---
+
+The Kenyan Community in Scotland is committed to ensuring digital accessibility for all visitors to our website, including people with disabilities. We aim to make our website and content as accessible, inclusive, and user-friendly as possible.
+
+## Our Commitment
+
+We strive to:
+
+- Design content that is usable and readable for everyone.
+- Ensure that our website is navigable by keyboard and assistive technologies.
+- Provide text alternatives for non-text content, such as images.
+- Maintain high contrast between text and background colors.
+- Use clear and simple language wherever possible.
+
+## Accessibility Features
+
+Our website includes the following features:
+
+- Responsive design that works across desktop, tablet, and mobile devices.
+- Alternative text descriptions for images.
+- Accessible navigation menus.
+- Logical heading structures to assist screen readers.
+
+## Ongoing Improvements
+
+We recognize that accessibility is an ongoing effort. We are continuously reviewing and updating our website to improve usability for all users.
+
+If you encounter any accessibility barriers or have suggestions for improvements, we welcome your feedback.
+
+## Contact Us
+
+If you experience difficulty accessing any part of our website or would like to report an accessibility issue, please contact us:
+
+📧 Email: [info@kenyancommunityinscotland.uk](mailto:info@kenyancommunityinscotland.uk)
+
+We aim to respond to all accessibility feedback within 5 working days.
+
+---

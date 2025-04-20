@@ -1,0 +1,20 @@
+---
+title: "News"
+description: |
+  Stay informed with the latest updates and announcements from the Kenyan Community in Scotland.
+listing: 
+  sort: "date desc"
+  type: default
+  categories: true
+  image-placeholder: /images/logo.png
+  sort-ui: false
+  filter-ui: false
+  fields: [image, title, author, categories, date, word-count, reading-time]
+  page-size: 5
+  feed: true
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+citation: false
+---

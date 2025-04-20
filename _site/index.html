@@ -75,20 +75,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-books .list');
+    const listingTargetEl = window.document.querySelector('#listing-events .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-books'] = new List('listing-books', options);
+    window['quarto-listings']['listing-events'] = new List('listing-events', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -117,6 +117,90 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-blog'] = new List('listing-blog', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-news .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-news'] = new List('listing-news', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-resources .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-resources'] = new List('listing-resources', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-gallery .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-gallery'] = new List('listing-gallery', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -198,20 +282,36 @@ window.Quarto = {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./events.qmd"> 
+    <a class="nav-link" href="./join.html"> 
+<span class="menu-text">Join</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./volunteer.html"> 
+<span class="menu-text">Volunteer</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./partner-with-us.html"> 
+<span class="menu-text">Partner</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./events/index.html"> 
 <span class="menu-text">Events</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./news/index.html"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
-<span class="menu-text">Contact</span></a>
+    <a class="nav-link" href="./resources/index.html"> 
+<span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./join-the-community.html"> 
-<span class="menu-text">Join Us</span></a>
+    <a class="nav-link" href="./gallery/index.html"> 
+<span class="menu-text">Gallery</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -275,6 +375,7 @@ window.Quarto = {
 
 
 <p><br><br></p>
+<p><br><br></p>
 <div class="quarto-about-solana column-page">
   <div class="about-entity">
     <div class="entity-contents">
@@ -283,7 +384,7 @@ window.Quarto = {
 <h3 data-anchor-id="empowering-the-kenyan-community-across-scotland">Empowering the Kenyan Community Across Scotland</h3>
 <p>Fostering unity, growth, and opportunity for Kenyans living in Scotland through community engagement, culture, and support. Be part of a growing movement: connect, contribute, and make an impact today!</p>
 <div class="hero-buttons">
-<p><a href="./join-the-community.html" class="btn btn-lg btn-primary" role="button">Join the Community</a> <a href="volunteer-or-partner.qmd" class="btn btn-lg btn-primary" role="button">Volunteer or Partner</a></p>
+<p><a href="./join.html" class="btn btn-lg btn-primary" role="button">Join the Community</a> <a href="partner.qmd" class="btn btn-lg btn-primary" role="button">Partner with Us</a></p>
 </div>
 </section>
 </div></div>
@@ -293,6 +394,64 @@ window.Quarto = {
   </div>
 </div>
 
+<section id="events" class="level2">
+<h2 data-anchor-id="events"><a href="./events/index.html">Events</a></h2>
+<div id="listing-events" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Events" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1745161337633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
+<a href="./events/community-networking-event.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Community Networking Event - Edinburgh
+</h5>
+<div class="card-text listing-description">
+Join us for an exciting networking event in Edinburgh, where members of the Kenyan Community in Scotland come together to connect, share, and inspire.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 1, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Events" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1745159524000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
+<a href="./events/event1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/networking_event.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kenyan Community Networking Mixer
+</h5>
+<div class="card-text listing-description">
+Join us for an afternoon of networking, learning, and connection in Edinburgh! All members are welcome.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 1, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
 <section id="blog" class="level2">
 <h2 data-anchor-id="blog"><a href="./blog/index.html">Blog</a></h2>
 <div id="listing-blog" class="quarto-listing quarto-listing-container-grid">
@@ -328,12 +487,181 @@ No matching items
 </div>
 </div>
 </section>
+<section id="news" class="level2">
+<h2 data-anchor-id="news"><a href="./news/index.html">News</a></h2>
+<div id="listing-news" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="News" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1745161815509" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
+<a href="./news/may-2025-update.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+May 2025 News Update
+</h5>
+<div class="card-text listing-description">
+Exciting updates from the Kenyan Community in Scotland:
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 1, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="News" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1745159524000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
+<a href="./news/news1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/website_launch.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Community Website Launch
+</h5>
+<div class="card-text listing-description">
+We are excited to announce the launch of the official Kenyan Community in Scotland website! Stay tuned for updates and events.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 1, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="resources" class="level2">
+<h2 data-anchor-id="resources"><a href="./resources/index.html">Resources</a></h2>
+<div id="listing-resources" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1745159524000" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="./resources/resource1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Guide to Accessing Healthcare in Scotland
+</h5>
+<div class="card-text listing-description">
+A detailed guide to help Kenyan community members navigate healthcare services in Scotland.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Resources" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1745161934129" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
+<a href="./resources/guide-to-kenyan-passport-renewal-in-the-uk.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Guide to Kenyan Passport Renewal in the UK
+</h5>
+<div class="card-text listing-description">
+Need to renew your Kenyan passport while living in the UK? This guide walks you through:
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 1, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="gallery" class="level2">
+<h2 data-anchor-id="gallery"><a href="./gallery/index.html">Gallery</a></h2>
+<div id="listing-gallery" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Gallery" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1745182717482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="./gallery/gallery1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/cultural_festival.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cultural Festival Highlights
+</h5>
+<div class="card-text listing-description">
+Photos capturing the vibrancy, colors, and spirit of the Maasai cultural festival.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+May 1, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Gallery" data-listing-date-sort="1705190400000" data-listing-file-modified-sort="1745162043416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
+<a href="./gallery/community-event-highlights.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="gallery\photo (1).jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Community Event Highlights
+</h5>
+<div class="card-text listing-description">
+Enjoy some beautiful moments from our recent events!
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 14, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
 <div class="footer-text">
 <div class="footer-container white-background">
 <div class="footer-block">
 <div class="grid">
 <section id="partners" class="level2 g-col-12 g-col-md-2">
-<h2 data-anchor-id="partners"><a href="partners.qmd" aria-label="Information about how to support Kenyan Community in Scotland">Partners</a></h2>
+<h2 data-anchor-id="partners"><a href="./partners.html" aria-label="Information about how to support Kenyan Community in Scotland">Partners</a></h2>
 </section>
 <div class="g-col-12 g-col-md-2">
 <div class="quarto-figure quarto-figure-left">
@@ -358,14 +686,7 @@ No matching items
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-books">
-<div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -946,12 +1267,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="./accessibility.qmd">
+    <a class="nav-link" href="./accessibility.html">
 <p>Accessibility</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./ts-and-cs.qmd">
+    <a class="nav-link" href="./ts-and-cs.html">
 <p>Terms and Conditions</p>
 </a>
   </li>  
@@ -961,7 +1282,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./licence.qmd">
+    <a class="nav-link" href="./licence.html">
 <p>Licence</p>
 </a>
   </li>  

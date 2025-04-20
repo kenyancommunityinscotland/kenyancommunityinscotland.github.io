@@ -1,0 +1,8 @@
+---
+title: "Cultural Festival Highlights"
+date: 2025-05-01
+categories: [Gallery]
+image: /images/cultural_festival.jpg
+---
+
+Photos capturing the vibrancy, colors, and spirit of the Maasai cultural festival.
