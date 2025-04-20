@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kenyan Community in Scotland</title>
+<link>http://kenyancommunityinscotland.uk/events/</link>
+<atom:link href="http://kenyancommunityinscotland.uk/events/index.xml" rel="self" type="application/rss+xml"/>
+<description>Discover and participate in events organized by the Kenyan Community in Scotland.
+</description>
+<generator>quarto-1.6.43</generator>
+<lastBuildDate>Thu, 01 May 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Kenyan Community Networking Mixer</title>
+  <link>http://kenyancommunityinscotland.uk/events/event1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Join us for an afternoon of networking, learning, and connection in Edinburgh! All members are welcome.</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Events</category>
+  <guid>http://kenyancommunityinscotland.uk/events/event1.html</guid>
+  <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+  <media:content url="http://kenyancommunityinscotland.uk/images/networking_event.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Community Networking Event - Edinburgh</title>
+  <link>http://kenyancommunityinscotland.uk/events/community-networking-event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Join us for an exciting networking event in Edinburgh, where members of the Kenyan Community in Scotland come together to connect, share, and inspire.</p>
+<p><strong>Highlights:</strong> - Networking opportunities - Sharing professional experiences - Building lasting community connections</p>
+<p>Stay tuned for more events like this!</p>
+<hr>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Events</category>
+  <guid>http://kenyancommunityinscotland.uk/events/community-networking-event.html</guid>
+  <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
