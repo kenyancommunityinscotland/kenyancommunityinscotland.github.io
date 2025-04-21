@@ -1,0 +1,19 @@
+{
+  "hash": "6e6b0cca4129dca2ce3763277ec657e0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Join the Community\"\noutput: \n  html_document:\n    df_print: paged\nruntime: shiny\npage-layout: full\n---\n\n\n\n# Join the Community\n\nWe are excited to welcome new members to the Kenyan Community in Scotland!  \nPlease fill in your details below to join us.\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"container-fluid\">\n<div class=\"well\">\n<div class=\"form-group shiny-input-container\">\n<label class=\"control-label\" id=\"name-label\" for=\"name\">Full Name:</label>\n<input id=\"name\" type=\"text\" class=\"shiny-input-text form-control\" value=\"\" placeholder=\"Enter Your Full Name\"/>\n</div>\n<div class=\"form-group shiny-input-container\">\n<label class=\"control-label\" id=\"email-label\" for=\"email\">Email Address:</label>\n<input id=\"email\" type=\"text\" class=\"shiny-input-text form-control\" value=\"\" placeholder=\"Enter Your Email Address\"/>\n</div>\n<div class=\"form-group shiny-input-container\">\n<label class=\"control-label\" id=\"mobile-label\" for=\"mobile\">Mobile Number:</label>\n<input id=\"mobile\" type=\"text\" class=\"shiny-input-text form-control\" value=\"\" placeholder=\"Enter Your Mobile Number (e.g., +44 7522 XXX XXX)\"/>\n</div>\n<div class=\"form-group shiny-input-container\">\n<label class=\"control-label\" id=\"interest-label\" for=\"interest\">Area of Interest:</label>\n<div>\n<select id=\"interest\" class=\"shiny-input-select\"><option value=\"\" selected></option>\n<option value=\"Networking\">Networking</option>\n<option value=\"Volunteering\">Volunteering</option>\n<option value=\"Events\">Events</option>\n<option value=\"Sponsorship\">Sponsorship</option></select>\n<script type=\"application/json\" data-for=\"interest\">{\"plugins\":[\"selectize-plugin-a11y\"]}</script>\n</div>\n</div>\n<button class=\"btn btn-default action-button btn btn-primary btn-lg\" id=\"submit\" type=\"button\">Join Now</button>\n<br/>\n<br/>\n<div id=\"confirmation\" class=\"shiny-text-output\"></div>\n<br/>\n<div id=\"thankyou\" class=\"shiny-html-output\"></div>\n</div>\n</div>\n```\n\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"../site_libs/jquery-3.6.0/jquery.min.js\"></script>\n<link href=\"../site_libs/selectize-0.15.2/css/selectize.bootstrap3.css\" rel=\"stylesheet\" />\n<script src=\"../site_libs/selectize-0.15.2/js/selectize.min.js\"></script>\n<script src=\"../site_libs/selectize-0.15.2/accessibility/js/selectize-plugin-a11y.min.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

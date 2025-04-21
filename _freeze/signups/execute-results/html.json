@@ -1,0 +1,15 @@
+{
+  "hash": "888988e4c616a2ec51b95dc1430422f2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Community Signups\"\nformat: html\nexecute:\n  shiny: true\npage-layout: full\n---\n\n\n\n# Community Signups Dashboard\n\nBelow is a live overview of the community members who have joined us!\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n`<div style=\"width: 100% ; height: 400px ; text-align: center; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;\" class=\"muted well\">Shiny applications not supported in static R Markdown documents</div>`{=html}\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

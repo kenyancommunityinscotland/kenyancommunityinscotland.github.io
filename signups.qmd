@@ -1,0 +1,77 @@
+---
+title: "Community Signups"
+format: html
+execute:
+  shiny: true
+page-layout: full
+---
+
+# Community Signups Dashboard
+
+Below is a live overview of the community members who have joined us!
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(shiny)
+library(DT)
+library(readr)
+
+# Define UI
+ui <- fluidPage(
+  h3("Summary"),
+  textOutput("total_members"),
+  br(),
+  downloadButton("downloadData", "Download Signups (.csv)", class = "btn btn-primary btn-lg"),
+  br(), br(),
+  DTOutput("signup_table")
+)
+
+# Define Server
+server <- function(input, output, session) {
+  
+  # Load the CSV file
+  signup_data <- reactive({
+    current_year <- format(Sys.Date(), "%Y")
+    csv_filename <- paste0("community_signups_", current_year, ".csv")
+    if (file.exists(csv_filename)) {
+      read_csv(csv_filename)
+    } else {
+      data.frame(
+        Name = character(),
+        Email = character(),
+        Mobile = character(),
+        Interest = character(),
+        Timestamp = character()
+      )
+    }
+  })
+  
+  # Total members text
+  output$total_members <- renderText({
+    paste("Total Members Joined:", nrow(signup_data()))
+  })
+  
+  # Download CSV
+  output$downloadData <- downloadHandler(
+    filename = function() {
+      paste0("community_signups_", Sys.Date(), ".csv")
+    },
+    content = function(file) {
+      write_csv(signup_data(), file)
+    }
+  )
+  
+  # Display the table
+  output$signup_table <- renderDT({
+    datatable(signup_data(),
+              options = list(pageLength = 10, autoWidth = TRUE),
+              rownames = FALSE)
+  })
+}
+
+# Launch the app
+shinyApp(ui = ui, server = server)
+```

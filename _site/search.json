@@ -109,7 +109,7 @@
     "href": "join.html",
     "title": "Join the Community",
     "section": "",
-    "text": "We are excited to welcome new members to the Kenyan Community in Scotland!\nPlease fill in your details below to join us.\n\n\n\n\n\nFull Name:\n\n\n\nEmail Address:\n\n\n\nMobile Number:\n\n\n\nArea of Interest:\n\n\nNetworking\nVolunteering\nEvents\nSponsorship\n\n\n\nJoin Now\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "We are excited to welcome new members to the Kenyan Community in Scotland!\nClick below to fill in your details:\nJoin Now\n\n\n\n Back to top"
   },
   {
     "objectID": "news/index.html",
@@ -467,5 +467,19 @@
     "title": "Kenyan Community in Scotland",
     "section": "",
     "text": "Fostering unity, growth, and opportunity for Kenyans living in Scotland through community engagement, culture, and support. Be part of a growing movement: connect, contribute, and make an impact today!\n\nJoin the Community Partner with Us"
+  },
+  {
+    "objectID": "signups.html",
+    "href": "signups.html",
+    "title": "Community Signups",
+    "section": "",
+    "text": "Community Signups Dashboard\nBelow is a live overview of the community members who have joined us!\n\n\nShiny applications not supported in static R Markdown documents\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "join-form/join.html",
+    "href": "join-form/join.html",
+    "title": "Join the Community",
+    "section": "",
+    "text": "Join the Community\nWe are excited to welcome new members to the Kenyan Community in Scotland!\nPlease fill in your details below to join us.\n\n\n\n\n\nFull Name:\n\n\n\nEmail Address:\n\n\n\nMobile Number:\n\n\n\nArea of Interest:\n\n\nNetworking\nVolunteering\nEvents\nSponsorship\n\n\n\nJoin Now\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   }
 ]

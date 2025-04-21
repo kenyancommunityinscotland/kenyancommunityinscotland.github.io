@@ -1,0 +1,137 @@
+---
+title: "Join the Community"
+output: 
+  html_document:
+    df_print: paged
+runtime: shiny
+page-layout: full
+---
+
+We are excited to welcome new members to the Kenyan Community in Scotland!  
+Please fill in your details below to join us.
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(shiny)
+library(blastula)
+
+fluidPage(
+  wellPanel(
+    textInput("name", "Full Name:", placeholder = "Enter Your Full Name"),
+    textInput("email", "Email Address:", placeholder = "Enter Your Email Address"),
+    textInput("mobile", "Mobile Number:", placeholder = "Enter Your Mobile Number (e.g., +44 7522 XXX XXX)"),
+    selectInput("interest", "Area of Interest:",
+                choices = c("", "Networking", "Volunteering", "Events", "Sponsorship")),
+    actionButton("submit", "Join Now", class = "btn btn-primary btn-lg"),
+    br(), br(),
+    textOutput("confirmation"),
+    br(),
+    uiOutput("loading"),    ## <-- Spinner message will appear here
+    br(),
+    uiOutput("thankyou")    ## <-- Thank you message
+  )
+)
+
+observeEvent(input$submit, {
+  
+  # Show loading message immediately
+  output$loading <- renderUI({
+    tags$div(
+      style = "color: blue; font-size: 18px; font-weight: bold; margin-top: 10px;",
+      "⏳ Submitting your details, please wait..."
+    )
+  })
+  
+  if (input$name == "" || input$email == "" || input$mobile == "") {
+    showModal(modalDialog(
+      title = "Incomplete Submission",
+      "Please fill in all the fields before submitting.",
+      easyClose = TRUE
+    ))
+    
+    output$loading <- renderUI({ NULL })  # Remove loading if error
+  } else {
+    
+    # Save the submission to CSV
+    new_entry <- data.frame(
+      Name = input$name,
+      Email = input$email,
+      Mobile = input$mobile,
+      Interest = input$interest,
+      Timestamp = Sys.time()
+    )
+    
+    if (!file.exists("community_signups.csv")) {
+      write.csv(new_entry, "community_signups.csv", row.names = FALSE)
+    } else {
+      write.table(new_entry, "community_signups.csv",
+                  sep = ",", append = TRUE,
+                  col.names = FALSE, row.names = FALSE)
+    }
+    
+    # Compose and send Thank You email
+    thank_you_email <- compose_email(
+      body = md(glue::glue(
+        "
+        <div style='text-align: center;'>
+          <h1 style='color: green;'>Welcome, {input$name}! 🇰🇪</h1>
+          <h3 style='color: red;'>You've successfully joined the Kenyan Community in Scotland!</h3>
+          <p style='font-size: 16px; color: black;'>
+            We are thrilled to have you as part of our vibrant, supportive, and inspiring community.<br><br>
+            <strong>Area of Interest:</strong> {input$interest}<br><br>
+            Stay tuned for exciting updates, events, and opportunities to engage with the community!<br><br>
+            Warm regards,<br>
+            <strong>Kenyan Community in Scotland Team</strong>
+          </p>
+          <br>
+          <a href='https://kenyancommunityinscotland.uk/' 
+             style='background-color: green; color: white; padding: 10px 20px; text-decoration: none; font-size: 18px; border-radius: 5px;'>
+            Visit Our Website
+          </a>
+        </div>
+        "
+      ))
+    )
+    
+tryCatch({
+  smtp_send(
+    email = thank_you_email,
+    from = "kenyancommunityinscotland@gmail.com",
+    to = input$email,
+    subject = "Welcome to the Kenyan Community in Scotland!",
+    credentials = creds(
+      host = "smtp.gmail.com",
+      port = 465,
+      user = "kenyancommunityinscotland@gmail.com",
+      password = "wvzvjpviqapz rgrk",
+      use_ssl = TRUE
+    )
+  )
+}, error = function(e) {
+  # Log the error if email sending fails but do not crash app
+  print(paste("Email sending failed:", e$message))
+})
+
+    # Remove loading spinner
+    output$loading <- renderUI({ NULL })
+    
+    # Show popup confirmation
+    showModal(modalDialog(
+      title = "Thank you!",
+      paste("Welcome to the Kenyan Community in Scotland,", input$name, "!"),
+      easyClose = TRUE
+    ))
+    
+    # Update thank-you message on page
+    output$thankyou <- renderUI({
+      tags$div(
+        style = "color: green; font-size: 20px; font-weight: bold; margin-top: 20px;",
+        paste0("🎉 Thank you ", input$name, "! We have received your submission. Welcome aboard!")
+      )
+    })
+  }
+})
+```

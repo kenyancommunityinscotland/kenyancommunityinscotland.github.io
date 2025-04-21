@@ -1,5 +1,6 @@
 ---
 title: "Licence"
+page-layout: full
 ---
 
 Opinions and views expressed on this website represent those of the **Kenyan Community in Scotland** and do not necessarily reflect the official stance of any affiliated institutions, employers, or partners.

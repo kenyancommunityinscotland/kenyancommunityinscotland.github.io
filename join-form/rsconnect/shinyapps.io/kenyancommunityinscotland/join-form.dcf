@@ -1,0 +1,10 @@
+name: join-form
+title:
+username: kenyancommunityinscotland
+account: kenyancommunityinscotland
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14575115
+bundleId: 10154217
+url: https://kenyancommunityinscotland.shinyapps.io/join-form/
+version: 1
