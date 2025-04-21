@@ -1,8 +1,16 @@
 [
   {
-    "listing": "/blog/index.html",
+    "listing": "/news/index.html",
     "items": [
-      "/blog/a_fantastic_afternoon_at_our_networking_mixer.html"
+      "/news/may-2025-update.html",
+      "/news/news1.html"
+    ]
+  },
+  {
+    "listing": "/resources/index.html",
+    "items": [
+      "/resources/resource1.html",
+      "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html"
     ]
   },
   {
@@ -20,17 +28,9 @@
     ]
   },
   {
-    "listing": "/resources/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/resources/resource1.html",
-      "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html"
-    ]
-  },
-  {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/may-2025-update.html",
-      "/news/news1.html"
+      "/blog/a_fantastic_afternoon_at_our_networking_mixer.html"
     ]
   },
   {
