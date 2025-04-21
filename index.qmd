@@ -74,10 +74,6 @@ listing:
     feed: false
 ---
 
-<br><br>
-
-<br><br>
-
 ::: {#hero-heading}
 ### Empowering the Kenyan Community Across Scotland
 

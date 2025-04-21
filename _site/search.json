@@ -109,7 +109,7 @@
     "href": "join.html",
     "title": "Join the Community",
     "section": "",
-    "text": "Join the Kenyan Community in Scotland\n\n\nlibrary(shiny)\nlibrary(blastula)\nlibrary(glue)\n\n# UI components\ntextInput(\"name\", \"Full Name:\", placeholder = \"Enter your full name\")\n\n\nFull Name:\n\n\n\ntextInput(\"email\", \"Email Address:\", placeholder = \"Enter your email address\")\n\n\nEmail Address:\n\n\n\nselectInput(\"interest\", \"Area of Interest:\", choices = c(\"Networking\", \"Volunteering\", \"Events\", \"Sponsorship\"))\n\n\nArea of Interest:\n\nNetworking\nVolunteering\nEvents\nSponsorship\n\n\n\n\nactionButton(\"submit\", \"Submit\")\n\nSubmit\n\ntextOutput(\"confirmation\")\n\n\n\n# Server-side logic\nobserveEvent(input$submit, {\n  \n  # Save data\n  entry &lt;- data.frame(\n    name = input$name,\n    email = input$email,\n    interest = input$interest,\n    timestamp = Sys.time()\n  )\n  \n  if (!file.exists(\"community_signups.csv\")) {\n    write.csv(entry, \"community_signups.csv\", row.names = FALSE)\n  } else {\n    write.table(entry, \"community_signups.csv\", append = TRUE, sep = \",\", col.names = FALSE, row.names = FALSE)\n  }\n  \n  # Compose and send welcome email\n  email &lt;- compose_email(\n    body = md(glue(\n      \"Hello {input$name},\\n\\n\",\n      \"Thank you for joining the Kenyan Community in Scotland! 🎉\\n\\n\",\n      \"We are excited to have you onboard.\\n\\n\",\n      \"Stay tuned for upcoming events and activities!\\n\\n\",\n      \"**Your selected area of interest:** {input$interest}\\n\\n\",\n      \"Warm regards,\\n\\n\",\n      \"Kenyan Community in Scotland Team\"\n    ))\n  )\n  \n  smtp_send(\n    email,\n    from = \"your-email@gmail.com\",\n    to = input$email,\n    subject = \"Welcome to the Kenyan Community in Scotland!\",\n    credentials = creds_key(id = \"gmail\")\n  )\n  \n  # Confirmation message\n  output$confirmation &lt;- renderText({\n    paste(\"Thank you,\", input$name, \"for joining! Please check your email. 📧\")\n  })\n})\n\n\n\n\n\n\n Back to top"
+    "text": "We are excited to welcome new members to the Kenyan Community in Scotland!\nPlease fill in your details below to join us.\n\n\n\n\n\nFull Name:\n\n\n\nEmail Address:\n\n\n\nMobile Number:\n\n\n\nArea of Interest:\n\n\nNetworking\nVolunteering\nEvents\nSponsorship\n\n\n\nJoin Now\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "news/index.html",
@@ -460,5 +460,12 @@
     "title": "Contact Us",
     "section": "",
     "text": "Your feedback helps us grow and serve you better. Feel free to share your suggestions and ideas by sending an email or filling out our upcoming feedback form.\nWe look forward to connecting with you!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kenyan Community in Scotland",
+    "section": "",
+    "text": "Fostering unity, growth, and opportunity for Kenyans living in Scotland through community engagement, culture, and support. Be part of a growing movement: connect, contribute, and make an impact today!\n\nJoin the Community Partner with Us"
   }
 ]

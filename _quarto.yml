@@ -42,6 +42,9 @@ website:
     - icon: github
       href: https://github.com/kenyancommunityinscotland/
       target: _blank
+    - icon: envelope
+      href: mailto:info@kenyancommunityinscotland.uk
+      target: _blank
 
     left:
       - text: "Home"
