@@ -109,7 +109,7 @@
     "href": "join.html",
     "title": "Join the Community",
     "section": "",
-    "text": "We are excited to welcome new members to the Kenyan Community in Scotland!\nBy becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland."
+    "text": "We are excited to welcome new members to the Kenyan Community in Scotland. By becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland."
   },
   {
     "objectID": "news/index.html",
@@ -254,21 +254,21 @@
   {
     "objectID": "volunteer.html",
     "href": "volunteer.html",
-    "title": "Volunteer with US",
+    "title": "Volunteer with Us",
     "section": "",
     "text": "We believe that building a strong community starts with passionate individuals who are willing to give their time, skills, and energy. Whether you are looking to make a difference, meet new people, or share your expertise, we welcome you to volunteer with us!"
   },
   {
     "objectID": "volunteer.html#why-volunteer",
     "href": "volunteer.html#why-volunteer",
-    "title": "Volunteer with US",
+    "title": "Volunteer with Us",
     "section": "Why Volunteer?",
     "text": "Why Volunteer?\n\nMake a Positive Impact: Help foster a vibrant, supportive Kenyan community in Scotland.\nDevelop New Skills: Gain experience in event management, community outreach, mentoring, and more.\nBuild Connections: Meet fellow Kenyans and friends of Kenya living across Scotland."
   },
   {
     "objectID": "volunteer.html#volunteer-opportunities",
     "href": "volunteer.html#volunteer-opportunities",
-    "title": "Volunteer with US",
+    "title": "Volunteer with Us",
     "section": "Volunteer Opportunities",
     "text": "Volunteer Opportunities\nWe offer a range of volunteering opportunities, including:\n\nEvent Support: Assist with planning and organizing cultural festivals, networking events, and family days.\nCommunity Outreach: Help us connect with new members and promote community engagement.\nMentorship Programs: Share your knowledge and experience to support students, professionals, and families.\nContent Creation: Help us create blogs, newsletters, social media content, and more.\n\nNo matter your skills or background, there is a place for you in our community!"
   },
@@ -487,7 +487,7 @@
     "href": "join.html#why-join-us",
     "title": "Join the Community",
     "section": "Why Join Us?",
-    "text": "Why Join Us?\n\nConnect with fellow Kenyans across Scotland.\nParticipate in cultural events, networking forums, and community development projects.\nAccess mentorship, support, and learning opportunities.\nCelebrate and promote Kenyan culture and achievements."
+    "text": "Why Join Us?\n\nConnect with fellow Kenyans across Scotland.\n\nParticipate in cultural events, networking forums, and community development projects.\n\nAccess mentorship, support, and learning opportunities.\n\nCelebrate and promote Kenyan culture and achievements."
   },
   {
     "objectID": "join.html#how-to-join",
@@ -495,5 +495,26 @@
     "title": "Join the Community",
     "section": "How to Join",
     "text": "How to Join\nJoining is easy and free!\n👉 Please contact us with your name, email address, mobile number, and your areas of interest.\nWe look forward to welcoming you into our growing community!"
+  },
+  {
+    "objectID": "volunteer.html#volunteer-sign-up-form",
+    "href": "volunteer.html#volunteer-sign-up-form",
+    "title": "Volunteer with Us",
+    "section": "Volunteer Sign-Up Form",
+    "text": "Volunteer Sign-Up Form\n\n   \nFull Name * \nEmail Address * \nMobile Number * \nPreferred Volunteering Area *  Select an area Event Support Community Outreach Mentorship Programs Content Creation Other \nAvailability *  Select your availability Weekdays Weekends Flexible \nTell Us More\n\n\nSubmit"
+  },
+  {
+    "objectID": "partner-with-us.html#partnership-sign-up-form",
+    "href": "partner-with-us.html#partnership-sign-up-form",
+    "title": "Partner with Us",
+    "section": "Partnership Sign-Up Form",
+    "text": "Partnership Sign-Up Form\n\n   \nOrganization Name * \nContact Person * \nEmail Address * \nType of Partnership *  Select an option Event Sponsorship Mentorship Support Community Development Collaboration Media or Content Partnership Other \nMessage\n\n\nSubmit Partnership Request"
+  },
+  {
+    "objectID": "join.html#membership-sign-up-form",
+    "href": "join.html#membership-sign-up-form",
+    "title": "Join the Community",
+    "section": "Membership Sign-Up Form",
+    "text": "Membership Sign-Up Form\n\n   \nFull Name * \nEmail Address * \nMobile Number * \nArea of Interest *  Select an option Networking Community Events Mentorship Professional Development Youth Engagement Cultural Promotion General Membership \nMessage\n\n\nJoin Now"
   }
 ]

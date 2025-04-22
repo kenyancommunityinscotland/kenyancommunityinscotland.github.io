@@ -3,22 +3,50 @@ title: "Join the Community"
 page-layout: full
 ---
 
-We are excited to welcome new members to the Kenyan Community in Scotland!  
-By becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland.
+We are excited to welcome new members to the Kenyan Community in Scotland. By becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland.
 
 ## Why Join Us?
 
-- Connect with fellow Kenyans across Scotland.
-- Participate in cultural events, networking forums, and community development projects.
-- Access mentorship, support, and learning opportunities.
-- Celebrate and promote Kenyan culture and achievements.
+- **Connect** with fellow Kenyans across Scotland.  
+- **Participate** in cultural events, networking forums, and community development projects.  
+- **Access** mentorship, support, and learning opportunities.  
+- **Celebrate** and promote Kenyan culture and achievements.
 
-## How to Join
+## Membership Sign-Up Form
 
-Joining is easy and free!
+<form action="https://formspree.io/f/mwpokljr" method="POST">
 
-👉 Please [contact us](mailto:info@kenyancommunityinscotland.uk) with your name, email address, mobile number, and your areas of interest.
+  <!-- Optional metadata -->
+  <input type="hidden" name="page_source" value="Join Page">
+  <input type="hidden" name="_subject" value="New Community Member Submission">
+  <input type="hidden" name="_redirect" value="https://kenyancommunityinscotland.uk/thank-you-join.html">
 
-We look forward to welcoming you into our growing community!
+  <label for="name"><strong>Full Name *</strong></label><br>
+  <input type="text" id="name" name="name" placeholder="e.g., Linet Chirchir" autocomplete="name" aria-label="Full Name" required style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #ccc;"><br>
+
+  <label for="email"><strong>Email Address *</strong></label><br>
+  <input type="email" id="email" name="_replyto" placeholder="e.g., yourname@example.com" autocomplete="email" aria-label="Email Address" required style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #ccc;"><br>
+
+  <label for="mobile"><strong>Mobile Number *</strong></label><br>
+  <input type="tel" id="mobile" name="mobile" placeholder="e.g., +44 7522 XXX XXX" autocomplete="tel" aria-label="Mobile Number" required style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #ccc;"><br>
+
+  <label for="interest"><strong>Area of Interest *</strong></label><br>
+  <select id="interest" name="interest" aria-label="Area of Interest" required style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #ccc;">
+    <option value="" disabled selected>Select an option</option>
+    <option value="Networking">Networking</option>
+    <option value="Community Events">Community Events</option>
+    <option value="Mentorship">Mentorship</option>
+    <option value="Professional Development">Professional Development</option>
+    <option value="Youth Engagement">Youth Engagement</option>
+    <option value="Cultural Promotion">Cultural Promotion</option>
+    <option value="General Membership">General Membership</option>
+  </select><br>
+
+  <label for="message"><strong>Message</strong></label><br>
+  <textarea id="message" name="message" placeholder="Optional: Tell us more!" rows="5" aria-label="Additional Message" style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #ccc;"></textarea><br>
+
+  <button type="submit" style="background-color: #006400; color: white; padding: 12px 25px; border-radius: 8px; border: none; font-size: 18px; cursor: pointer;">Join Now</button>
+
+</form>
 
 ---
