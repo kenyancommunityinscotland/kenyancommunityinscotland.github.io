@@ -2,30 +2,30 @@
   {
     "objectID": "volunteer.html",
     "href": "volunteer.html",
-    "title": "Volunteer with US",
+    "title": "Volunteer with Us",
     "section": "",
     "text": "We believe that building a strong community starts with passionate individuals who are willing to give their time, skills, and energy. Whether you are looking to make a difference, meet new people, or share your expertise, we welcome you to volunteer with us!"
   },
   {
     "objectID": "volunteer.html#why-volunteer",
     "href": "volunteer.html#why-volunteer",
-    "title": "Volunteer with US",
+    "title": "Volunteer with Us",
     "section": "Why Volunteer?",
     "text": "Why Volunteer?\n\nMake a Positive Impact: Help foster a vibrant, supportive Kenyan community in Scotland.\nDevelop New Skills: Gain experience in event management, community outreach, mentoring, and more.\nBuild Connections: Meet fellow Kenyans and friends of Kenya living across Scotland."
   },
   {
     "objectID": "volunteer.html#volunteer-opportunities",
     "href": "volunteer.html#volunteer-opportunities",
-    "title": "Volunteer with US",
+    "title": "Volunteer with Us",
     "section": "Volunteer Opportunities",
     "text": "Volunteer Opportunities\nWe offer a range of volunteering opportunities, including:\n\nEvent Support: Assist with planning and organizing cultural festivals, networking events, and family days.\nCommunity Outreach: Help us connect with new members and promote community engagement.\nMentorship Programs: Share your knowledge and experience to support students, professionals, and families.\nContent Creation: Help us create blogs, newsletters, social media content, and more.\n\nNo matter your skills or background, there is a place for you in our community!"
   },
   {
-    "objectID": "volunteer.html#how-to-get-involved",
-    "href": "volunteer.html#how-to-get-involved",
-    "title": "Volunteer with US",
-    "section": "How to Get Involved",
-    "text": "How to Get Involved\nReady to make a difference?\n👉 Sign Up to Volunteer\nOr email us directly at info@kenyancommunityinscotland.uk\nWe can’t wait to welcome you to the team!"
+    "objectID": "volunteer.html#volunteer-sign-up-form",
+    "href": "volunteer.html#volunteer-sign-up-form",
+    "title": "Volunteer with Us",
+    "section": "Volunteer Sign-Up Form",
+    "text": "Volunteer Sign-Up Form\n\n   \nFull Name * \nEmail Address * \nMobile Number * \nPreferred Volunteering Area *  Select an area Event Support Community Outreach Mentorship Programs Content Creation Other \nAvailability *  Select your availability Weekdays Weekends Flexible \nTell Us More\n\n\nSubmit"
   },
   {
     "objectID": "partners.html",
@@ -70,18 +70,11 @@
     "text": "Why Partner with Us?\n\nSupport vibrant cultural and professional initiatives.\nConnect with a dynamic, diverse, and engaged community.\nContribute to building a stronger Kenyan-Scottish relationship."
   },
   {
-    "objectID": "partner-with-us.html#how-you-can-partner",
-    "href": "partner-with-us.html#how-you-can-partner",
+    "objectID": "partner-with-us.html#partnership-sign-up-form",
+    "href": "partner-with-us.html#partnership-sign-up-form",
     "title": "Partner with Us",
-    "section": "How You Can Partner",
-    "text": "How You Can Partner\n\nSponsor events and cultural programs.\nProvide mentorship and training opportunities.\nCollaborate on community development projects."
-  },
-  {
-    "objectID": "partner-with-us.html#get-in-touch",
-    "href": "partner-with-us.html#get-in-touch",
-    "title": "Partner with Us",
-    "section": "Get in Touch",
-    "text": "Get in Touch\nInterested in partnering with us?\n👉 Please contact us to start the conversation!\nTogether, we can build a brighter future."
+    "section": "Partnership Sign-Up Form",
+    "text": "Partnership Sign-Up Form\n\n   \nOrganization Name * \nContact Person * \nEmail Address * \nType of Partnership *  Select an option Event Sponsorship Mentorship Support Community Development Collaboration Media or Content Partnership Other \nMessage\n\n\nSubmit Partnership Request"
   },
   {
     "objectID": "events/event1.html",
@@ -182,11 +175,39 @@
     "text": "Contact Us\nIf you experience difficulty accessing any part of our website or would like to report an accessibility issue, please contact us:\n📧 Email: info@kenyancommunityinscotland.uk\nWe aim to respond to all accessibility feedback within 5 working days."
   },
   {
-    "objectID": "join-form/join.html",
-    "href": "join-form/join.html",
-    "title": "Join the Community",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About US",
     "section": "",
-    "text": "Join the Community\nWe are excited to welcome new members to the Kenyan Community in Scotland!\nPlease fill in your details below to join us.\n\n\n\n\n\nFull Name:\n\n\n\nEmail Address:\n\n\n\nMobile Number:\n\n\n\nArea of Interest:\n\n\nNetworking\nVolunteering\nEvents\nSponsorship\n\n\n\nJoin Now\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "The Kenyan Community in Scotland is a vibrant, welcoming network dedicated to connecting, supporting, and empowering Kenyans living across Scotland.\nFounded with the vision of fostering a strong, inclusive community, we aim to celebrate our rich Kenyan heritage while promoting integration, collaboration, and success within Scottish society."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About US",
+    "section": "Our Mission",
+    "text": "Our Mission\n\nTo create a platform where Kenyans in Scotland can connect, share, and grow together.\nTo promote cultural exchange, understanding, and appreciation between Kenyans and the wider Scottish community.\nTo support members through professional networking, mentorship, social events, and community service initiatives."
+  },
+  {
+    "objectID": "about.html#our-vision",
+    "href": "about.html#our-vision",
+    "title": "About US",
+    "section": "Our Vision",
+    "text": "Our Vision\nWe envision a thriving Kenyan diaspora in Scotland that remains deeply connected to its roots while actively contributing to the social, cultural, and economic fabric of Scottish society."
+  },
+  {
+    "objectID": "about.html#what-we-do",
+    "href": "about.html#what-we-do",
+    "title": "About US",
+    "section": "What We Do",
+    "text": "What We Do\n\nCommunity Events: Organizing cultural celebrations, professional mixers, workshops, and family gatherings.\nSupport and Advocacy: Offering resources, peer support, and advocacy for newcomers and long-term residents alike.\nPartnerships: Collaborating with organizations, businesses, and institutions to create opportunities for our members.\nYouth Engagement: Inspiring and mentoring the next generation of Kenyan-Scots."
+  },
+  {
+    "objectID": "about.html#get-involved",
+    "href": "about.html#get-involved",
+    "title": "About US",
+    "section": "Get Involved",
+    "text": "Get Involved\nWhether you are new to Scotland or have called it home for years, we invite you to join us.\nTogether, we can build a community that uplifts every member and celebrates the best of who we are.\n👉 Join the Community\n👉 Partner with US\n\n\nConnecting Roots and Building Futures"
   },
   {
     "objectID": "index.html",
@@ -236,41 +257,6 @@
     "title": "Kenyan Community in Scotland",
     "section": "Partners",
     "text": "Partners"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About US",
-    "section": "",
-    "text": "The Kenyan Community in Scotland is a vibrant, welcoming network dedicated to connecting, supporting, and empowering Kenyans living across Scotland.\nFounded with the vision of fostering a strong, inclusive community, we aim to celebrate our rich Kenyan heritage while promoting integration, collaboration, and success within Scottish society."
-  },
-  {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About US",
-    "section": "Our Mission",
-    "text": "Our Mission\n\nTo create a platform where Kenyans in Scotland can connect, share, and grow together.\nTo promote cultural exchange, understanding, and appreciation between Kenyans and the wider Scottish community.\nTo support members through professional networking, mentorship, social events, and community service initiatives."
-  },
-  {
-    "objectID": "about.html#our-vision",
-    "href": "about.html#our-vision",
-    "title": "About US",
-    "section": "Our Vision",
-    "text": "Our Vision\nWe envision a thriving Kenyan diaspora in Scotland that remains deeply connected to its roots while actively contributing to the social, cultural, and economic fabric of Scottish society."
-  },
-  {
-    "objectID": "about.html#what-we-do",
-    "href": "about.html#what-we-do",
-    "title": "About US",
-    "section": "What We Do",
-    "text": "What We Do\n\nCommunity Events: Organizing cultural celebrations, professional mixers, workshops, and family gatherings.\nSupport and Advocacy: Offering resources, peer support, and advocacy for newcomers and long-term residents alike.\nPartnerships: Collaborating with organizations, businesses, and institutions to create opportunities for our members.\nYouth Engagement: Inspiring and mentoring the next generation of Kenyan-Scots."
-  },
-  {
-    "objectID": "about.html#get-involved",
-    "href": "about.html#get-involved",
-    "title": "About US",
-    "section": "Get Involved",
-    "text": "Get Involved\nWhether you are new to Scotland or have called it home for years, we invite you to join us.\nTogether, we can build a community that uplifts every member and celebrates the best of who we are.\n👉 Join the Community\n👉 Partner with US\n\n\nConnecting Roots and Building Futures"
   },
   {
     "objectID": "ts-and-cs.html",
@@ -354,21 +340,21 @@
     "href": "join.html",
     "title": "Join the Community",
     "section": "",
-    "text": "We are excited to welcome new members to the Kenyan Community in Scotland!\nBy becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland."
+    "text": "We are excited to welcome new members to the Kenyan Community in Scotland. By becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland."
   },
   {
     "objectID": "join.html#why-join-us",
     "href": "join.html#why-join-us",
     "title": "Join the Community",
     "section": "Why Join Us?",
-    "text": "Why Join Us?\n\nConnect with fellow Kenyans across Scotland.\nParticipate in cultural events, networking forums, and community development projects.\nAccess mentorship, support, and learning opportunities.\nCelebrate and promote Kenyan culture and achievements."
+    "text": "Why Join Us?\n\nConnect with fellow Kenyans across Scotland.\n\nParticipate in cultural events, networking forums, and community development projects.\n\nAccess mentorship, support, and learning opportunities.\n\nCelebrate and promote Kenyan culture and achievements."
   },
   {
-    "objectID": "join.html#how-to-join",
-    "href": "join.html#how-to-join",
+    "objectID": "join.html#membership-sign-up-form",
+    "href": "join.html#membership-sign-up-form",
     "title": "Join the Community",
-    "section": "How to Join",
-    "text": "How to Join\nJoining is easy and free!\n👉 Please contact us with your name, email address, mobile number, and your areas of interest.\nWe look forward to welcoming you into our growing community!"
+    "section": "Membership Sign-Up Form",
+    "text": "Membership Sign-Up Form\n\n   \nFull Name * \nEmail Address * \nMobile Number * \nArea of Interest *  Select an option Networking Community Events Mentorship Professional Development Youth Engagement Cultural Promotion General Membership \nMessage\n\n\nJoin Now"
   },
   {
     "objectID": "contact.html",
