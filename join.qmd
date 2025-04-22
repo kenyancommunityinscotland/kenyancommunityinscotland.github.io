@@ -1,13 +1,24 @@
 ---
 title: "Join the Community"
-format: html
-execute:
-  shiny: true
 page-layout: full
 ---
 
-We are excited to welcome new members to the Kenyan Community in Scotland!
+We are excited to welcome new members to the Kenyan Community in Scotland!  
+By becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland.
 
-Click below to fill in your details:
+## Why Join Us?
 
-[Join Now](https://kenyancommunityinscotland.shinyapps.io/join-form/){.btn .btn-primary .btn-lg target="_blank" rel="noopener" aria-label="Join the Community Form"}
+- Connect with fellow Kenyans across Scotland.
+- Participate in cultural events, networking forums, and community development projects.
+- Access mentorship, support, and learning opportunities.
+- Celebrate and promote Kenyan culture and achievements.
+
+## How to Join
+
+Joining is easy and free!
+
+👉 Please [contact us](mailto:info@kenyancommunityinscotland.uk) with your name, email address, mobile number, and your areas of interest.
+
+We look forward to welcoming you into our growing community!
+
+---
