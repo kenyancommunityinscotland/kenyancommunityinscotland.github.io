@@ -1,6 +1,5 @@
 ---
 pagetitle: "Kenyan Community in Scotland"
-page-layout: full
 search: true
 image: /images/cultural_festival.JPG
 image-alt: "Maasai Cultural Festival"
@@ -80,7 +79,7 @@ listing:
 Fostering unity, growth, and opportunity for Kenyans living in Scotland through community engagement, culture, and support. Be part of a growing movement: connect, contribute, and make an impact today!
 
 ::: hero-buttons
-[Join the Community](join.qmd){.btn .btn-lg .btn-primary role="button"} [Partner with Us](partner.qmd){.btn .btn-lg .btn-primary role="button"}
+[Join the Community](join.qmd){.btn .btn-lg .btn-primary role="button"} [Partner with Us](partner-with-us.qmd){.btn .btn-lg .btn-primary role="button"}
 :::
 
 :::

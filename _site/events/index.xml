@@ -11,6 +11,44 @@
 <description>Discover and participate in events organized by the Kenyan Community in Scotland.
 </description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Sun, 20 Apr 2025 15:25:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Apr 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Community Networking Event - Edinburgh</title>
+  <link>http://kenyancommunityinscotland.uk/events/community-networking-event.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Join us for an exciting networking event in Edinburgh, where members of the Kenyan Community in Scotland come together to connect, share, and inspire.</p>
+<p><strong>Highlights:</strong> - Networking opportunities - Sharing professional experiences - Building lasting community connections</p>
+<p>Stay tuned for more events like this!</p>
+<hr>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Events</category>
+  <guid>http://kenyancommunityinscotland.uk/events/community-networking-event.html</guid>
+  <pubDate>Wed, 30 Apr 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Kenyan Community Networking Mixer</title>
+  <link>http://kenyancommunityinscotland.uk/events/event1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Join us for an afternoon of networking, learning, and connection in Edinburgh! All members are welcome.</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Events</category>
+  <guid>http://kenyancommunityinscotland.uk/events/event1.html</guid>
+  <pubDate>Wed, 30 Apr 2025 23:00:00 GMT</pubDate>
+  <media:content url="http://kenyancommunityinscotland.uk/images/networking_event.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>

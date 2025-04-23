@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title','listing-author','listing-categories','listing-date','listing-word-count','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -176,11 +176,11 @@ window.Quarto = {
 <span class="menu-text">Join</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../volunteer.qmd"> 
+    <a class="nav-link" href="../volunteer.html"> 
 <span class="menu-text">Volunteer</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../partner.html"> 
+    <a class="nav-link" href="../partner-with-us.html"> 
 <span class="menu-text">Partner</span></a>
   </li>  
   <li class="nav-item">
@@ -245,6 +245,11 @@ window.Quarto = {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:info@kenyancommunityinscotland.uk" target="_blank"> <i class="bi bi-envelope" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -259,7 +264,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Events">Events <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -293,7 +298,72 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-
+<div class="quarto-post image-right" data-index="0" data-categories="Events" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1745161337633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="39">
+<div class="thumbnail">
+<p><a href="../events/community-networking-event.html" class="no-external"></a></p><a href="../events/community-networking-event.html" class="no-external">
+<p class="card-img-top"><img src="/images/logo.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="../events/community-networking-event.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/community-networking-event.html" class="no-external">Community Networking Event - Edinburgh</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../events/community-networking-event.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Events'); return false;">
+Events
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="../events/community-networking-event.html" class="no-external">
+<div class="listing-date">
+May 1, 2025
+</div>
+<div class="listing-reading-time">
+1 min
+</div>
+<div class="metadata-value listing-word-count">
+39 words
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Events" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1745159524000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
+<div class="thumbnail">
+<p><a href="../events/event1.html" class="no-external"></a></p><a href="../events/event1.html" class="no-external">
+<p><img loading="lazy" src="../images/networking_event.jpg" class="thumbnail-image"></p>
+</a><p><a href="../events/event1.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/event1.html" class="no-external">Kenyan Community Networking Mixer</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../events/event1.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Events'); return false;">
+Events
+</div>
+</div>
+</div>
+<div class="metadata">
+<a href="../events/event1.html" class="no-external">
+<div class="listing-date">
+May 1, 2025
+</div>
+<div class="listing-reading-time">
+1 min
+</div>
+<div class="metadata-value listing-word-count">
+16 words
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -882,12 +952,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="../accessibility.qmd">
+    <a class="nav-link" href="../accessibility.html">
 <p>Accessibility</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../ts-and-cs.qmd">
+    <a class="nav-link" href="../ts-and-cs.html">
 <p>Terms and Conditions</p>
 </a>
   </li>  

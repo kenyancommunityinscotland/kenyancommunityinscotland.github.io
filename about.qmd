@@ -1,5 +1,6 @@
 ---
 title: "About US"
+page-layout: full
 ---
 
 The **Kenyan Community in Scotland** is a vibrant, welcoming network dedicated to connecting, supporting, and empowering Kenyans living across Scotland. 

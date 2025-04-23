@@ -45,7 +45,7 @@ We are excited to welcome new members to the Kenyan Community in Scotland. By be
   <label for="message"><strong>Message</strong></label><br>
   <textarea id="message" name="message" placeholder="Optional: Tell us more!" rows="5" aria-label="Additional Message" style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #ccc;"></textarea><br>
 
-  <button type="submit" style="background-color: #006400; color: white; padding: 12px 25px; border-radius: 8px; border: none; font-size: 18px; cursor: pointer;">Join Now</button>
+  <button type="submit" style="background-color: #4B64E2; color: white; padding: 12px 25px; border-radius: 8px; border: none; font-size: 18px; cursor: pointer;">Join Now</button>
 
 </form>
 

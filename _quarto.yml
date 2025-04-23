@@ -1,5 +1,6 @@
 project:
   type: website
+page-layout: full
 
 website:
   title: "Kenyan Community in Scotland"

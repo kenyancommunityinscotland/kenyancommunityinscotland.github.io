@@ -21,7 +21,10 @@
   },
   {
     "listing": "/events/index.html",
-    "items": []
+    "items": [
+      "/events/community-networking-event.html",
+      "/events/event1.html"
+    ]
   },
   {
     "listing": "/news/index.html",

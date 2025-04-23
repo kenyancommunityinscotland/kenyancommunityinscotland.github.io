@@ -60,7 +60,7 @@
     "href": "contact.html",
     "title": "Contact Us",
     "section": "",
-    "text": "We would love to hear from you! Whether you have a question, feedback, or are interested in joining or partnering with the Kenyan Community in Scotland, feel free to reach out.\n\n\n📧 Email: info@kenyancommunityinscotland.uk\n🌐 Website: kenyancommunityinscotland.uk\n\n\n\nStay updated with our latest news, events, and community activities by connecting with us on social media. Follow our official accounts to learn about upcoming cultural festivals, community gatherings, professional networking opportunities, and important updates that matter to the Kenyan community living in Scotland. Our platforms also provide a space to celebrate our achievements, share our stories, and support one another.\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\n\nWe occasionally host community events, meetups, and cultural festivals across Scotland. Keep an eye on our Events page for upcoming gatherings!\n\n\n\nYour feedback helps us grow and serve you better. Feel free to share your suggestions and ideas by sending an email or filling out our upcoming feedback form.\nWe look forward to connecting with you!"
+    "text": "We would love to hear from you! Whether you have a question, feedback, or are interested in joining or partnering with the Kenyan Community in Scotland, feel free to reach out."
   },
   {
     "objectID": "join-the-community.html",
@@ -123,7 +123,7 @@
     "href": "events/index.html",
     "title": "Events",
     "section": "",
-    "text": "No matching items\n\n Back to top"
+    "text": "Community Networking Event - Edinburgh\n\n\n\n\n\n\nEvents\n\n\n\n\n\n\nMay 1, 2025\n\n\n1 min\n\n\n39 words\n\n\n\n\n\n\n\n\n\n\n\n\nKenyan Community Networking Mixer\n\n\n\n\n\n\nEvents\n\n\n\n\n\n\nMay 1, 2025\n\n\n1 min\n\n\n16 words\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "resources/index.html",
@@ -186,7 +186,7 @@
     "href": "index.html#resources",
     "title": "Kenyan Community in Scotland",
     "section": "Resources",
-    "text": "Resources\n\n\n\n\n\n\n\n\nGuide to Accessing Healthcare in Scotland\n\n\nA detailed guide to help Kenyan community members navigate healthcare services in Scotland.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuide to Kenyan Passport Renewal in the UK\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Resources\n\n\n\n\n\n\n\n\n\n\nGuide to Accessing Healthcare in Scotland\n\n\nA detailed guide to help Kenyan community members navigate healthcare services in Scotland.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuide to Kenyan Passport Renewal in the UK\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#gallery",
@@ -444,15 +444,15 @@
     "objectID": "contact.html#connect-with-us",
     "href": "contact.html#connect-with-us",
     "title": "Contact Us",
-    "section": "",
-    "text": "Stay updated with our latest news, events, and community activities by connecting with us on social media. Follow our official accounts to learn about upcoming cultural festivals, community gatherings, professional networking opportunities, and important updates that matter to the Kenyan community living in Scotland. Our platforms also provide a space to celebrate our achievements, share our stories, and support one another."
+    "section": "Connect with Us",
+    "text": "Connect with Us\nStay updated with our latest news, events, and community activities by connecting with us on social media. Follow our official accounts to learn about upcoming cultural festivals, community gatherings, professional networking opportunities, and important updates that matter to the Kenyan community living in Scotland. Our platforms also provide a space to celebrate our achievements, share our stories, and support one another."
   },
   {
     "objectID": "contact.html#visit-us",
     "href": "contact.html#visit-us",
     "title": "Contact Us",
-    "section": "",
-    "text": "We occasionally host community events, meetups, and cultural festivals across Scotland. Keep an eye on our Events page for upcoming gatherings!"
+    "section": "Visit Us",
+    "text": "Visit Us\nWe occasionally host community events, meetups, and cultural festivals across Scotland. Keep an eye on our Events page for upcoming gatherings!"
   },
   {
     "objectID": "contact.html#feedback",
@@ -516,5 +516,12 @@
     "title": "Join the Community",
     "section": "Membership Sign-Up Form",
     "text": "Membership Sign-Up Form\n\n   \nFull Name * \nEmail Address * \nMobile Number * \nArea of Interest *  Select an option Networking Community Events Mentorship Professional Development Youth Engagement Cultural Promotion General Membership \nMessage\n\n\nJoin Now"
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Contact Us",
+    "section": "Contact Form",
+    "text": "Contact Form\n\n  \nYour Name * \nYour Email Address * \nSubject * \nMessage *\n\n\nSend Message"
   }
 ]
