@@ -40,8 +40,10 @@ We reserve the right to modify these terms and conditions at any time. Changes w
 
 ## Contact Us
 
-If you have any questions about these terms and conditions, please contact us:
+If you have any questions about these terms and conditions:
 
-📧 Email: [info@kenyancommunityinscotland.uk](mailto:info@kenyancommunityinscotland.uk)
-
----
+<div style="margin-top: 1em; text-align: center;">
+  <a href="contact.qmd#contact-form" class="btn btn-primary btn-lg" role="button" aria-label="Ask questions about the Terms and Conditions using the contact form" style="padding: 12px 24px; font-size: 18px; border-radius: 8px;">
+    📩 Ask a Question About These Terms
+  </a>
+</div>

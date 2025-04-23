@@ -32,10 +32,10 @@ If you encounter any accessibility barriers or have suggestions for improvements
 
 ## Contact Us
 
-If you experience difficulty accessing any part of our website or would like to report an accessibility issue, please contact us:
+We value your input and want to ensure everyone can access our content with ease. If you encounter any issues or have suggestions to help us improve accessibility:
 
-📧 Email: [info@kenyancommunityinscotland.uk](mailto:info@kenyancommunityinscotland.uk)
-
-We aim to respond to all accessibility feedback within 5 working days.
-
----
+<div style="margin-top: 1em; text-align: center;">
+  <a href="contact.qmd#contact-form" class="btn btn-primary btn-lg" role="button" aria-label="Report accessibility issue using the contact form" style="padding: 12px 24px; font-size: 18px; border-radius: 8px;">
+    🛠️ Report an Accessibility Issue
+  </a>
+</div>
