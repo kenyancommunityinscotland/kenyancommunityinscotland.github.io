@@ -1,9 +1,22 @@
 [
   {
-    "listing": "/news/index.html",
+    "listing": "/events/index.html",
     "items": [
-      "/news/may-2025-update.html",
-      "/news/news1.html"
+      "/events/event1.html",
+      "/events/community-networking-event.html"
+    ]
+  },
+  {
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/gallery1.html",
+      "/gallery/community-event-highlights.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/a_fantastic_afternoon_at_our_networking_mixer.html"
     ]
   },
   {
@@ -19,8 +32,8 @@
       "/events/event1.html",
       "/events/community-networking-event.html",
       "/blog/a_fantastic_afternoon_at_our_networking_mixer.html",
-      "/news/may-2025-update.html",
       "/news/news1.html",
+      "/news/may-2025-update.html",
       "/resources/resource1.html",
       "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html",
       "/gallery/gallery1.html",
@@ -28,23 +41,10 @@
     ]
   },
   {
-    "listing": "/blog/index.html",
+    "listing": "/news/index.html",
     "items": [
-      "/blog/a_fantastic_afternoon_at_our_networking_mixer.html"
-    ]
-  },
-  {
-    "listing": "/events/index.html",
-    "items": [
-      "/events/event1.html",
-      "/events/community-networking-event.html"
-    ]
-  },
-  {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/gallery1.html",
-      "/gallery/community-event-highlights.html"
+      "/news/news1.html",
+      "/news/may-2025-update.html"
     ]
   }
 ]

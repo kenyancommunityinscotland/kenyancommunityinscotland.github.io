@@ -13,6 +13,24 @@
 <generator>quarto-1.6.43</generator>
 <lastBuildDate>Thu, 01 May 2025 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Community Website Launch</title>
+  <link>http://kenyancommunityinscotland.uk/news/news1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We are excited to announce the launch of the official Kenyan Community in Scotland website! Stay tuned for updates and events.</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>News</category>
+  <guid>http://kenyancommunityinscotland.uk/news/news1.html</guid>
+  <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+  <media:content url="http://kenyancommunityinscotland.uk/images/website_launch.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>May 2025 News Update</title>
   <link>http://kenyancommunityinscotland.uk/news/may-2025-update.html</link>
   <description><![CDATA[ 
@@ -35,24 +53,6 @@
   <category>News</category>
   <guid>http://kenyancommunityinscotland.uk/news/may-2025-update.html</guid>
   <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Community Website Launch</title>
-  <link>http://kenyancommunityinscotland.uk/news/news1.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>We are excited to announce the launch of the official Kenyan Community in Scotland website! Stay tuned for updates and events.</p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>News</category>
-  <guid>http://kenyancommunityinscotland.uk/news/news1.html</guid>
-  <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-  <media:content url="http://kenyancommunityinscotland.uk/images/website_launch.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
