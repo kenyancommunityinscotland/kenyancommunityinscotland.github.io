@@ -1,8 +1,8 @@
 ---
 pagetitle: "Kenyan Community in Scotland"
 search: true
-image: /images/cultural_festival.JPG
-image-alt: "Maasai Cultural Festival"
+image: /images/elephants.JPG
+image-alt: "Elephants"
 repo-actions: [edit, issue]
 comments: 
   giscus: 
