@@ -1,5 +1,10 @@
 project:
   type: website
+  preview:
+    port: 3434
+    browser: true
+    watch-inputs: true
+    timeout: 3600
 page-layout: full
 
 website:
@@ -11,7 +16,12 @@ website:
   favicon: /images/logo.png
   repo-url: https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io
   repo-actions: [edit, issue]
-  google-analytics: "G-XP3CL76VVS" # Remember to disable during development if forking
+  google-analytics: 
+    tracking-id: "G-XP3CL76VVS" # Remember to disable during development if forking
+    anonymize-ip: true
+  cookie-consent:
+    type: express
+    prefs-text: "Change Cookies 🍪"
   navbar:
     toggle-position: right
     logo-href: http://kenyancommunityinscotland.uk/
@@ -51,6 +61,30 @@ website:
         href: gallery/index.qmd
         aria-label: "Photo gallery of Kenyan Community events in Scotland"
     right:
+      - icon: facebook
+        href: https://www.facebook.com/KenyanCommunityInScotland
+        target: _blank
+      - icon: twitter-x
+        href: https://x.com/KenyanCommScot
+        target: _blank
+      - icon: instagram
+        href: https://www.instagram.com/kenyancommunityinscotland
+        target: _blank
+      - icon: threads
+        href: https://www.threads.net/@KenyanCommunityInScotland
+        target: _blank
+      - icon: youtube
+        href: https://www.youtube.com/@kenyancommunityinscotland
+        target: _blank
+      - icon: tiktok
+        href: https://www.tiktok.com/@kenyancommscot
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/company/kenyancommunityinscotland
+        target: _blank
+      - icon: github
+        href: https://github.com/kenyancommunityinscotland/
+        target: _blank
       - icon: envelope
         href: mailto:info@kenyancommunityinscotland.uk
         target: _blank
