@@ -16,16 +16,8 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/2025-06-22-glas-tulaichean-hike.html",
-      "/blog/2024-01-14-networking-mixer.html"
-    ]
-  },
-  {
-    "listing": "/events/index.html",
-    "items": [
-      "/events/2025-07-19-ben-nevis-hike.html",
-      "/events/2025-06-21-glas-tulaichean-hike.html",
-      "/events/2025-06-28-pentland-hills-hike.html"
+      "/blog/glas-tulaichean-hike.html",
+      "/blog/networking-mixer.html"
     ]
   },
   {
@@ -36,13 +28,21 @@
     ]
   },
   {
+    "listing": "/events/index.html",
+    "items": [
+      "/events/ben-nevis-hike.html",
+      "/events/pentland-hills-hike.html",
+      "/events/glas-tulaichean-hike.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
-      "/events/2025-07-19-ben-nevis-hike.html",
-      "/events/2025-06-21-glas-tulaichean-hike.html",
-      "/events/2025-06-28-pentland-hills-hike.html",
-      "/blog/2025-06-22-glas-tulaichean-hike.html",
-      "/blog/2024-01-14-networking-mixer.html",
+      "/events/ben-nevis-hike.html",
+      "/events/pentland-hills-hike.html",
+      "/events/glas-tulaichean-hike.html",
+      "/blog/glas-tulaichean-hike.html",
+      "/blog/networking-mixer.html",
       "/news/news1.html",
       "/news/may-2025-update.html",
       "/resources/resource1.html",
