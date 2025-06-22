@@ -1,5 +1,5 @@
 ---
-title: "**Hiking Trip: Ben Nevis via Mountain Track from Fort William - 19 July 2025**"
+title: "**Ben Nevis Hike:  Saturday, 19th July 2025**"
 date: today
 author: "Linus Chirchir"
 image: /events/images/ben-nevis.jpg
@@ -10,7 +10,9 @@ format:
     page-layout: full
 ---
 
-Take on the highest mountain in the UK. Join us for an unforgettable summer hiking challenge as we summit **Ben Nevis (1,345 m / 4,413 ft)**, one of Scotland’s most iconic peaks.
+## Ben Nevis Hiking Trip via Mountain Track from Fort William
+
+Take on the highest mountain in the UK. Join us for an unforgettable summer hiking challenge as we summit Ben Nevis (1,345 m / 4,413 ft), one of Scotland’s most iconic peaks.
 
 ## 🗓️ Date
 **Saturday, 19th July 2025**

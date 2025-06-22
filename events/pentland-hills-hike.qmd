@@ -1,5 +1,5 @@
 ---
-title: "**Hiking Day: Pentland Hills Circular Walk from Flotterstone – 28 June 2025**"
+title: "**Pentland Hills Hike: Saturday, 28 June 2025**"
 date: 2025-06-01
 author: "Linus Chirchir"
 image: /events/images/pentlands-hills.jpg
@@ -10,7 +10,9 @@ format:
     page-layout: full
 ---
 
-Join us for a rejuvenating summer day out in the **Pentland Hills Regional Park**. This circular walk from **Flotterstone** offers panoramic views, peaceful trails, and a wonderful opportunity to connect with nature and fellow community members.
+## Pentland Hills Circular Walk from Flotterstone
+
+Join us for a rejuvenating summer day out in the Pentland Hills Regional Park. This circular walk from Flotterstone offers panoramic views, peaceful trails, and a wonderful opportunity to connect with nature and fellow community members.
 
 ## 🗓️ Date  
 **Saturday, 28th June 2025**

@@ -1,5 +1,5 @@
 ---
-title: "**Hiking Trip: Glas Tulaichean & Càrn an Rìgh from Spittal of Glenshee - 21 June 2025**"
+title: "**Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025**"
 date: 2025-06-01
 author: "Linus Chirchir"
 image: /events/images/glas-tulaichean.jpg # Add an image to this path if available
@@ -10,7 +10,9 @@ format:
     page-layout: full
 ---
 
-Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, **Glas Tulaichean (1,051 m / 3,448 ft)** and **Càrn an Rìgh (1,029 m / 3,376 ft)** both in the heart of the scenic Glenshee Highlands.
+## Glas Tulaichean & Càrn an Rìgh Hiking Trip from Spittal of Glenshee
+
+Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, Glas Tulaichean (1,051 m / 3,448 ft)** and Càrn an Rìgh (1,029 m / 3,376 ft) both in the heart of the scenic Glenshee Highlands.
 
 ## 🗓️ Date
 **Saturday, 21st June 2025**
