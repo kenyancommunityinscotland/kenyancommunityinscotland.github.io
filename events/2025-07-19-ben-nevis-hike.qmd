@@ -1,0 +1,58 @@
+---
+title: "**Hiking Trip: Ben Nevis via Mountain Track from Fort William - 19 July 2025**"
+date: today
+author: "Linus Chirchir"
+image: /events/images/ben-nevis.jpg
+image-alt: "View of Ben Nevis summit on a clear day"
+categories: [Kenyan Community, Outdoor, Hiking]
+format:
+  html:
+    page-layout: full
+---
+
+Take on the highest mountain in the UK. Join us for an unforgettable summer hiking challenge as we summit **Ben Nevis (1,345 m / 4,413 ft)**, one of Scotland’s most iconic peaks.
+
+## 🗓️ Date
+**Saturday, 19th July 2025**
+
+## 📍 Location
+**Meeting Point:** Usher Hall, Edinburgh  
+**Time:** Departure to for the Mountain Path at 4:00 AM
+
+## 🏞️ About Ben Nevis
+
+Located near the town of Fort William in the Scottish Highlands, Ben Nevis is a magnet for hikers and mountaineers. The trail offers breathtaking views, rugged beauty, and a true sense of accomplishment.
+
+## 🥾 Hike Overview
+
+- **Route:** Mountain Track (also known as the Tourist Route)
+- **Distance:** ~17 km round trip
+- **Elevation Gain:** ~1,350 meters
+- **Difficulty:** Strenuous
+- **Estimated Duration:** 7–9 hours
+
+## 🎒 What to Bring
+
+- Sturdy hiking boots
+- Weather-appropriate clothing (layers, waterproofs)
+- Plenty of water and snacks
+- Sun protection and personal first aid kit
+- Trekking poles (optional but helpful)
+
+## ⚠️ Important Notes
+
+- Weather in the Highlands can change rapidly. Be prepared for rain, wind, or fog.
+- This hike is physically demanding — a good fitness level is required.
+- Children under 16 must be accompanied by a responsible adult.
+
+## 🚗 Travel
+
+Participants are encouraged to arrange carpooling. Let us know in advance if you can offer or need a lift.
+
+## 📝 Register
+
+Interested in joining? Please [contact us](mailto:info@kenyancommunityinscotland.uk) or [fill out the Volunteer form](../volunteer.qmd) and mention **Ben Nevis Hike** in the message.
+
+---
+
+Let’s summit the UK’s tallest mountain together!

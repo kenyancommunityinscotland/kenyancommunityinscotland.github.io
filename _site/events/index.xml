@@ -8,47 +8,54 @@
 <title>Kenyan Community in Scotland</title>
 <link>http://kenyancommunityinscotland.uk/events/</link>
 <atom:link href="http://kenyancommunityinscotland.uk/events/index.xml" rel="self" type="application/rss+xml"/>
-<description>Discover and participate in events organized by the Kenyan Community in Scotland.
+<description>Discover and participate in events organised by the Kenyan Community in Scotland.
 </description>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Wed, 30 Apr 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jan 2024 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Community Networking Event - Edinburgh</title>
-  <link>http://kenyancommunityinscotland.uk/events/community-networking-event.html</link>
+  <title>A Fantastic Afternoon at Our Networking Mixer</title>
+  <dc:creator>Linus Chirchir</dc:creator>
+  <link>http://kenyancommunityinscotland.uk/events/a_fantastic_afternoon_at_our_networking_mixer.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Join us for an exciting networking event in Edinburgh, where members of the Kenyan Community in Scotland come together to connect, share, and inspire.</p>
-<p><strong>Highlights:</strong> - Networking opportunities - Sharing professional experiences - Building lasting community connections</p>
-<p>Stay tuned for more events like this!</p>
-<hr>
+<section id="a-fantastic-afternoon-at-our-networking-mixer" class="level1">
+<h1>A Fantastic Afternoon at Our Networking Mixer</h1>
+<p>On 14 January 2024, the Kenyan Community in Scotland hosted a memorable Networking Mixer at <em>The Foot of The Walk - JD Wetherspoon</em> in Edinburgh. The afternoon was filled with energy, laughter, and meaningful conversations, bringing together a vibrant group of Kenyan professionals and friends.</p>
+<p>A huge thank you to everyone who made time to attend. It was heartwarming to see so many familiar faces and meet new members of our growing community. The positive atmosphere reflected the strength and unity of Kenyans living in Scotland.</p>
+<p><img src="http://kenyancommunityinscotland.uk/blog/images/jd_wetherspoon_2.JPG" class="img-fluid"></p>
+<section id="event-highlights" class="level2">
+<h2 class="anchored" data-anchor-id="event-highlights">Event Highlights</h2>
+<ul>
+<li><strong>Lively Networking Sessions</strong>: Attendees engaged in dynamic discussions, exchanging ideas, career experiences, and professional insights across diverse industries including healthcare, IT, education, business, and the arts.</li>
+<li><strong>Sharing Life in Edinburgh</strong>: Many shared personal journeys about settling and thriving in Edinburgh, offering invaluable advice to newcomers.</li>
+<li><strong>Strengthening Community Bonds</strong>: Friendships were rekindled and new relationships were formed, reinforcing the importance of staying connected and supporting each other.</li>
+<li><strong>Youth and Family Engagement</strong>: It was also wonderful to see younger members of the community present, adding to the joyful and inclusive spirit of the day.</li>
+</ul>
+<p><img src="http://kenyancommunityinscotland.uk/blog/images/jd_wetherspoon_3.JPG" class="img-fluid"></p>
+</section>
+<section id="a-special-thanks" class="level2">
+<h2 class="anchored" data-anchor-id="a-special-thanks">A Special Thanks</h2>
+<p>Our heartfelt appreciation goes to our venue, <em>The Foot of The Walk - JD Wetherspoon</em>, for providing a welcoming, comfortable, and relaxed environment. The excellent service and cozy setting contributed immensely to the success of the event.</p>
+<p><img src="http://kenyancommunityinscotland.uk/blog/images/jd_wetherspoon_4.JPG" class="img-fluid"></p>
+</section>
+<section id="reflections-and-next-steps" class="level2">
+<h2 class="anchored" data-anchor-id="reflections-and-next-steps">Reflections and Next Steps</h2>
+<p>This mixer was more than just an event; it was a reminder of the strength that lies in community. It highlighted our shared experiences, our aspirations, and the endless possibilities that collaboration brings.</p>
+<p>We are excited about the future and are already planning more events to continue building a strong, supportive, and thriving Kenyan community network in Scotland.</p>
+<p>Stay tuned for announcements on upcoming workshops, social events, and mentorship programs. Together, we are building a brighter future!</p>
 
 
+</section>
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>Events</category>
-  <guid>http://kenyancommunityinscotland.uk/events/community-networking-event.html</guid>
-  <pubDate>Wed, 30 Apr 2025 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Kenyan Community Networking Mixer</title>
-  <link>http://kenyancommunityinscotland.uk/events/event1.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Join us for an afternoon of networking, learning, and connection in Edinburgh! All members are welcome.</p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
-  <category>Events</category>
-  <guid>http://kenyancommunityinscotland.uk/events/event1.html</guid>
-  <pubDate>Wed, 30 Apr 2025 23:00:00 GMT</pubDate>
-  <media:content url="http://kenyancommunityinscotland.uk/images/networking_event.jpg" medium="image" type="image/jpeg"/>
+  <guid>http://kenyancommunityinscotland.uk/events/a_fantastic_afternoon_at_our_networking_mixer.html</guid>
+  <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="http://kenyancommunityinscotland.uk/events/images/jd_wetherspoon_1.JPG" medium="image"/>
 </item>
 </channel>
 </rss>

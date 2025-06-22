@@ -1,0 +1,46 @@
+---
+title: "**Hiking Trip: Glas Tulaichean & Càrn an Rìgh from Spittal of Glenshee - 21 June 2025**"
+date: 2025-06-01
+author: "Linus Chirchir"
+image: /events/images/glas-tulaichean.jpg # Add an image to this path if available
+image-alt: "A picture of Glas Tulaichean"
+categories: [Kenyan Community, Outdoor, Hiking]
+format:
+  html:
+    page-layout: full
+---
+
+Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, **Glas Tulaichean (1,051 m / 3,448 ft)** and **Càrn an Rìgh (1,029 m / 3,376 ft)** both in the heart of the scenic Glenshee Highlands.
+
+## 🗓️ Date
+**Saturday, 21st June 2025**
+
+## 📍 Location
+**Meeting Point:** Usher Hall, Edinburgh  
+**Time:** Departure at 9:30 AM sharp
+
+## 🥾 Hike Overview
+
+- **Distance:** ~19 km (loop)
+- **Elevation Gain:** ~1,100 meters
+- **Difficulty:** Moderate to Strenuous
+- **Duration:** 6–7 hours (including breaks)
+
+## 🎒 What to Bring
+
+- Good hiking boots
+- Waterproof layers
+- Packed lunch and water
+- Sun protection
+- A positive spirit!
+
+## 🚗 Travel
+Carpooling options may be available. Please indicate in the sign-up form if you can offer or need a lift.
+
+## 📝 Register
+
+If you plan to attend, please [contact us](mailto:info@kenyancommunityinscotland.uk) or [fill out the Volunteer form](../volunteer.qmd) and mention the event in the message.
+
+---
+
+We look forward to sharing the trail with you!

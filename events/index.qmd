@@ -1,7 +1,7 @@
 ---
 title: "Events"
 description: |
-  Discover and participate in events organized by the Kenyan Community in Scotland.
+  Discover and participate in events organised by the Kenyan Community in Scotland.
 listing: 
   sort: "date desc"
   type: default

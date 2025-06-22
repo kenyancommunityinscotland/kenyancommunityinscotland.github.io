@@ -2,9 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/events/community-networking-event.html",
-      "/events/event1.html",
-      "/blog/a_fantastic_afternoon_at_our_networking_mixer.html",
+      "/events/2025-07-19-ben-nevis-hike.html",
+      "/events/2025-06-21-glas-tulaichean-hike.html",
+      "/events/2025-06-28-pentland-hills-hike.html",
+      "/blog/2025-06-22-glas-tulaichean-hike.html",
+      "/blog/2024-01-14-networking-mixer.html",
       "/news/may-2025-update.html",
       "/news/news1.html",
       "/resources/resource1.html",
@@ -22,8 +24,7 @@
   {
     "listing": "/events/index.html",
     "items": [
-      "/events/community-networking-event.html",
-      "/events/event1.html"
+      "/events/a_fantastic_afternoon_at_our_networking_mixer.html"
     ]
   },
   {
