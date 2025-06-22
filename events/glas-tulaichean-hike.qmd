@@ -4,7 +4,7 @@ date: 2025-06-01
 author: "Linus Chirchir"
 image: /events/images/glas-tulaichean.jpg # Add an image to this path if available
 image-alt: "A picture of Glas Tulaichean"
-categories: [Kenyan Community, Outdoor, Hiking]
+categories: [Community, Outdoor, Hiking]
 format:
   html:
     page-layout: full

@@ -4,7 +4,7 @@ date: 2025-06-01
 author: "Linus Chirchir"
 image: /events/images/pentlands-hills.jpg
 image-alt: "Pentland Hills view near Flotterstone"
-categories: [Kenyan Community, Outdoor, Hiking]
+categories: [Community, Outdoor, Hiking]
 format:
   html:
     page-layout: full

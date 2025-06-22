@@ -4,7 +4,7 @@ date: today
 author: "Linus Chirchir"
 image: /events/images/ben-nevis.jpg
 image-alt: "View of Ben Nevis summit on a clear day"
-categories: [Kenyan Community, Outdoor, Hiking]
+categories: [Community, Outdoor, Hiking]
 format:
   html:
     page-layout: full
