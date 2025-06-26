@@ -17,14 +17,8 @@
     "listing": "/blog/index.html",
     "items": [
       "/blog/glas-tulaichean-hike.html",
+      "/blog/world-indoor-champs-glasgow.html",
       "/blog/networking-mixer.html"
-    ]
-  },
-  {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/gallery1.html",
-      "/gallery/community-event-highlights.html"
     ]
   },
   {
@@ -36,12 +30,20 @@
     ]
   },
   {
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/gallery1.html",
+      "/gallery/community-event-highlights.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
       "/events/pentland-hills-hike.html",
       "/events/glas-tulaichean-hike.html",
       "/blog/glas-tulaichean-hike.html",
+      "/blog/world-indoor-champs-glasgow.html",
       "/blog/networking-mixer.html",
       "/news/news1.html",
       "/news/may-2025-update.html",
