@@ -3,7 +3,7 @@ title: "About US"
 page-layout: full
 ---
 
-The **Kenyan Community in Scotland** is a vibrant, welcoming network dedicated to connecting, supporting, and empowering Kenyans living across Scotland. 
+The **Kenyan Community in Scotland (KCS)** is a vibrant, welcoming network dedicated to connecting, supporting, and empowering Kenyans living across Scotland. 
 
 Founded with the vision of fostering a strong, inclusive community, we aim to celebrate our rich Kenyan heritage while promoting integration, collaboration, and success within Scottish society.
 

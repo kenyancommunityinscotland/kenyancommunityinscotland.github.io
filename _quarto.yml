@@ -48,12 +48,12 @@ website:
       - text: "Events"
         href: events/index.qmd
         aria-label: "View upcoming and past events by the Kenyan Community in Scotland"
+      - text: "Stories"
+        href: stories/index.qmd
+        aria-label: "Community stories, event recaps, and reflections"
       - text: "News"
         href: news/index.qmd
         aria-label: "Latest news and updates from the Kenyan Community in Scotland"
-      - text: "Blog"
-        href: blog/index.qmd
-        aria-label: "Community blog posts and reflections"
       - text: "Resources"
         href: resources/index.qmd
         aria-label: "Helpful resources and guides for Kenyans living in Scotland"

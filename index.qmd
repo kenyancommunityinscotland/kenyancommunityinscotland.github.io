@@ -1,5 +1,5 @@
 ---
-pagetitle: "Kenyan Community in Scotland (KCS)"
+pagetitle: "Kenyan Community in Scotland"
 search: true
 image: /images/kenyans.JPG
 image-alt: "Kenyans in Edinburgh"
@@ -24,10 +24,10 @@ listing:
     max-items: 3
     feed: false
 
-  - id: blog
+  - id: stories
     contents: 
-    - /blog
-    - "!blog/index.qmd"
+    - /stories
+    - "!stories/index.qmd"
     sort: "date desc"
     type: grid
     categories: false
@@ -89,9 +89,9 @@ Fostering unity, growth, and opportunity for Kenyans living in Scotland through 
 ::: {#events}
 :::
 
-## [Blog](blog/index.qmd)
+## [Stories](stories/index.qmd)
 
-::: {#blog}
+::: {#stories}
 :::
 
 ## [News](news/index.qmd)
