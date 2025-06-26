@@ -5,13 +5,13 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Kenyan Community in Scotland</title>
+<title>Kenyan Community in Scotland (KCS)</title>
 <link>http://kenyancommunityinscotland.uk/events/</link>
 <atom:link href="http://kenyancommunityinscotland.uk/events/index.xml" rel="self" type="application/rss+xml"/>
 <description>Discover and participate in events organised by the Kenyan Community in Scotland.
 </description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Sun, 22 Jun 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Jun 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Ben Nevis Hike: Saturday, 19th July 2025</title>
   <dc:creator>Linus Chirchir</dc:creator>
@@ -84,7 +84,7 @@
   <category>Outdoor</category>
   <category>Hiking</category>
   <guid>http://kenyancommunityinscotland.uk/events/ben-nevis-hike.html</guid>
-  <pubDate>Sun, 22 Jun 2025 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 25 Jun 2025 23:00:00 GMT</pubDate>
   <media:content url="http://kenyancommunityinscotland.uk/events/images/ben-nevis.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>

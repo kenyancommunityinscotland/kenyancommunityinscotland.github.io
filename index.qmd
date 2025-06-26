@@ -1,5 +1,5 @@
 ---
-pagetitle: "Kenyan Community in Scotland"
+pagetitle: "Kenyan Community in Scotland (KCS)"
 search: true
 image: /images/kenyans.JPG
 image-alt: "Kenyans in Edinburgh"

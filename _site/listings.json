@@ -6,6 +6,7 @@
       "/events/glas-tulaichean-hike.html",
       "/events/pentland-hills-hike.html",
       "/blog/glas-tulaichean-hike.html",
+      "/blog/world-indoor-champs-glasgow.html",
       "/blog/networking-mixer.html",
       "/news/may-2025-update.html",
       "/news/news1.html",
@@ -18,7 +19,9 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/a_fantastic_afternoon_at_our_networking_mixer.html"
+      "/blog/glas-tulaichean-hike.html",
+      "/blog/world-indoor-champs-glasgow.html",
+      "/blog/networking-mixer.html"
     ]
   },
   {
