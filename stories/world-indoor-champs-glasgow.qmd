@@ -2,7 +2,7 @@
 title: "**Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow**"
 date: 2024-03-03
 author: "Linus Chirchir"
-image: /blog/images/beatrice-chepkoech.jpg
+image: /stories/images/beatrice-chepkoech.jpg
 image-alt: "Beatrice Chepkoech smiling after securing bronze in the Women's 3000m"
 categories: [Community, Sports, Events, Athletics]
 tags: [World Athletics, Glasgow 2024, Team Kenya, Diaspora, Indoor Championships]
