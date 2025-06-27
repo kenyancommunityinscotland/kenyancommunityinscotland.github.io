@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kenyan Community in Scotland (KCS)</title>
+<link>http://kenyancommunityinscotland.uk/profiles/</link>
+<atom:link href="http://kenyancommunityinscotland.uk/profiles/index.xml" rel="self" type="application/rss+xml"/>
+<description>Get to know members of the Kenyan community in Scotland.
+</description>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Wed, 30 Apr 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Linus Chirchir</title>
+  <dc:creator>Linus Chirchir</dc:creator>
+  <link>http://kenyancommunityinscotland.uk/profiles/linus-chirchir.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><strong>Linus Chirchir</strong> is a passionate data scientist based in Edinburgh and a founding force behind the Kenyan Community in Scotland website. With over a decade of experience in health information systems, research, and analytics, Linus has dedicated his career to driving data-informed decisions that make a real-world impact.</p>
+<hr>
+<section id="professional-journey" class="level2">
+<h2 class="anchored" data-anchor-id="professional-journey">💼 Professional Journey</h2>
+<p>Originally from Kenya, Linus worked at Moi Teaching and Referral Hospital before relocating to the UK, where he served at the University of Edinburgh and now contributes to <strong>Research Data Scotland</strong>. His work bridges technical skill with social impact, particularly in health and public sector data.</p>
+<p>He specialises in:</p>
+<ul>
+<li>Synthetic data generation<br>
+</li>
+<li>Reproducible analytical pipelines (RAP)<br>
+</li>
+<li>GIS and public health data visualisation<br>
+</li>
+<li>Ethical AI and open science<br>
+</li>
+<li>R, SQL, Quarto, and Shiny app development</li>
+</ul>
+<hr>
+</section>
+<section id="life-in-edinburgh" class="level2">
+<h2 class="anchored" data-anchor-id="life-in-edinburgh">🏙️ Life in Edinburgh</h2>
+<p>Since moving to Scotland, Linus has been deeply engaged with local and national community-building efforts. He believes in the power of stories, shared meals, and mountain hikes to build stronger connections.</p>
+<p>Whether he’s coordinating a Munro climb, hosting a data science workshop, or mentoring students, Linus brings integrity, humility, and heart to every space.</p>
+<hr>
+</section>
+<section id="in-his-words" class="level2">
+<h2 class="anchored" data-anchor-id="in-his-words">💬 In His Words</h2>
+<blockquote class="blockquote">
+<p><em>“Data is more than numbers — it’s about people, equity, and opportunity. And community gives our work meaning.”</em></p>
+</blockquote>
+<hr>
+</section>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">🎓 Education</h2>
+<ul>
+<li>MSc in Health Data Science, Swansea University<br>
+</li>
+<li>Master of Business Administration, United States International University – Africa<br>
+</li>
+<li>Master of Information Systems, Kisii University<br>
+</li>
+<li>Bachelor of Business Management (Business Information Systems Management), Moi University</li>
+</ul>
+<hr>
+</section>
+<section id="connect-with-linus" class="level2">
+<h2 class="anchored" data-anchor-id="connect-with-linus">🌍 Connect with Linus</h2>
+<ul>
+<li>Personal site: <a href="https://linuschirchir.com">linuschirchir.com</a><br>
+</li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/linuschirchir/">Linus Chirchir</a><br>
+</li>
+<li>GitHub: <a href="https://github.com/linuschirchir"><span class="citation" data-cites="linuschirchir">@linuschirchir</span></a><br>
+</li>
+<li>Facebook: <a href="https://www.facebook.com/ChirchirLinus1">ChirchirLinus1</a><br>
+</li>
+<li>X (formerly Twitter): <a href="https://x.com/LinusChirchir"><span class="citation" data-cites="LinusChirchir">@LinusChirchir</span></a></li>
+</ul>
+<hr>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Profiles</category>
+  <category>Community</category>
+  <guid>http://kenyancommunityinscotland.uk/profiles/linus-chirchir.html</guid>
+  <pubDate>Wed, 30 Apr 2025 23:00:00 GMT</pubDate>
+  <media:content url="http://kenyancommunityinscotland.uk/profiles/images/linus-chirchir.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

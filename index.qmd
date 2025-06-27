@@ -36,10 +36,10 @@ listing:
     max-items: 3
     feed: false
 
-  - id: news
+  - id: profiles
     contents: 
-    - /news
-    - "!news/index.qmd"
+    - /profiles
+    - "!profiles/index.qmd"
     sort: "date desc"
     type: grid
     categories: false
@@ -94,9 +94,9 @@ Fostering unity, growth, and opportunity for Kenyans living in Scotland through 
 ::: {#stories}
 :::
 
-## [News](news/index.qmd)
+## [Profiles](profiles/index.qmd)
 
-::: {#news}
+::: {#profiles}
 :::
 
 ## [Resources](resources/index.qmd)

@@ -1,0 +1,79 @@
+---
+title: "**Linus Chirchir**"
+subtitle: "Data Scientist and Community Connector"
+date: 2025-05-01
+author: "Linus Chirchir"
+image: /profiles/images/linus-chirchir.jpg
+image-alt: "Linus Chirchir in Edinburgh"
+categories: [Profiles, Community]
+format:
+  html:
+    page-layout: full
+---
+
+![](../profiles/images/linus-chirchir.jpg)
+
+Linus Chirchir is a passionate data scientist based in Edinburgh and a founding force behind the Kenyan Community in Scotland website. With over a decade of experience in health information systems, research, and analytics, Linus has dedicated his career to driving data-informed decisions that make a real-world impact.
+
+---
+
+## 💼 Professional Journey
+
+Originally from Kenya, Linus worked at Moi Teaching and Referral Hospital where he managed integrated health information systems and supported research and analytics. After completing his MSc in Health Data Science at Swansea University, he joined the University of Edinburgh as a Health Data Analyst.
+
+Currently, he works at **Research Data Scotland (RDS)** as a Data Analyst, where he prepares ADR Scotland datasets for integration into Scotland’s National Safe Haven. His work includes data cleaning, transformation, anonymisation, quality assessment, documentation, and collaboration with cross-functional teams.
+
+He specialises in:
+
+- Synthetic data generation  
+- Reproducible analytical pipelines (RAP)  
+- GIS and public health data visualisation  
+- Ethical AI and open science  
+- R, SQL, Quarto, and Shiny app development  
+
+Linus finds purpose in applying technical expertise to real-world datasets that inform impactful research and policy.
+
+---
+
+## 🏙️ Life in Edinburgh
+
+Since moving to Scotland, Linus has been deeply engaged in local and national community-building. Whether he's coordinating Munro climbs, organising community mixers, or mentoring students, he fosters unity and wellness through action.
+
+He believes in the power of shared experiences, storytelling, and open conversations - often over a hike or meal - to strengthen community bonds.
+
+---
+
+## 💬 In His Words
+
+> *“Data is more than numbers, it’s about people, equity, and opportunity. And community gives our work meaning.”*
+
+---
+
+## 🎓 Education
+
+- MSc in Health Data Science, Swansea University  
+- Master of Business Administration, United States International University – Africa  
+- Master of Information Systems, Kisii University  
+- Bachelor of Business Management (Business Information Systems Management), Moi University  
+
+---
+
+## ✨ Highlights & Reflections
+
+- **Professional Highlight:** Working with interdisciplinary teams at RDS to enable safe, ethical access to administrative data and support data-driven research.
+- **Professional Challenge:** Keeping pace with evolving best practices and technologies in large-scale data environments — addressed through ongoing learning and collaboration.
+- **Inspiration:** Hans Rosling — his data storytelling approach transformed Linus’ view of analytics as a force for good.
+- **Advice That Stuck:** “Stay curious and keep learning.” Change, as Heraclitus said, is the only constant — and Linus embraces it as an opportunity to grow.
+- **Fun Fact:** His Mastermind subject would be *Olympic Marathon Champions (1960–2024)*.
+
+---
+
+## 🌍 Connect with Linus
+
+- Personal site: [linuschirchir.com](https://linuschirchir.com)  
+- LinkedIn: [Linus Chirchir](https://www.linkedin.com/in/linuschirchir/)  
+- GitHub: [@linuschirchir](https://github.com/linuschirchir)  
+- Facebook: [ChirchirLinus1](https://www.facebook.com/ChirchirLinus1)  
+- X: [@LinusChirchir](https://x.com/LinusChirchir)
+
+---

@@ -8,8 +8,7 @@
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html",
-      "/news/may-2025-update.html",
-      "/news/news1.html",
+      "/profiles/linus-chirchir.html",
       "/resources/resource1.html",
       "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html",
       "/gallery/gallery1.html",
@@ -53,6 +52,12 @@
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html"
+    ]
+  },
+  {
+    "listing": "/profiles/index.html",
+    "items": [
+      "/profiles/linus-chirchir.html"
     ]
   }
 ]

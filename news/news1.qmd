@@ -1,8 +1,0 @@
----
-title: "Community Website Launch"
-date: 2025-05-01
-categories: [News]
-image: /images/website_launch.jpg
----
-
-We are excited to announce the launch of the official Kenyan Community in Scotland website! Stay tuned for updates and events.

@@ -51,9 +51,9 @@ website:
       - text: "Stories"
         href: stories/index.qmd
         aria-label: "Community stories, event recaps, and reflections"
-      - text: "News"
-        href: news/index.qmd
-        aria-label: "Latest news and updates from the Kenyan Community in Scotland"
+      - text: "Profiles"
+        href: profiles/index.qmd
+        aria-label: "Personal stories from the Kenyan Community in Scotland"
       - text: "Resources"
         href: resources/index.qmd
         aria-label: "Helpful resources and guides for Kenyans living in Scotland"
