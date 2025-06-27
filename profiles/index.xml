@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Kenyan Community in Scotland (KCS)</title>
+<link>http://kenyancommunityinscotland.uk/profiles/</link>
+<atom:link href="http://kenyancommunityinscotland.uk/profiles/index.xml" rel="self" type="application/rss+xml"/>
+<description>Get to know members of the Kenyan community in Scotland.
+</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Thu, 01 May 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Linus Chirchir</title>
+  <dc:creator>Linus Chirchir</dc:creator>
+  <link>http://kenyancommunityinscotland.uk/profiles/linus-chirchir.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="http://kenyancommunityinscotland.uk/profiles/images/linus-chirchir.jpg" class="img-fluid"></p>
+<p>Linus Chirchir is a passionate data scientist based in Edinburgh and a founding force behind the Kenyan Community in Scotland website. With over a decade of experience in health information systems, research, and analytics, Linus has dedicated his career to driving data-informed decisions that make a real-world impact.</p>
+<hr>
+<section id="professional-journey" class="level2">
+<h2 class="anchored" data-anchor-id="professional-journey">💼 Professional Journey</h2>
+<p>Originally from Kenya, Linus worked at Moi Teaching and Referral Hospital where he managed integrated health information systems and supported research and analytics. After completing his MSc in Health Data Science at Swansea University, he joined the University of Edinburgh as a Health Data Analyst.</p>
+<p>Currently, he works at <strong>Research Data Scotland (RDS)</strong> as a Data Analyst, where he prepares ADR Scotland datasets for integration into Scotland’s National Safe Haven. His work includes data cleaning, transformation, anonymisation, quality assessment, documentation, and collaboration with cross-functional teams.</p>
+<p>He specialises in:</p>
+<ul>
+<li>Synthetic data generation<br>
+</li>
+<li>Reproducible analytical pipelines (RAP)<br>
+</li>
+<li>GIS and public health data visualisation<br>
+</li>
+<li>Ethical AI and open science<br>
+</li>
+<li>R, SQL, Quarto, and Shiny app development</li>
+</ul>
+<p>Linus finds purpose in applying technical expertise to real-world datasets that inform impactful research and policy.</p>
+<hr>
+</section>
+<section id="life-in-edinburgh" class="level2">
+<h2 class="anchored" data-anchor-id="life-in-edinburgh">🏙️ Life in Edinburgh</h2>
+<p>Since moving to Scotland, Linus has been deeply engaged in local and national community-building. Whether he’s coordinating Munro climbs, organising community mixers, or mentoring students, he fosters unity and wellness through action.</p>
+<p>He believes in the power of shared experiences, storytelling, and open conversations - often over a hike or meal - to strengthen community bonds.</p>
+<hr>
+</section>
+<section id="in-his-words" class="level2">
+<h2 class="anchored" data-anchor-id="in-his-words">💬 In His Words</h2>
+<blockquote class="blockquote">
+<p><em>“Data is more than numbers, it’s about people, equity, and opportunity. And community gives our work meaning.”</em></p>
+</blockquote>
+<hr>
+</section>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">🎓 Education</h2>
+<ul>
+<li>MSc in Health Data Science, Swansea University<br>
+</li>
+<li>Master of Business Administration, United States International University – Africa<br>
+</li>
+<li>Master of Information Systems, Kisii University<br>
+</li>
+<li>Bachelor of Business Management (Business Information Systems Management), Moi University</li>
+</ul>
+<hr>
+</section>
+<section id="highlights-reflections" class="level2">
+<h2 class="anchored" data-anchor-id="highlights-reflections">✨ Highlights &amp; Reflections</h2>
+<ul>
+<li><strong>Professional Highlight:</strong> Working with interdisciplinary teams at RDS to enable safe, ethical access to administrative data and support data-driven research.</li>
+<li><strong>Professional Challenge:</strong> Keeping pace with evolving best practices and technologies in large-scale data environments — addressed through ongoing learning and collaboration.</li>
+<li><strong>Inspiration:</strong> Hans Rosling — his data storytelling approach transformed Linus’ view of analytics as a force for good.</li>
+<li><strong>Advice That Stuck:</strong> “Stay curious and keep learning.” Change, as Heraclitus said, is the only constant — and Linus embraces it as an opportunity to grow.</li>
+<li><strong>Fun Fact:</strong> His Mastermind subject would be <em>Olympic Marathon Champions (1960–2024)</em>.</li>
+</ul>
+<hr>
+</section>
+<section id="connect-with-linus" class="level2">
+<h2 class="anchored" data-anchor-id="connect-with-linus">🌍 Connect with Linus</h2>
+<ul>
+<li>Personal site: <a href="https://linuschirchir.com">linuschirchir.com</a><br>
+</li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/linuschirchir/">Linus Chirchir</a><br>
+</li>
+<li>GitHub: <a href="https://github.com/linuschirchir"><span class="citation" data-cites="linuschirchir">@linuschirchir</span></a><br>
+</li>
+<li>Facebook: <a href="https://www.facebook.com/ChirchirLinus1">ChirchirLinus1</a><br>
+</li>
+<li>X: <a href="https://x.com/LinusChirchir"><span class="citation" data-cites="LinusChirchir">@LinusChirchir</span></a></li>
+</ul>
+<hr>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Profiles</category>
+  <category>Community</category>
+  <guid>http://kenyancommunityinscotland.uk/profiles/linus-chirchir.html</guid>
+  <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+  <media:content url="http://kenyancommunityinscotland.uk/profiles/images/linus-chirchir.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

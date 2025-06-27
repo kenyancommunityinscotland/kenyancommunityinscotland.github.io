@@ -1,29 +1,22 @@
 [
   {
-    "listing": "/news/index.html",
+    "listing": "/profiles/index.html",
     "items": [
-      "/news/news1.html",
-      "/news/may-2025-update.html"
+      "/profiles/linus-chirchir.html"
     ]
   },
   {
-    "listing": "/resources/index.html",
-    "items": [
-      "/resources/resource1.html",
-      "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html"
-    ]
-  },
-  {
-    "listing": "/events/index.html",
+    "listing": "/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
       "/events/pentland-hills-hike.html",
-      "/events/glas-tulaichean-hike.html"
-    ]
-  },
-  {
-    "listing": "/gallery/index.html",
-    "items": [
+      "/events/glas-tulaichean-hike.html",
+      "/stories/glas-tulaichean-hike.html",
+      "/stories/world-indoor-champs-glasgow.html",
+      "/stories/networking-mixer.html",
+      "/profiles/linus-chirchir.html",
+      "/resources/resource1.html",
+      "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html",
       "/gallery/gallery1.html",
       "/gallery/community-event-highlights.html"
     ]
@@ -37,20 +30,25 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/gallery1.html",
+      "/gallery/community-event-highlights.html"
+    ]
+  },
+  {
+    "listing": "/events/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
       "/events/pentland-hills-hike.html",
-      "/events/glas-tulaichean-hike.html",
-      "/stories/glas-tulaichean-hike.html",
-      "/stories/world-indoor-champs-glasgow.html",
-      "/stories/networking-mixer.html",
-      "/news/news1.html",
-      "/news/may-2025-update.html",
+      "/events/glas-tulaichean-hike.html"
+    ]
+  },
+  {
+    "listing": "/resources/index.html",
+    "items": [
       "/resources/resource1.html",
-      "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html",
-      "/gallery/gallery1.html",
-      "/gallery/community-event-highlights.html"
+      "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html"
     ]
   }
 ]
