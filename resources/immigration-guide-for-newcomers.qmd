@@ -1,5 +1,5 @@
 ---
-title: "Immigration Guide for Newcomers"
+title: "**Immigration Guide for Newcomers**"
 date: 2025-05-12
 image: /resources/images/immigration.webp
 image-alt: "UK Visa Document Checklist"

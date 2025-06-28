@@ -1,5 +1,5 @@
 ---
-title: "Healthcare Guide for Kenyans in Scotland"
+title: "**Healthcare Guide for Kenyans in Scotland**"
 date: 2025-05-19
 image: /resources/images/nhs-scotland-clinic.png
 image-alt: "NHS Scotland health clinic"
