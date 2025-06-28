@@ -28,7 +28,7 @@ website:
 
   navbar:
     pinned: true
-    toggle-position: right
+    toggle-position: left
     logo-href: http://kenyancommunityinscotland.uk/
     logo: /images/logo.png
     logo-alt: "Kenyan Community in Scotland Logo"
@@ -111,28 +111,28 @@ website:
 # The now year is from a Quarto extension https://www.garrickadenbuie.com/blog/quarto-now/
     center: |
       <div class="social-links">
-      <a href="https://www.facebook.com/KenyanCommunityInScotland" aria-label="Go to KCIS's Facebook" title="Facebook" target="_blank" rel="noopener">
+      <a href="https://www.facebook.com/KenyanCommunityInScotland" aria-label="Go to KCS's Facebook" title="Facebook" target="_blank" rel="noopener">
         {{< fa brands facebook >}}
         </a>
-        <a href="https://x.com/KenyanCommScot" aria-label="Go to KCIS's Twitter (X)" title="Twitter (X)" target="_blank" rel="noopener">
+        <a href="https://x.com/KenyanCommScot" aria-label="Go to KCS's Twitter (X)" title="Twitter (X)" target="_blank" rel="noopener">
         {{< fa brands x-twitter >}}
         </a>
-      <a href="https://www.instagram.com/kenyancommunityinscotland" aria-label="Go to KCIS's Instagram" title="Instagram" target="_blank" rel="noopener">
+      <a href="https://www.instagram.com/kenyancommunityinscotland" aria-label="Go to KCS's Instagram" title="Instagram" target="_blank" rel="noopener">
         {{< fa brands instagram >}}
         </a>
-      <a href="https://www.threads.net/@KenyanCommunityInScotland" aria-label="Go to KCIS's Threads" title="Threads" target="_blank" rel="noopener">
+      <a href="https://www.threads.net/@KenyanCommunityInScotland" aria-label="Go to KCS's Threads" title="Threads" target="_blank" rel="noopener">
         {{< fa brands threads >}}
         </a>
-      <a href="https://www.youtube.com/@kenyancommunityinscotland" aria-label="Go to KCIS's YouTube" title="YouTube" target="_blank" rel="noopener">
+      <a href="https://www.youtube.com/@kenyancommunityinscotland" aria-label="Go to KCS's YouTube" title="YouTube" target="_blank" rel="noopener">
         {{< fa brands youtube >}}
         </a>
-        <a href="https://www.tiktok.com/@kenyancommscot" aria-label="Go to KCIS's TikTok" title="TikTok" target="_blank" rel="noopener">
+        <a href="https://www.tiktok.com/@kenyancommscot" aria-label="Go to KCS's TikTok" title="TikTok" target="_blank" rel="noopener">
         {{< fa brands tiktok >}}
         </a>
-        <a href="https://www.linkedin.com/company/kenyancommunityinscotland/" aria-label="Go to KCIS's LinkedIn" title="LinkedIn" target="_blank" rel="noopener">
+        <a href="https://www.linkedin.com/company/kenyancommunityinscotland/" aria-label="Go to KCS's LinkedIn" title="LinkedIn" target="_blank" rel="noopener">
         {{< fa brands linkedin >}}
         </a>
-        <a href="https://github.com/kenyancommunityinscotland/" aria-label="Go to KCIS's GitHub" title="GitHub" target="_blank" rel="noopener">
+        <a href="https://github.com/kenyancommunityinscotland/" aria-label="Go to KCS's GitHub" title="GitHub" target="_blank" rel="noopener">
         {{< fa brands github >}}
         </a>
       </div>
