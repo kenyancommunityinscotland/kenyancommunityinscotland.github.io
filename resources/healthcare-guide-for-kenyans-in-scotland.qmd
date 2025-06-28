@@ -1,0 +1,140 @@
+---
+title: "Healthcare Guide for Kenyans in Scotland"
+date: 2025-05-19
+image: /resources/images/nhs-scotland-clinic.png
+image-alt: "NHS Scotland health clinic"
+categories: [Healthcare, Settlement]
+description: "Everything newcomers need to know about accessing healthcare in Scotland through the NHS."
+page-layout: full
+---
+
+## 🏥 Your Health, Your Right
+
+Healthcare in Scotland is **free at the point of use** through the **NHS (National Health Service)** - as long as you've paid the **Immigration Health Surcharge (IHS)** as part of your visa application. This guide helps you navigate NHS Scotland services, register with a doctor, and know what to do in case of emergencies.
+
+---
+
+## 🧭 1. NHS Scotland Basics
+
+- **NHS Scotland** provides healthcare to all residents, including international newcomers who have paid the **IHS**.
+- You don’t pay for hospital care or GP visits.
+- You may pay a small charge for prescriptions or dental treatment.
+- Services are based on clinical need — not your immigration status, as long as you're eligible.
+
+🔗 [Learn about NHS Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/access/healthcare-for-overseas-visitors)
+
+---
+
+## 🩺 2. Registering with a GP
+
+A **General Practitioner (GP)** is your first contact for non-emergency medical issues.
+
+### 📌 Steps to register:
+1. Find a GP practice near your home  
+   🔗 [Find a GP practice](https://www.nhsinform.scot/scotlands-service-directory/gp-practices)
+2. Call or visit the practice to request registration
+3. Complete a **registration form** (can be done online or in person)
+4. Provide ID (e.g. passport, BRP) and proof of address (e.g. tenancy agreement)
+
+Once registered, you can:
+- Book GP appointments  
+- Get referrals to specialists  
+- Request repeat prescriptions  
+- Access mental health support  
+
+📌 **Tip:** Register early — don’t wait until you’re unwell.
+
+---
+
+## 🚑 3. Emergencies & Urgent Care
+
+### 🆘 Life-threatening emergency?
+**Dial 999** for an ambulance, fire, or police.
+
+### 😷 Not an emergency, but need urgent advice?
+**Dial 111** to speak to **NHS 24**, available 24/7.
+
+Other urgent services:
+- **Minor injuries units** (for cuts, sprains, burns)  
+- **Walk-in centres** (in some cities)  
+- **Out-of-hours GP services**
+
+---
+
+## 💊 4. Medicines & Prescriptions
+
+- **Prescriptions are free** in Scotland.
+- Your GP will give you a prescription, which you take to a pharmacy ("chemist").
+- Most large supermarkets (e.g. Tesco, Asda) and high street chains (e.g. Boots) have pharmacies.
+
+---
+
+## 😬 5. Dental & Eye Care
+
+- **Dental care** is **not always free** — but it’s partially covered by the NHS.
+- You must register with an **NHS dentist** (some waiting lists may apply).
+- **Eye tests** are **free every 2 years** for residents in Scotland.
+- Opticians can refer you to hospital eye specialists if needed.
+
+🔗 [Find a dentist](https://www.nhsinform.scot/scotlands-service-directory/dental-services)  
+🔗 [Find an optician](https://www.nhsinform.scot/scotlands-service-directory/optician-services)
+
+---
+
+## 🧠 6. Mental Health Support
+
+Mental health is taken seriously in Scotland. Services include:
+
+- Counselling via GP referral  
+- Crisis lines and walk-in support  
+- University mental health support (for students)  
+- Community mental health services
+
+Helpful links:
+- 🔗 [Breathing Space Scotland](https://breathingspace.scot/)  
+- 🔗 [Samaritans](https://www.samaritans.org/) – call **116 123** any time, free  
+- 🔗 [NHS Mental Health](https://www.nhsinform.scot/mental-wellbeing)
+
+---
+
+## 👶🏽 7. Family & Child Healthcare
+
+Children under 16 receive free:
+
+- Vaccinations  
+- School nurse visits  
+- Dental checkups  
+- Vision and hearing screening
+
+New parents can access **Health Visitors** — nurses who support families after childbirth.
+
+---
+
+## 🧾 8. Healthcare Rights & Protection
+
+- If you've paid the **IHS**, you’re entitled to most NHS services during your stay.
+- You can **choose a male or female GP**.
+- Your data is **confidential and protected by law**.
+- Emergency services are **always free**, regardless of immigration status.
+
+---
+
+## ✅ Key Checklist
+
+| Task | Status |
+|------|--------|
+| Register with a GP | ☐ |
+| Know your nearest A&E | ☐ |
+| Learn how to call NHS 111 | ☐ |
+| Save emergency contacts | ☐ |
+| Sign up for dental care | ☐ |
+
+---
+
+## 🤝 Need Help?
+
+If you're unsure, contact us via the [contact page](../contact.qmd), and we’ll help you navigate NHS services and connect with trusted local support.
+
+Your health matters. And in Scotland, **you’re not alone.**
+
+---

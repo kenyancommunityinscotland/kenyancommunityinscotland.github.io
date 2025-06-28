@@ -9,8 +9,9 @@
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html",
       "/profiles/linus-chirchir.html",
-      "/resources/resource1.html",
-      "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html",
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html",
       "/gallery/gallery1.html",
       "/gallery/community-event-highlights.html"
     ]
@@ -37,7 +38,10 @@
   },
   {
     "listing": "/gallery/index.html",
-    "items": []
+    "items": [
+      "/gallery/gallery1.html",
+      "/gallery/community-event-highlights.html"
+    ]
   },
   {
     "listing": "/resources/index.html",

@@ -1,0 +1,132 @@
+---
+title: "**Banking Guide for Kenyans in Scotland**"
+date: 2025-05-18
+image: /resources/images/banking.png
+image-alt: "Bank cards and UK currency"
+categories: [Finance, Settlement]
+description: "A beginner’s guide to setting up and managing a UK bank account for newcomers from Kenya."
+page-layout: full
+---
+
+## 💳 Opening a UK Bank Account
+
+A UK bank account is essential for:
+
+- Getting paid (salary, benefits, stipends)
+- Paying rent, bills, and subscriptions
+- Building a credit history
+- Sending money internationally
+
+You’ll need to open either a **basic current account** or a **student account**, depending on your situation.
+
+---
+
+## 🏦 1. Types of Banks to Consider
+
+### 🏛️ Traditional Banks:
+- Barclays  
+- Lloyds Bank  
+- Halifax  
+- HSBC  
+- NatWest  
+- Bank of Scotland
+- Royal Bank of Scotland (RBS)
+
+### 📱 Digital-First Banks:
+- Monzo  
+- Starling  
+- Revolut (also supports international transfers)
+
+📌 **Tip:** Digital banks are quicker to set up and require fewer documents — ideal if you’ve just arrived.
+
+---
+
+## 📄 2. Documents You Need
+
+Most banks require:
+
+- **Proof of identity**: passport or biometric residence permit (BRP)  
+- **Proof of address**: tenancy agreement, utility bill, or a letter from your university/employer
+
+🔐 Some banks may accept a **letter from your university** or the **Post Office EasyID app** for verification.
+
+---
+
+## 🧭 3. How to Open an Account
+
+1. **Apply online** via the bank's website or app (for digital banks)
+2. Or visit a **branch in person** for traditional banks
+3. Submit ID and address documents
+4. Wait for approval (may take hours to a few days)
+5. Receive your **debit card and PIN** by post
+
+---
+
+## 💡 4. Features to Look For
+
+- No monthly fees (most basic accounts are free)
+- Contactless card + online banking
+- Mobile app for money transfers
+- Direct debit and standing order options
+- Overdraft protection or student incentives (for student accounts)
+
+---
+
+## 🔄 5. Sending & Receiving Money
+
+- **UK Transfers**: Use account number and sort code  
+- **International Transfers**: Use SWIFT/BIC and IBAN  
+- Apps like **Wise**, **WorldRemit**, and **Revolut** offer affordable remittance options for sending money back to Kenya
+
+---
+
+## 🔐 6. Banking Safety Tips
+
+- Never share your PIN or login details  
+- Enable biometric login on banking apps  
+- Watch out for fake emails (phishing scams)  
+- Report lost cards immediately
+
+---
+
+## 👨🏽‍🎓 7. Student Banking
+
+If you're a student:
+- Ask your university for a **proof of student status letter**
+- Many banks offer **student-specific accounts** with perks (e.g., free railcards)
+
+Popular student-friendly banks:
+- Santander (16–25 Railcard)
+- HSBC
+- RBS (in Scotland)
+
+---
+
+## 🧾 8. Building Your Financial Footprint
+
+- Pay your bills on time (e.g., mobile contract)
+- Avoid unnecessary overdraft usage
+- Register on the **electoral roll**
+- Consider small savings or budgeting apps
+
+---
+
+## ✅ Quick Checklist
+
+| Task | Status |
+|------|--------|
+| Choose a bank | ☐ |
+| Gather ID and address documents | ☐ |
+| Apply online or visit a branch | ☐ |
+| Set up mobile banking app | ☐ |
+| Enable alerts and security settings | ☐ |
+
+---
+
+## 💬 Need Help?
+
+Have questions? Our [Contact page](../contact.qmd) is open — or join the community on [Facebook](https://facebook.com/KenyanCommunityInScotland) to ask for advice from fellow Kenyans.
+
+**A bank account is your first financial step. We’re here to help you take it with confidence.**
+
+---

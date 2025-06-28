@@ -1,0 +1,112 @@
+---
+title: "Immigration Guide for Newcomers"
+date: 2025-05-12
+image: /resources/images/immigration.webp
+image-alt: "UK Visa Document Checklist"
+categories: [Legal, Immigration]
+description: "Step-by-step immigration and settlement tips for Kenyans moving to Scotland."
+page-layout: full
+---
+
+## 🛬 Welcome to Scotland!
+
+Moving to Scotland from Kenya is an exciting journey, but it can also feel overwhelming at first. This guide walks you through the essential steps for settling in, with helpful resources, legal guidance, and local support links.
+
+---
+
+## 📌 1. Visa Types and Application
+
+Depending on your purpose, you’ll apply for one of these visas:
+
+- **Student Visa** – For those studying at a university or college.
+- **Skilled Worker Visa** – For individuals with job offers in eligible occupations.
+- **Family Visa** – For joining a spouse, child, or parent.
+- **Visitor Visa** – Short-term stay (e.g. tourism, business, or visiting family).
+- **Graduate Visa** – For students who have completed their UK studies.
+
+🔗 [Check which UK visa you need](https://www.gov.uk/check-uk-visa)
+
+---
+
+## 📄 2. Documents You’ll Need
+
+Ensure you have these key documents ready:
+
+- Valid passport  
+- Visa confirmation (BRP or digital status)  
+- Proof of accommodation in Scotland  
+- NHS registration (after arrival)  
+- TB test certificate (for long-term visas)  
+- Police registration (if required)  
+
+---
+
+## 🏠 3. Finding a Place to Live
+
+Housing options include:
+
+- **University accommodation** (for students)  
+- **Private rentals** – via Rightmove, Zoopla, or Gumtree  
+- **Council or social housing** (in special cases)
+
+📌 Tip: Get a tenancy agreement and avoid cash-only landlords.
+
+---
+
+## 🏥 4. Healthcare and the NHS
+
+- Once you arrive, register with a **local GP (doctor)**.
+- Access to healthcare is mostly **free through the NHS**, but some services like prescriptions may have fees.
+- Emergency: Dial **999**  
+- Non-emergency: Dial **111**
+
+🔗 [Find a local GP](https://www.nhsinform.scot/scotlands-service-directory/gp-practices)
+
+---
+
+## 💼 5. National Insurance Number
+
+You’ll need a **National Insurance (NI) Number** to work legally and pay taxes in the UK.
+
+🔗 [Apply online for an NI Number](https://www.gov.uk/apply-national-insurance-number)
+
+---
+
+## 📚 6. Settling In: What Else to Do
+
+- **Open a bank account**: Use Monzo, Revolut, or traditional banks (Barclays, Lloyds, etc.)
+- **Get a SIM card**: Giffgaff, Lebara, or EE offer good deals for international calls
+- **Know your rights**: Especially if you're a tenant or employee
+- **Attend local orientation events**: Check our [Events](../events/index.qmd)
+
+---
+
+## 🌍 Community & Support
+
+You don’t have to do this alone. Join other Kenyans in Scotland:
+
+- Connect via [Kenyan Community in Scotland](https://kenyancommunityinscotland.uk/)
+- Follow us on [Facebook](https://www.facebook.com/KenyanCommunityInScotland) or [Instagram](https://www.instagram.com/kenyancommunityinscotland)
+- Explore cultural events and mixers in Edinburgh and Glasgow
+
+---
+
+## ✅ Checklist Before & After Arrival
+
+| Task | Status |
+|------|--------|
+| Apply for visa | ☐ |
+| Book accommodation | ☐ |
+| Confirm airport pickup | ☐ |
+| Register with GP | ☐ |
+| Attend KCS welcome session | ☐ |
+
+---
+
+## 🤝 Need Help?
+
+Reach out to us via [contact page](../contact.qmd) or email [info@kenyancommunityinscotland.uk](mailto:info@kenyancommunityinscotland.uk).
+
+We’re here to make your transition smooth, safe, and successful. Karibu Scotland!
+
+---
