@@ -28,7 +28,7 @@ website:
 
   navbar:
     pinned: true
-    toggle-position: left
+    toggle-position: right
     logo-href: http://kenyancommunityinscotland.uk/
     logo: /images/logo.png
     logo-alt: "Kenyan Community in Scotland Logo"
