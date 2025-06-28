@@ -1,6 +1,7 @@
 ---
 title: "**Healthcare Guide for Kenyans in Scotland**"
 date: 2025-05-19
+author: "Linus Chirchir"
 image: /resources/images/nhs-scotland-clinic.png
 image-alt: "NHS Scotland health clinic"
 categories: [Healthcare, Settlement]

@@ -1,6 +1,7 @@
 ---
 title: "**Banking Guide for Kenyans in Scotland**"
 date: 2025-05-18
+author: "Linus Chirchir"
 image: /resources/images/banking.png
 image-alt: "Bank cards and UK currency"
 categories: [Finance, Settlement]

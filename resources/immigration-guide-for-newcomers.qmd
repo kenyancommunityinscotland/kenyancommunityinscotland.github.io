@@ -1,6 +1,7 @@
 ---
 title: "**Immigration Guide for Newcomers**"
 date: 2025-05-12
+author: "Linus Chirchir"
 image: /resources/images/immigration.webp
 image-alt: "UK Visa Document Checklist"
 categories: [Legal, Immigration]
