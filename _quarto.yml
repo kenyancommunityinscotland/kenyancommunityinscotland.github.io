@@ -34,7 +34,7 @@ website:
     logo-alt: "Kenyan Community in Scotland Logo"
     title: false
     collapse-below: lg
-    # tools:
+    tools:
     # - icon: facebook
     #   href: https://www.facebook.com/KenyanCommunityInScotland
     #   target: _blank
