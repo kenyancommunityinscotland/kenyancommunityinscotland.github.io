@@ -63,7 +63,7 @@ website:
         href: mailto:info@kenyancommunityinscotland.uk
         target: _blank
 
-    right:
+    left:
       - text: "Home"
         icon: house-fill
         href: index.qmd
