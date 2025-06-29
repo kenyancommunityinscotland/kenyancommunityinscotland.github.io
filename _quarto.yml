@@ -13,7 +13,7 @@ website:
   description: "A hub for Kenyans across Scotland, United Kingdom"
   site-url: http://kenyancommunityinscotland.uk/
   page-navigation: true
-  back-to-top-navigation: true
+  back-to-top-navigation: false
   favicon: /images/favicon.png
   repo-url: https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io
   # repo-actions: [edit, issue]
@@ -35,35 +35,35 @@ website:
     title: false
     collapse-below: lg
     tools:
-    # - icon: facebook
-    #   href: https://www.facebook.com/KenyanCommunityInScotland
-    #   target: _blank
-    # - icon: twitter-x
-    #   href: https://x.com/KenyanCommScot
-    #   target: _blank
-    # - icon: instagram
-    #   href: https://www.instagram.com/kenyancommunityinscotland
-    #   target: _blank
-    # - icon: threads
-    #   href: https://www.threads.net/@KenyanCommunityInScotland
-    #   target: _blank
-    # - icon: youtube
-    #   href: https://www.youtube.com/@kenyancommunityinscotland
-    #   target: _blank
-    # - icon: tiktok
-    #   href: https://www.tiktok.com/@kenyancommscot
-    #   target: _blank
-    # - icon: linkedin
-    #   href: https://www.linkedin.com/company/kenyancommunityinscotland
-    #   target: _blank
-    # - icon: github
-    #   href: https://github.com/kenyancommunityinscotland/
-    #   target: _blank
-      - icon: envelope
-        href: mailto:info@kenyancommunityinscotland.uk
-        target: _blank
+    - icon: facebook
+      href: https://www.facebook.com/KenyanCommunityInScotland
+      target: _blank
+    - icon: twitter-x
+      href: https://x.com/KenyanCommScot
+      target: _blank
+    - icon: instagram
+      href: https://www.instagram.com/kenyancommunityinscotland
+      target: _blank
+    - icon: threads
+      href: https://www.threads.net/@KenyanCommunityInScotland
+      target: _blank
+    - icon: youtube
+      href: https://www.youtube.com/@kenyancommunityinscotland
+      target: _blank
+    - icon: tiktok
+      href: https://www.tiktok.com/@kenyancommscot
+      target: _blank
+    - icon: linkedin
+      href: https://www.linkedin.com/company/kenyancommunityinscotland
+      target: _blank
+    - icon: github
+      href: https://github.com/kenyancommunityinscotland/
+      target: _blank
+    - icon: envelope
+      href: mailto:info@kenyancommunityinscotland.uk
+      target: _blank
 
-    right:
+    left:
       - text: "Home"
         icon: house-fill
         href: index.qmd
