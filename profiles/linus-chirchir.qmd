@@ -11,7 +11,7 @@ format:
     page-layout: full
 ---
 
-![](../profiles/images/linus-chirchir.jpg)
+![](/profiles/images/linus-chirchir.jpg)
 
 Linus Chirchir is a passionate data scientist based in Edinburgh and a founding force behind the Kenyan Community in Scotland website. With over a decade of experience in health information systems, research, and analytics, Linus has dedicated his career to driving data-informed decisions that make a real-world impact.
 

@@ -16,7 +16,7 @@ website:
   back-to-top-navigation: true
   favicon: /images/favicon.png
   repo-url: https://github.com/kenyancommunityinscotland/kenyancommunityinscotland.github.io
-  repo-actions: [edit, issue]
+  # repo-actions: [edit, issue]
 
   google-analytics: 
     tracking-id: "G-XP3CL76VVS"

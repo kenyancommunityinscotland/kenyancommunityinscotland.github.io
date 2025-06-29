@@ -1,3 +1,5 @@
+/*-- styles.css --*/
+
 .social-links {
   display: flex;
   gap: 12px;
@@ -17,6 +19,14 @@
   transform: scale(1.2);
   color: #0077b5; /* slight color change on hover - you can customize */
 }
+
+
+/* Override uppercase transformation for listing cards */
+.quarto-grid-item .metadata .author,
+.quarto-grid-item .metadata .date {
+  text-transform: none;
+}
+
 
 .footer-container {
   background-color: white;
