@@ -5,8 +5,8 @@ search: true
 image: /images/kenyans.JPG
 image-alt: "Kenyans in Edinburgh"
 repo-actions: [edit, issue]
-# comments: 
-#  giscus: 
+# comments:
+#  giscus:
 #    repo: kenyancommunityinscotland/kenyancommunityinscotland.github.io
 
 about:
