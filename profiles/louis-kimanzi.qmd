@@ -1,0 +1,75 @@
+---
+title: "**Louis Kimanzi**"
+subtitle: "Sport Scientist, Community Advocate & Product Owner"
+date: 2025-05-03
+author: "Linus Chirchir"
+image: /profiles/images/louis-kimanzi.jpeg
+image-alt: "Louis Kimanzi at a sporting event"
+categories: [Profiles, Community]
+format:
+  html:
+    page-layout: full
+---
+
+![](/profiles/images/louis-kimanzi.jpeg)
+
+Louis Kimanzi is a conscientious individual who believes in the power of sport as a catalyst for positive change - both globally and locally. With a passion for building communities and unlocking opportunities through sport, Louis exemplifies leadership and vision in both academic and professional arenas.
+
+---
+
+## 🎓 Academic Achievements
+
+Louis graduated with **First Class Honours** from the University of Edinburgh, earning a **Bachelor of Science in Applied Sports Science**. His academic excellence was matched by his active contribution to advancing sports knowledge, especially with a focus on Kenyan athletes.
+
+---
+
+## 📊 Research & Innovation
+
+Louis was the **lead researcher** in a pioneering investigation on the role of carbon fibre shoes in running performance. Collaborating with:
+
+* **Kenya Academy of Sport**
+* **Enda Sportswear**
+* **Lornah Kiplagat High Altitude Training Center**
+* **University of Edinburgh (funder)**
+
+This groundbreaking research led to the publication of a journal article titled:
+
+> **"The effect of carbon-fibre insoles on the running economy of elite Kenyan athletes"**
+
+It stands out as one of the first biomechanics studies conducted in Kenya using local elite athletes, Kenyan-made shoes, and research led by a Kenyan scientist.
+
+---
+
+## 🌍 Global Dialogue & Impact
+
+In 2023, Louis presented at the **Kenya Academy of Sport's 2nd International Sports Conference**, where he spoke on:
+
+> *“Investing in sports infrastructure, equipment, and technology in Kenya.”*
+
+His insights drew from both his scientific background and personal commitment to elevating sport as a development tool in Africa.
+
+---
+
+## 💼 Professional Life
+
+Louis currently works as a **Product Owner** at **FanDuel Ltd**, a global sports technology giant. His role blends strategic leadership with a deep understanding of user needs in high-performance environments.
+
+---
+
+## 🎯 Continuing Education
+
+He is presently pursuing a **Master of Science in Sports Policy, Management, and International Development of Sport**, with a vision to acquire the tools necessary to shape sustainable sports systems in Kenya and beyond.
+
+---
+
+## 💬 Personal Philosophy
+
+> *“Sport is not just a game. It's a platform for empowerment, identity, and transformation.”*
+
+---
+
+## 🌍 Connect with Louis
+
+* LinkedIn: [Louis Kimanzi](https://www.linkedin.com/in/louiskimanzi/)
+
+---
