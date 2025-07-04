@@ -1,0 +1,99 @@
+---
+title: "**Dr. Kamau Wairuri**"
+subtitle: "Political Scientist, Criminology Lecturer & Thought Leader"
+date: 2025-05-29
+author: "Linus Chirchir"
+image: /profiles/images/kamau-wairuri.jpg
+image-alt: "Dr. Kamau Wairuri speaking at an academic event"
+categories: [Profiles, Community]
+format:
+  html:
+    page-layout: full
+---
+
+![](/profiles/images/kamau-wairuri.jpg){fig-align="center"}
+
+Dr. Kamau Wairuri is a Kenyan political scientist, policy-oriented researcher, educator, and thought leader with a passion for democracy, human rights, and inclusive governance. His work focuses on policing, violence, and the experiences of marginalised communities in Africa.
+
+---
+
+## 🎓 Academic Background
+
+Dr. Wairuri holds:
+
+* **PhD in African Studies**, University of Edinburgh
+* **MSc in African Studies**, University of Oxford
+* **BA in Political Science and Sociology**, University of Nairobi
+
+His academic journey reflects a deep commitment to interrogating systems of power, security, and social justice in Africa.
+
+---
+
+## 🔍 Research Focus
+
+Kamau’s research is widely respected and centres around:
+
+* **Politics of state policing**, police abuse, reform, and accountability
+* **Policing of marginalised, stigmatised, and criminalised groups**
+* **Violence**, including political violence, terrorism, and urban crime
+
+His scholarship has been published in leading journals such as *African Affairs* and *Africa*, and edited volumes like the *Routledge Handbook for the Horn of Africa*. He currently co-edits a book project on migration and marginalisation in East Africa.
+
+He is an active member of professional networks, including:
+
+* British Institute in Eastern Africa (BIEA)
+* African Studies Association (UK)
+* Development Studies Association (UK)
+
+---
+
+## 👨🏽‍🏫 Educator & Mentor
+
+Dr. Wairuri is currently a **Lecturer in Criminology** at **Edinburgh Napier University**, where he teaches undergraduate and postgraduate courses on policing and transnational crime. He also leads the **Institute of Public Policy and Governance (IPPG)** at **Strathmore University Business School**, Nairobi.
+
+He has delivered lectures and seminars at prestigious institutions including:
+
+* University of Oxford
+* University of Cambridge
+* University of Strathclyde
+
+He is also an **Associate Fellow of the Higher Education Academy (UK)**.
+
+---
+
+## 🧭 Policy & Public Engagement
+
+As a **policy and public affairs consultant**, Dr. Wairuri has advised organisations and leaders on:
+
+* Safety and security
+* Gender inclusion and equity
+* Human rights mainstreaming
+* Youth empowerment
+
+His work in this space has been captured in technical reports and policy briefs.
+
+---
+
+## 🗞️ Public Thought Leadership
+
+Kamau is a regular contributor to public debates on governance and social justice. His articles have appeared in:
+
+* *Daily Nation*, *The Standard* (as a former columnist), and *The East African*
+* *African Arguments* and *The Elephant*
+
+He is the host of **The Kenyanist**, a podcast exploring the political and social issues affecting Kenyans today.
+
+---
+
+## 💬 In His Words
+
+> *“Scholarship should serve society – through truth, clarity, and the courage to challenge injustice.”*
+
+---
+
+## 🌐 Connect with Dr. Kamau Wairuri
+
+* Podcast: [The Kenyanist](https://open.spotify.com/show/77Zwr74yj9nmpKEf7xL81f)
+* LinkedIn: [Kamau Wairuri](https://www.linkedin.com/in/kamauwairuri/)
+
+---
