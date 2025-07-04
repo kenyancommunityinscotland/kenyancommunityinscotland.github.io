@@ -2,24 +2,30 @@
   {
     "listing": "/profiles/index.html",
     "items": [
+      "/profiles/kamau-wairuri.html",
       "/profiles/louis-kimanzi.html",
       "/profiles/linus-chirchir.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/resources/index.html",
+    "items": [
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html"
+    ]
+  },
+  {
+    "listing": "/events/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
       "/events/pentland-hills-hike.html",
-      "/events/glas-tulaichean-hike.html",
-      "/stories/glas-tulaichean-hike.html",
-      "/stories/world-indoor-champs-glasgow.html",
-      "/stories/networking-mixer.html",
-      "/profiles/louis-kimanzi.html",
-      "/profiles/linus-chirchir.html",
-      "/resources/banking-guide-for-kenyans-in-scotland.html",
-      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html",
+      "/events/glas-tulaichean-hike.html"
+    ]
+  },
+  {
+    "listing": "/gallery/index.html",
+    "items": [
       "/gallery/gallery1.html",
       "/gallery/community-event-highlights.html"
     ]
@@ -33,26 +39,22 @@
     ]
   },
   {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/gallery1.html",
-      "/gallery/community-event-highlights.html"
-    ]
-  },
-  {
-    "listing": "/events/index.html",
+    "listing": "/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
       "/events/pentland-hills-hike.html",
-      "/events/glas-tulaichean-hike.html"
-    ]
-  },
-  {
-    "listing": "/resources/index.html",
-    "items": [
+      "/events/glas-tulaichean-hike.html",
+      "/stories/glas-tulaichean-hike.html",
+      "/stories/world-indoor-champs-glasgow.html",
+      "/stories/networking-mixer.html",
+      "/profiles/kamau-wairuri.html",
+      "/profiles/louis-kimanzi.html",
+      "/profiles/linus-chirchir.html",
       "/resources/banking-guide-for-kenyans-in-scotland.html",
       "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html"
+      "/resources/immigration-guide-for-newcomers.html",
+      "/gallery/gallery1.html",
+      "/gallery/community-event-highlights.html"
     ]
   }
 ]

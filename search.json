@@ -46,7 +46,7 @@
     "href": "profiles/index.html",
     "title": "Community Profiles",
     "section": "",
-    "text": "Louis Kimanzi\n\n\n\nProfiles\n\nCommunity\n\n\n\n\n\n\nMay 3, 2025\n\n\nLinus Chirchir\n\n2 min\n\n316 words\n\n\n\n\n\n\n\n\n\n\n\n\nLinus Chirchir\n\n\n\nProfiles\n\nCommunity\n\n\n\n\n\n\nMay 1, 2025\n\n\nLinus Chirchir\n\n3 min\n\n429 words\n\n\n\n\n\nNo matching items"
+    "text": "Dr. Kamau Wairuri\n\n\n\nProfiles\n\nCommunity\n\n\n\n\n\n\nMay 29, 2025\n\n\nLinus Chirchir\n\n2 min\n\n376 words\n\n\n\n\n\n\n\n\n\n\n\n\nLouis Kimanzi\n\n\n\nProfiles\n\nCommunity\n\n\n\n\n\n\nMay 15, 2025\n\n\nLinus Chirchir\n\n2 min\n\n316 words\n\n\n\n\n\n\n\n\n\n\n\n\nLinus Chirchir\n\n\n\nProfiles\n\nCommunity\n\n\n\n\n\n\nMay 1, 2025\n\n\nLinus Chirchir\n\n3 min\n\n429 words\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "profiles/louis-kimanzi.html",
@@ -105,711 +105,18 @@
     "text": "🌍 Connect with Louis\n\nLinkedIn: Louis Kimanzi"
   },
   {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html",
-    "title": "Banking Guide for Kenyans in Scotland",
+    "objectID": "signups.html",
+    "href": "signups.html",
+    "title": "Community Signups",
     "section": "",
-    "text": "A UK bank account is essential for:\n\nGetting paid (salary, benefits, stipends)\nPaying rent, bills, and subscriptions\nBuilding a credit history\nSending money internationally\n\nYou’ll need to open either a basic current account or a student account, depending on your situation."
+    "text": "Community Signups Dashboard\nBelow is a live overview of the community members who have joined us!\n\n\nShiny applications not supported in static R Markdown documents"
   },
   {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#opening-a-uk-bank-account",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#opening-a-uk-bank-account",
-    "title": "Banking Guide for Kenyans in Scotland",
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
     "section": "",
-    "text": "A UK bank account is essential for:\n\nGetting paid (salary, benefits, stipends)\nPaying rent, bills, and subscriptions\nBuilding a credit history\nSending money internationally\n\nYou’ll need to open either a basic current account or a student account, depending on your situation."
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#types-of-banks-to-consider",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#types-of-banks-to-consider",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "🏦 1. Types of Banks to Consider",
-    "text": "🏦 1. Types of Banks to Consider\n\n🏛️ Traditional Banks:\n\nBarclays\n\nLloyds Bank\n\nHalifax\n\nHSBC\n\nNatWest\n\nBank of Scotland\nRoyal Bank of Scotland (RBS)\n\n\n\n📱 Digital-First Banks:\n\nMonzo\n\nStarling\n\nRevolut (also supports international transfers)\n\n📌 Tip: Digital banks are quicker to set up and require fewer documents — ideal if you’ve just arrived."
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#documents-you-need",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#documents-you-need",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "📄 2. Documents You Need",
-    "text": "📄 2. Documents You Need\nMost banks require:\n\nProof of identity: passport or biometric residence permit (BRP)\n\nProof of address: tenancy agreement, utility bill, or a letter from your university/employer\n\n🔐 Some banks may accept a letter from your university or the Post Office EasyID app for verification."
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#how-to-open-an-account",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#how-to-open-an-account",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "🧭 3. How to Open an Account",
-    "text": "🧭 3. How to Open an Account\n\nApply online via the bank’s website or app (for digital banks)\nOr visit a branch in person for traditional banks\nSubmit ID and address documents\nWait for approval (may take hours to a few days)\nReceive your debit card and PIN by post"
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#features-to-look-for",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#features-to-look-for",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "💡 4. Features to Look For",
-    "text": "💡 4. Features to Look For\n\nNo monthly fees (most basic accounts are free)\nContactless card + online banking\nMobile app for money transfers\nDirect debit and standing order options\nOverdraft protection or student incentives (for student accounts)"
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#sending-receiving-money",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#sending-receiving-money",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "🔄 5. Sending & Receiving Money",
-    "text": "🔄 5. Sending & Receiving Money\n\nUK Transfers: Use account number and sort code\n\nInternational Transfers: Use SWIFT/BIC and IBAN\n\nApps like Wise, WorldRemit, and Revolut offer affordable remittance options for sending money back to Kenya"
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#banking-safety-tips",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#banking-safety-tips",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "🔐 6. Banking Safety Tips",
-    "text": "🔐 6. Banking Safety Tips\n\nNever share your PIN or login details\n\nEnable biometric login on banking apps\n\nWatch out for fake emails (phishing scams)\n\nReport lost cards immediately"
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#student-banking",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#student-banking",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "👨🏽‍🎓 7. Student Banking",
-    "text": "👨🏽‍🎓 7. Student Banking\nIf you’re a student: - Ask your university for a proof of student status letter - Many banks offer student-specific accounts with perks (e.g., free railcards)\nPopular student-friendly banks: - Santander (16–25 Railcard) - HSBC - RBS (in Scotland)"
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#building-your-financial-footprint",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#building-your-financial-footprint",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "🧾 8. Building Your Financial Footprint",
-    "text": "🧾 8. Building Your Financial Footprint\n\nPay your bills on time (e.g., mobile contract)\nAvoid unnecessary overdraft usage\nRegister on the electoral roll\nConsider small savings or budgeting apps"
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#quick-checklist",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#quick-checklist",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "✅ Quick Checklist",
-    "text": "✅ Quick Checklist\n\n\n\nTask\nStatus\n\n\n\n\nChoose a bank\n☐\n\n\nGather ID and address documents\n☐\n\n\nApply online or visit a branch\n☐\n\n\nSet up mobile banking app\n☐\n\n\nEnable alerts and security settings\n☐"
-  },
-  {
-    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#need-help",
-    "href": "resources/banking-guide-for-kenyans-in-scotland.html#need-help",
-    "title": "Banking Guide for Kenyans in Scotland",
-    "section": "💬 Need Help?",
-    "text": "💬 Need Help?\nHave questions? Our Contact page is open — or join the community on Facebook to ask for advice from fellow Kenyans.\nA bank account is your first financial step. We’re here to help you take it with confidence."
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html",
-    "href": "resources/immigration-guide-for-newcomers.html",
-    "title": "Immigration Guide for Newcomers",
-    "section": "",
-    "text": "Moving to Scotland from Kenya is an exciting journey, but it can also feel overwhelming at first. This guide walks you through the essential steps for settling in, with helpful resources, legal guidance, and local support links."
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#welcome-to-scotland",
-    "href": "resources/immigration-guide-for-newcomers.html#welcome-to-scotland",
-    "title": "Immigration Guide for Newcomers",
-    "section": "",
-    "text": "Moving to Scotland from Kenya is an exciting journey, but it can also feel overwhelming at first. This guide walks you through the essential steps for settling in, with helpful resources, legal guidance, and local support links."
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#visa-types-and-application",
-    "href": "resources/immigration-guide-for-newcomers.html#visa-types-and-application",
-    "title": "Immigration Guide for Newcomers",
-    "section": "📌 1. Visa Types and Application",
-    "text": "📌 1. Visa Types and Application\nDepending on your purpose, you’ll apply for one of these visas:\n\nStudent Visa – For those studying at a university or college.\nSkilled Worker Visa – For individuals with job offers in eligible occupations.\nFamily Visa – For joining a spouse, child, or parent.\nVisitor Visa – Short-term stay (e.g. tourism, business, or visiting family).\nGraduate Visa – For students who have completed their UK studies.\n\n🔗 Check which UK visa you need"
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#documents-youll-need",
-    "href": "resources/immigration-guide-for-newcomers.html#documents-youll-need",
-    "title": "Immigration Guide for Newcomers",
-    "section": "📄 2. Documents You’ll Need",
-    "text": "📄 2. Documents You’ll Need\nEnsure you have these key documents ready:\n\nValid passport\n\nVisa confirmation (BRP or digital status)\n\nProof of accommodation in Scotland\n\nNHS registration (after arrival)\n\nTB test certificate (for long-term visas)\n\nPolice registration (if required)"
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#finding-a-place-to-live",
-    "href": "resources/immigration-guide-for-newcomers.html#finding-a-place-to-live",
-    "title": "Immigration Guide for Newcomers",
-    "section": "🏠 3. Finding a Place to Live",
-    "text": "🏠 3. Finding a Place to Live\nHousing options include:\n\nUniversity accommodation (for students)\n\nPrivate rentals – via Rightmove, Zoopla, or Gumtree\n\nCouncil or social housing (in special cases)\n\n📌 Tip: Get a tenancy agreement and avoid cash-only landlords."
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#healthcare-and-the-nhs",
-    "href": "resources/immigration-guide-for-newcomers.html#healthcare-and-the-nhs",
-    "title": "Immigration Guide for Newcomers",
-    "section": "🏥 4. Healthcare and the NHS",
-    "text": "🏥 4. Healthcare and the NHS\n\nOnce you arrive, register with a local GP (doctor).\nAccess to healthcare is mostly free through the NHS, but some services like prescriptions may have fees.\nEmergency: Dial 999\n\nNon-emergency: Dial 111\n\n🔗 Find a local GP"
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#national-insurance-number",
-    "href": "resources/immigration-guide-for-newcomers.html#national-insurance-number",
-    "title": "Immigration Guide for Newcomers",
-    "section": "💼 5. National Insurance Number",
-    "text": "💼 5. National Insurance Number\nYou’ll need a National Insurance (NI) Number to work legally and pay taxes in the UK.\n🔗 Apply online for an NI Number"
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#settling-in-what-else-to-do",
-    "href": "resources/immigration-guide-for-newcomers.html#settling-in-what-else-to-do",
-    "title": "Immigration Guide for Newcomers",
-    "section": "📚 6. Settling In: What Else to Do",
-    "text": "📚 6. Settling In: What Else to Do\n\nOpen a bank account: Use Monzo, Revolut, or traditional banks (Barclays, Lloyds, etc.)\nGet a SIM card: Giffgaff, Lebara, or EE offer good deals for international calls\nKnow your rights: Especially if you’re a tenant or employee\nAttend local orientation events: Check our Events"
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#community-support",
-    "href": "resources/immigration-guide-for-newcomers.html#community-support",
-    "title": "Immigration Guide for Newcomers",
-    "section": "🌍 Community & Support",
-    "text": "🌍 Community & Support\nYou don’t have to do this alone. Join other Kenyans in Scotland:\n\nConnect via Kenyan Community in Scotland\nFollow us on Facebook or Instagram\nExplore cultural events and mixers in Edinburgh and Glasgow"
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#checklist-before-after-arrival",
-    "href": "resources/immigration-guide-for-newcomers.html#checklist-before-after-arrival",
-    "title": "Immigration Guide for Newcomers",
-    "section": "✅ Checklist Before & After Arrival",
-    "text": "✅ Checklist Before & After Arrival\n\n\n\nTask\nStatus\n\n\n\n\nApply for visa\n☐\n\n\nBook accommodation\n☐\n\n\nConfirm airport pickup\n☐\n\n\nRegister with GP\n☐\n\n\nAttend KCS welcome session\n☐"
-  },
-  {
-    "objectID": "resources/immigration-guide-for-newcomers.html#need-help",
-    "href": "resources/immigration-guide-for-newcomers.html#need-help",
-    "title": "Immigration Guide for Newcomers",
-    "section": "🤝 Need Help?",
-    "text": "🤝 Need Help?\nReach out to us via contact page or email info@kenyancommunityinscotland.uk.\nWe’re here to make your transition smooth, safe, and successful. Karibu Scotland!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kenyan Community in Scotland",
-    "section": "",
-    "text": "Fostering unity, growth, and opportunity for Kenyans living in Scotland through community engagement, culture, and support. Be part of a growing movement: connect, contribute, and make an impact today!\n\nJoin the Community Partner with Us"
-  },
-  {
-    "objectID": "index.html#events",
-    "href": "index.html#events",
-    "title": "Kenyan Community in Scotland",
-    "section": "Events",
-    "text": "Events\n\n\n\n\n\n\n\n\n\n\nBen Nevis Hike: Saturday, 19th July 2025\n\n\n\n\n\n\nLinus Chirchir\n\n\nJun 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPentland Hills Hike: Saturday, 4 July 2025\n\n\n\n\n\n\nLinus Chirchir\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlas Tulaichean & Càrn Hike: Saturday, 21 June 2025\n\n\n\n\n\n\nLinus Chirchir\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#stories",
-    "href": "index.html#stories",
-    "title": "Kenyan Community in Scotland",
-    "section": "Stories",
-    "text": "Stories\n\n\n\n\n\n\n\n\n\n\nSummiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee\n\n\n\n\n\n\nLinus Chirchir\n\n\nJun 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nCheering On Team Kenya at the World Athletics Indoor Championships in Glasgow\n\n\n\n\n\n\nLinus Chirchir\n\n\nMar 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Fantastic Afternoon at Our Networking Mixer\n\n\n\n\n\n\nLinus Chirchir\n\n\nJan 14, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#profiles",
-    "href": "index.html#profiles",
-    "title": "Kenyan Community in Scotland",
-    "section": "Profiles",
-    "text": "Profiles\n\n\n\n\n\n\n\n\n\n\nLouis Kimanzi\n\n\n\n\n\n\nLinus Chirchir\n\n\nMay 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinus Chirchir\n\n\n\n\n\n\nLinus Chirchir\n\n\nMay 1, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#resources",
-    "href": "index.html#resources",
-    "title": "Kenyan Community in Scotland",
-    "section": "Resources",
-    "text": "Resources\n\n\n\n\n\n\n\n\n\n\nBanking Guide for Kenyans in Scotland\n\n\nA beginner’s guide to setting up and managing a UK bank account for newcomers from Kenya.\n\n\n\nLinus Chirchir\n\n\nMay 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHealthcare Guide for Kenyans in Scotland\n\n\nEverything newcomers need to know about accessing healthcare in Scotland through the NHS.\n\n\n\nLinus Chirchir\n\n\nMay 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nImmigration Guide for Newcomers\n\n\nStep-by-step immigration and settlement tips for Kenyans moving to Scotland.\n\n\n\nLinus Chirchir\n\n\nMay 12, 2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#gallery",
-    "href": "index.html#gallery",
-    "title": "Kenyan Community in Scotland",
-    "section": "Gallery",
-    "text": "Gallery\n\n\n\n\n\n\n\n\n\n\nCultural Festival Highlights\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCommunity Event Highlights\n\n\n\n\n\n\n\n\n\nJan 14, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#partners",
-    "href": "index.html#partners",
-    "title": "Kenyan Community in Scotland",
-    "section": "Partners",
-    "text": "Partners"
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join the Community",
-    "section": "",
-    "text": "We are excited to welcome new members to the Kenyan Community in Scotland. By becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland."
-  },
-  {
-    "objectID": "join.html#why-join-us",
-    "href": "join.html#why-join-us",
-    "title": "Join the Community",
-    "section": "Why Join Us?",
-    "text": "Why Join Us?\n\nConnect with fellow Kenyans across Scotland.\n\nParticipate in cultural events, networking forums, and community development projects.\n\nAccess mentorship, support, and learning opportunities.\n\nCelebrate and promote Kenyan culture and achievements."
-  },
-  {
-    "objectID": "join.html#membership-sign-up-form",
-    "href": "join.html#membership-sign-up-form",
-    "title": "Join the Community",
-    "section": "Membership Sign-Up Form",
-    "text": "Membership Sign-Up Form\n\n   \nFull Name * \nEmail Address * \nMobile Number * \nArea of Interest *  Select an option Networking Community Events Mentorship Professional Development Youth Engagement Cultural Promotion General Membership \nMessage\n\n\nJoin Now"
-  },
-  {
-    "objectID": "stories/index.html",
-    "href": "stories/index.html",
-    "title": "Stories",
-    "section": "",
-    "text": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee\n\n\n\nCommunity\n\nOutdoor\n\nHiking\n\nEvents\n\n\n\n\n\n\nJun 22, 2025\n\n\nLinus Chirchir\n\n3 min\n\n410 words\n\n\n\n\n\n\n\n\n\n\n\n\nCheering On Team Kenya at the World Athletics Indoor Championships in Glasgow\n\n\n\nCommunity\n\nSports\n\nEvents\n\nAthletics\n\n\n\n\n\n\nMar 3, 2024\n\n\nLinus Chirchir\n\n3 min\n\n467 words\n\n\n\n\n\n\n\n\n\n\n\n\nA Fantastic Afternoon at Our Networking Mixer\n\n\n\nCommunity\n\nNetworking\n\nEvents\n\n\n\n\n\n\nJan 14, 2024\n\n\nLinus Chirchir\n\n2 min\n\n296 words\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "stories/networking-mixer.html",
-    "href": "stories/networking-mixer.html",
-    "title": "A Fantastic Afternoon at Our Networking Mixer",
-    "section": "",
-    "text": "On 14 January 2024, the Kenyan Community in Scotland hosted a memorable Networking Mixer at The Foot of The Walk - JD Wetherspoon in Edinburgh. The afternoon was filled with energy, laughter, and meaningful conversations, bringing together a vibrant group of Kenyan professionals and friends.\nA huge thank you to everyone who made time to attend. It was heartwarming to see so many familiar faces and meet new members of our growing community. The positive atmosphere reflected the strength and unity of Kenyans living in Scotland."
-  },
-  {
-    "objectID": "stories/networking-mixer.html#coming-together-in-edinburgh",
-    "href": "stories/networking-mixer.html#coming-together-in-edinburgh",
-    "title": "A Fantastic Afternoon at Our Networking Mixer",
-    "section": "",
-    "text": "On 14 January 2024, the Kenyan Community in Scotland hosted a memorable Networking Mixer at The Foot of The Walk - JD Wetherspoon in Edinburgh. The afternoon was filled with energy, laughter, and meaningful conversations, bringing together a vibrant group of Kenyan professionals and friends.\nA huge thank you to everyone who made time to attend. It was heartwarming to see so many familiar faces and meet new members of our growing community. The positive atmosphere reflected the strength and unity of Kenyans living in Scotland."
-  },
-  {
-    "objectID": "stories/networking-mixer.html#event-highlights",
-    "href": "stories/networking-mixer.html#event-highlights",
-    "title": "A Fantastic Afternoon at Our Networking Mixer",
-    "section": "Event Highlights",
-    "text": "Event Highlights\n\nLively Networking Sessions: Attendees engaged in dynamic discussions, exchanging ideas, career experiences, and professional insights across diverse industries including healthcare, IT, education, business, and the arts.\nSharing Life in Edinburgh: Many shared personal journeys about settling and thriving in Edinburgh, offering invaluable advice to newcomers.\nStrengthening Community Bonds: Friendships were rekindled and new relationships were formed, reinforcing the importance of staying connected and supporting each other.\nYouth and Family Engagement: It was also wonderful to see younger members of the community present, adding to the joyful and inclusive spirit of the day."
-  },
-  {
-    "objectID": "stories/networking-mixer.html#a-special-thanks",
-    "href": "stories/networking-mixer.html#a-special-thanks",
-    "title": "A Fantastic Afternoon at Our Networking Mixer",
-    "section": "A Special Thanks",
-    "text": "A Special Thanks\nOur heartfelt appreciation goes to our venue, The Foot of The Walk - JD Wetherspoon, for providing a welcoming, comfortable, and relaxed environment. The excellent service and cozy setting contributed immensely to the success of the event."
-  },
-  {
-    "objectID": "stories/networking-mixer.html#reflections-and-next-steps",
-    "href": "stories/networking-mixer.html#reflections-and-next-steps",
-    "title": "A Fantastic Afternoon at Our Networking Mixer",
-    "section": "Reflections and Next Steps",
-    "text": "Reflections and Next Steps\nThis mixer was more than just an event; it was a reminder of the strength that lies in community. It highlighted our shared experiences, our aspirations, and the endless possibilities that collaboration brings.\nWe are excited about the future and are already planning more events to continue building a strong, supportive, and thriving Kenyan community network in Scotland.\nStay tuned for announcements on upcoming workshops, social events, and mentorship programs. Together, we are building a brighter future!"
-  },
-  {
-    "objectID": "ts-and-cs.html",
-    "href": "ts-and-cs.html",
-    "title": "Terms and Conditions",
-    "section": "",
-    "text": "Welcome to the Kenyan Community in Scotland website. By accessing or using our website, you agree to the following terms and conditions."
-  },
-  {
-    "objectID": "ts-and-cs.html#use-of-content",
-    "href": "ts-and-cs.html#use-of-content",
-    "title": "Terms and Conditions",
-    "section": "Use of Content",
-    "text": "Use of Content\nAll content published on this website is for informational purposes only. Unless otherwise stated, all content is owned by or licensed to the Kenyan Community in Scotland and is protected by applicable copyright and intellectual property laws.\nYou may share and adapt our content under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) provided you:\n\nAttribute the work appropriately.\nDo not use the content for commercial purposes.\nShare any adaptations under the same license.\n\nFor full license details, visit Creative Commons BY-NC-SA 4.0."
-  },
-  {
-    "objectID": "ts-and-cs.html#website-use",
-    "href": "ts-and-cs.html#website-use",
-    "title": "Terms and Conditions",
-    "section": "Website Use",
-    "text": "Website Use\nYou agree not to use this website in a manner that:\n\nViolates any applicable laws or regulations.\nInfringes the rights of others.\nAttempts to gain unauthorized access to systems or data.\nImpairs or interferes with the operation of this website."
-  },
-  {
-    "objectID": "ts-and-cs.html#external-links",
-    "href": "ts-and-cs.html#external-links",
-    "title": "Terms and Conditions",
-    "section": "External Links",
-    "text": "External Links\nOur website may contain links to external websites that are not maintained by us. We are not responsible for the content or accessibility of these external sites."
-  },
-  {
-    "objectID": "ts-and-cs.html#disclaimer",
-    "href": "ts-and-cs.html#disclaimer",
-    "title": "Terms and Conditions",
-    "section": "Disclaimer",
-    "text": "Disclaimer\nThe Kenyan Community in Scotland makes every effort to ensure the accuracy of the information on this site but does not guarantee its completeness or suitability for any purpose."
-  },
-  {
-    "objectID": "ts-and-cs.html#changes-to-these-terms",
-    "href": "ts-and-cs.html#changes-to-these-terms",
-    "title": "Terms and Conditions",
-    "section": "Changes to These Terms",
-    "text": "Changes to These Terms\nWe reserve the right to modify these terms and conditions at any time. Changes will be effective immediately upon posting on the website."
-  },
-  {
-    "objectID": "ts-and-cs.html#contact-us",
-    "href": "ts-and-cs.html#contact-us",
-    "title": "Terms and Conditions",
-    "section": "Contact Us",
-    "text": "Contact Us\nIf you have any questions about these terms and conditions:\n\n 📩 Ask a Question About These Terms"
-  },
-  {
-    "objectID": "partners.html",
-    "href": "partners.html",
-    "title": "Our Partners",
-    "section": "",
-    "text": "The Kenyan Community in Scotland is proud to have received support from various organizations featured on our homepage that share our mission of unity, growth, and opportunity.\nWe sincerely thank our partners for their ongoing collaboration and encouragement."
-  },
-  {
-    "objectID": "partners.html#why-partnerships-matter",
-    "href": "partners.html#why-partnerships-matter",
-    "title": "Our Partners",
-    "section": "Why Partnerships Matter",
-    "text": "Why Partnerships Matter\nOur partnerships help us to:\n\nDeliver meaningful cultural events\nEmpower community development initiatives\nStrengthen ties between Kenyans and Scottish communities"
-  },
-  {
-    "objectID": "partners.html#join-our-growing-network",
-    "href": "partners.html#join-our-growing-network",
-    "title": "Our Partners",
-    "section": "Join Our Growing Network",
-    "text": "Join Our Growing Network\n\n\n\n\n\n\nNote\n\n\n\nWould your organization like to join this growing network of supporters?\n👉 Partner with Us\nTogether, we can build a stronger future for our community!"
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html",
-    "href": "events/ben-nevis-hike.html",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "",
-    "text": "Take on the highest mountain in the UK. Join us for an unforgettable summer hiking challenge as we summit Ben Nevis (1,345 m / 4,413 ft), one of Scotland’s most iconic peaks."
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#ben-nevis-hiking-trip-via-mountain-track-from-fort-william",
-    "href": "events/ben-nevis-hike.html#ben-nevis-hiking-trip-via-mountain-track-from-fort-william",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "",
-    "text": "Take on the highest mountain in the UK. Join us for an unforgettable summer hiking challenge as we summit Ben Nevis (1,345 m / 4,413 ft), one of Scotland’s most iconic peaks."
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#date",
-    "href": "events/ben-nevis-hike.html#date",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "🗓️ Date",
-    "text": "🗓️ Date\nSaturday, 19th July 2025"
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#location",
-    "href": "events/ben-nevis-hike.html#location",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "📍 Location",
-    "text": "📍 Location\nMeeting Point: Usher Hall, Edinburgh\nTime: Departure to for the Mountain Path at 4:00 AM"
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#about-ben-nevis",
-    "href": "events/ben-nevis-hike.html#about-ben-nevis",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "🏞️ About Ben Nevis",
-    "text": "🏞️ About Ben Nevis\nLocated near the town of Fort William in the Scottish Highlands, Ben Nevis is a magnet for hikers and mountaineers. The trail offers breathtaking views, rugged beauty, and a true sense of accomplishment."
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#hike-overview",
-    "href": "events/ben-nevis-hike.html#hike-overview",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "🥾 Hike Overview",
-    "text": "🥾 Hike Overview\n\nRoute: Mountain Track (also known as the Tourist Route)\nDistance: ~17 km round trip\nElevation Gain: ~1,350 meters\nDifficulty: Strenuous\nEstimated Duration: 7–9 hours"
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#what-to-bring",
-    "href": "events/ben-nevis-hike.html#what-to-bring",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "🎒 What to Bring",
-    "text": "🎒 What to Bring\n\nSturdy hiking boots\nWeather-appropriate clothing (layers, waterproofs)\nPlenty of water and snacks\nSun protection and personal first aid kit\nTrekking poles (optional but helpful)"
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#important-notes",
-    "href": "events/ben-nevis-hike.html#important-notes",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "⚠️ Important Notes",
-    "text": "⚠️ Important Notes\n\nWeather in the Highlands can change rapidly. Be prepared for rain, wind, or fog.\nThis hike is physically demanding — a good fitness level is required.\nChildren under 16 must be accompanied by a responsible adult."
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#travel",
-    "href": "events/ben-nevis-hike.html#travel",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "🚗 Travel",
-    "text": "🚗 Travel\nParticipants are encouraged to arrange carpooling. Let us know in advance if you can offer or need a lift."
-  },
-  {
-    "objectID": "events/ben-nevis-hike.html#register",
-    "href": "events/ben-nevis-hike.html#register",
-    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
-    "section": "📝 Register",
-    "text": "📝 Register\nInterested in joining? Please contact us or fill out the Volunteer form and mention Ben Nevis Hike in the message.\n\nLet’s summit the UK’s tallest mountain together!"
-  },
-  {
-    "objectID": "events/pentland-hills-hike.html",
-    "href": "events/pentland-hills-hike.html",
-    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
-    "section": "",
-    "text": "Join us for a rejuvenating summer day out in the Pentland Hills Regional Park. This circular walk from Flotterstone offers panoramic views, peaceful trails, and a wonderful opportunity to connect with nature and fellow community members."
-  },
-  {
-    "objectID": "events/pentland-hills-hike.html#pentland-hills-circular-walk-from-flotterstone",
-    "href": "events/pentland-hills-hike.html#pentland-hills-circular-walk-from-flotterstone",
-    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
-    "section": "",
-    "text": "Join us for a rejuvenating summer day out in the Pentland Hills Regional Park. This circular walk from Flotterstone offers panoramic views, peaceful trails, and a wonderful opportunity to connect with nature and fellow community members."
-  },
-  {
-    "objectID": "events/pentland-hills-hike.html#date",
-    "href": "events/pentland-hills-hike.html#date",
-    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
-    "section": "🗓️ Date",
-    "text": "🗓️ Date\nSaturday, 4th July 2025"
-  },
-  {
-    "objectID": "events/pentland-hills-hike.html#location",
-    "href": "events/pentland-hills-hike.html#location",
-    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
-    "section": "📍 Location",
-    "text": "📍 Location\nMeeting Point: Usher Hall, Edinburgh\nTime: Meet at 7:00 AM for a prompt 7:15 AM departure"
-  },
-  {
-    "objectID": "events/pentland-hills-hike.html#walk-overview",
-    "href": "events/pentland-hills-hike.html#walk-overview",
-    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
-    "section": "🥾 Walk Overview",
-    "text": "🥾 Walk Overview\n\nRoute: Circular trail via Turnhouse Hill and Carnethy Hill\nDistance: ~11 km / 7 miles\n\nElevation Gain: ~550 meters\n\nHighest Points:\n\nTurnhouse Hill – 506 m / 1,660 ft\n\nCarnethy Hill – 573 m / 1,880 ft\n\n\nDifficulty: Moderate\n\nEstimated Duration: 3.5–4.5 hours (including breaks and photo stops)\n\nThis hike is suitable for individuals with a basic to moderate fitness level and includes a mix of steady climbs, rolling hills, and stunning views across Edinburgh and Midlothian."
-  },
-  {
-    "objectID": "events/pentland-hills-hike.html#what-to-bring",
-    "href": "events/pentland-hills-hike.html#what-to-bring",
-    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
-    "section": "🎒 What to Bring",
-    "text": "🎒 What to Bring\n\nComfortable hiking boots or sturdy walking shoes\n\nLayered clothing and waterproof outerwear\n\nWater and packed lunch/snacks\n\nSunscreen and a sunhat\n\nCamera or phone for photos\n\nA friendly smile and adventurous spirit!"
-  },
-  {
-    "objectID": "events/pentland-hills-hike.html#getting-there",
-    "href": "events/pentland-hills-hike.html#getting-there",
-    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
-    "section": "🚗 Getting There",
-    "text": "🚗 Getting There\n\nBy car: Free parking is available at the Flotterstone Car Park\nBy bus: Lothian Buses 101/102 serve the nearby area\n\nLet us know if you’d like to carpool—we’ll do our best to help coordinate rides."
-  },
-  {
-    "objectID": "events/pentland-hills-hike.html#register",
-    "href": "events/pentland-hills-hike.html#register",
-    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
-    "section": "📝 Register",
-    "text": "📝 Register\nInterested in joining us?\n👉 Sign up through the Volunteer form and mention “Pentlands Hike” in the message section.\nOr feel free to email us.\n\nWe look forward to walking the Pentlands with you!"
-  },
-  {
-    "objectID": "gallery/index.html",
-    "href": "gallery/index.html",
-    "title": "Gallery",
-    "section": "",
-    "text": "Cultural Festival Highlights\n\n\n\nGallery\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCommunity Event Highlights\n\n\n\nGallery\n\n\n\n\nJan 14, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "gallery/gallery1.html",
-    "href": "gallery/gallery1.html",
-    "title": "Cultural Festival Highlights",
-    "section": "",
-    "text": "Photos capturing the vibrancy, colors, and spirit of the Maasai cultural festival."
-  },
-  {
-    "objectID": "gallery/community-event-highlights.html",
-    "href": "gallery/community-event-highlights.html",
-    "title": "Community Event Highlights",
-    "section": "",
-    "text": "Enjoy some beautiful moments from our recent events!\n  \nStay tuned for more memories and celebrations!"
-  },
-  {
-    "objectID": "events/index.html",
-    "href": "events/index.html",
-    "title": "Events",
-    "section": "",
-    "text": "Ben Nevis Hike: Saturday, 19th July 2025\n\n\n\nCommunity\n\nOutdoor\n\nHiking\n\n\n\n\n\n\nJun 30, 2025\n\n\nLinus Chirchir\n\n2 min\n\n229 words\n\n\n\n\n\n\n\n\n\n\n\n\nPentland Hills Hike: Saturday, 4 July 2025\n\n\n\nCommunity\n\nOutdoor\n\nHiking\n\n\n\n\n\n\nJun 1, 2025\n\n\nLinus Chirchir\n\n2 min\n\n272 words\n\n\n\n\n\n\n\n\n\n\n\n\nGlas Tulaichean & Càrn Hike: Saturday, 21 June 2025\n\n\n\nCommunity\n\nOutdoor\n\nHiking\n\n\n\n\n\n\nJun 1, 2025\n\n\nLinus Chirchir\n\n1 min\n\n141 words\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/glas-tulaichean-hike.html",
-    "href": "events/glas-tulaichean-hike.html",
-    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
-    "section": "",
-    "text": "Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, Glas Tulaichean (1,051 m / 3,448 ft) and Càrn an Rìgh (1,029 m / 3,376 ft) both in the heart of the scenic Glenshee Highlands."
-  },
-  {
-    "objectID": "events/glas-tulaichean-hike.html#glas-tulaichean-càrn-an-rìgh-hiking-trip-from-spittal-of-glenshee",
-    "href": "events/glas-tulaichean-hike.html#glas-tulaichean-càrn-an-rìgh-hiking-trip-from-spittal-of-glenshee",
-    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
-    "section": "",
-    "text": "Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, Glas Tulaichean (1,051 m / 3,448 ft) and Càrn an Rìgh (1,029 m / 3,376 ft) both in the heart of the scenic Glenshee Highlands."
-  },
-  {
-    "objectID": "events/glas-tulaichean-hike.html#date",
-    "href": "events/glas-tulaichean-hike.html#date",
-    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
-    "section": "🗓️ Date",
-    "text": "🗓️ Date\nSaturday, 21st June 2025"
-  },
-  {
-    "objectID": "events/glas-tulaichean-hike.html#location",
-    "href": "events/glas-tulaichean-hike.html#location",
-    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
-    "section": "📍 Location",
-    "text": "📍 Location\nMeeting Point: Usher Hall, Edinburgh\nTime: Departure at 9:30 AM sharp"
-  },
-  {
-    "objectID": "events/glas-tulaichean-hike.html#hike-overview",
-    "href": "events/glas-tulaichean-hike.html#hike-overview",
-    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
-    "section": "🥾 Hike Overview",
-    "text": "🥾 Hike Overview\n\nDistance: ~19 km (loop)\nElevation Gain: ~1,100 meters\nDifficulty: Moderate to Strenuous\nDuration: 6–7 hours (including breaks)"
-  },
-  {
-    "objectID": "events/glas-tulaichean-hike.html#what-to-bring",
-    "href": "events/glas-tulaichean-hike.html#what-to-bring",
-    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
-    "section": "🎒 What to Bring",
-    "text": "🎒 What to Bring\n\nGood hiking boots\nWaterproof layers\nPacked lunch and water\nSun protection\nA positive spirit!"
-  },
-  {
-    "objectID": "events/glas-tulaichean-hike.html#travel",
-    "href": "events/glas-tulaichean-hike.html#travel",
-    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
-    "section": "🚗 Travel",
-    "text": "🚗 Travel\nCarpooling options may be available. Please indicate in the sign-up form if you can offer or need a lift."
-  },
-  {
-    "objectID": "events/glas-tulaichean-hike.html#register",
-    "href": "events/glas-tulaichean-hike.html#register",
-    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
-    "section": "📝 Register",
-    "text": "📝 Register\nIf you plan to attend, please contact us or fill out the Volunteer form and mention the event in the message.\n\nWe look forward to sharing the trail with you!"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "We would love to hear from you! Whether you have a question, feedback, or are interested in joining or partnering with the Kenyan Community in Scotland, feel free to reach out."
-  },
-  {
-    "objectID": "contact.html#connect-with-us",
-    "href": "contact.html#connect-with-us",
-    "title": "Contact Us",
-    "section": "Connect with Us",
-    "text": "Connect with Us\nStay updated with our latest news, events, and community activities by connecting with us on social media. Follow our official accounts to learn about upcoming cultural festivals, community gatherings, professional networking opportunities, and important updates that matter to the Kenyan community living in Scotland. Our platforms also provide a space to celebrate our achievements, share our stories, and support one another."
-  },
-  {
-    "objectID": "contact.html#visit-us",
-    "href": "contact.html#visit-us",
-    "title": "Contact Us",
-    "section": "Visit Us",
-    "text": "Visit Us\nWe occasionally host community events, meetups, and cultural festivals across Scotland. Keep an eye on our Events page for upcoming gatherings!"
-  },
-  {
-    "objectID": "contact.html#contact-form",
-    "href": "contact.html#contact-form",
-    "title": "Contact Us",
-    "section": "Contact Form",
-    "text": "Contact Form\n\n  \nYour Name * \nYour Email Address * \nSubject * \nMessage *\n\n\nSend Message"
-  },
-  {
-    "objectID": "stories/world-indoor-champs-glasgow.html",
-    "href": "stories/world-indoor-champs-glasgow.html",
-    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
-    "section": "",
-    "text": "On Saturday, 2 March 2024, members of the Kenyan Community in Scotland gathered in Glasgow to attend the World Athletics Indoor Championships 2024, showing support and solidarity with Team Kenya at the Emirates Arena. It was a celebration of excellence, pride, and unity.\n The SSE Hydro and SEC Armadillo en route to the event\nWe started the day travelling through iconic Glasgow landmarks, eventually arriving at the venue, which buzzed with anticipation and flags from every corner of the world.\n Crowds approaching Emirates Arena\n Emirates Arena entrance with event banners"
-  },
-  {
-    "objectID": "stories/world-indoor-champs-glasgow.html#global-stage-kenyan-pride",
-    "href": "stories/world-indoor-champs-glasgow.html#global-stage-kenyan-pride",
-    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
-    "section": "",
-    "text": "On Saturday, 2 March 2024, members of the Kenyan Community in Scotland gathered in Glasgow to attend the World Athletics Indoor Championships 2024, showing support and solidarity with Team Kenya at the Emirates Arena. It was a celebration of excellence, pride, and unity.\n The SSE Hydro and SEC Armadillo en route to the event\nWe started the day travelling through iconic Glasgow landmarks, eventually arriving at the venue, which buzzed with anticipation and flags from every corner of the world.\n Crowds approaching Emirates Arena\n Emirates Arena entrance with event banners"
-  },
-  {
-    "objectID": "stories/world-indoor-champs-glasgow.html#connecting-with-fellow-kenyans-and-fans",
-    "href": "stories/world-indoor-champs-glasgow.html#connecting-with-fellow-kenyans-and-fans",
-    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
-    "section": "👋 Connecting with Fellow Kenyans and Fans",
-    "text": "👋 Connecting with Fellow Kenyans and Fans\nInside, it was more than just athletics - it was a mini-reunion. We met other passionate fans and supporters of Team Kenya from across Scotland and beyond.\n Selfie with fans in full Kenyan gear\nThe crowd energy was contagious as we watched heats, sprints, hurdles, jumps, and more.\n A packed Emirates Arena during one of the sessions\n Spectators following the events attentively\n Track view of athletes and audience\n More views of the vibrant arena"
-  },
-  {
-    "objectID": "stories/world-indoor-champs-glasgow.html#kenya-on-the-podium",
-    "href": "stories/world-indoor-champs-glasgow.html#kenya-on-the-podium",
-    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
-    "section": "🥉 Kenya on the Podium",
-    "text": "🥉 Kenya on the Podium\nA proud moment came when Beatrice Chepkoech secured a bronze medal in the Women’s 3000 metres, clocking 8:22.68, a new national record.\n Chepkoech smiles alongside the Ethiopian winner after the Women’s 3000m final"
-  },
-  {
-    "objectID": "stories/world-indoor-champs-glasgow.html#post-event-meetup-and-reflections",
-    "href": "stories/world-indoor-champs-glasgow.html#post-event-meetup-and-reflections",
-    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
-    "section": "🍴 Post-Event Meetup and Reflections",
-    "text": "🍴 Post-Event Meetup and Reflections\nAfter the event, the Kenyan community met up to reflect and share a meal. We gathered at the athlete hotel and later visited Kenyan-owned local spots in Glasgow to celebrate.\n Meeting Kenyan athletes and supporters at the hotel lounge\n Post-race group celebration over drinks and Tusker\n Dinner with Kenyan team officials and staff"
-  },
-  {
-    "objectID": "stories/world-indoor-champs-glasgow.html#bonus-highlights",
-    "href": "stories/world-indoor-champs-glasgow.html#bonus-highlights",
-    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
-    "section": "📸 Bonus Highlights",
-    "text": "📸 Bonus Highlights\nWe captured even more moments from the stands and during athlete warm-ups:\n Kenyan fan overlooking the arena\n Side view of the packed venue during live events\n Broadcast setup and track overview\n Group photo with Beatrice Chepkoech at the hotel\n Chilling out with the Kenyan delegation at the hotel cafe"
-  },
-  {
-    "objectID": "stories/world-indoor-champs-glasgow.html#thank-you-and-asanteni-sana",
-    "href": "stories/world-indoor-champs-glasgow.html#thank-you-and-asanteni-sana",
-    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
-    "section": "🙌 Thank You and Asanteni Sana!",
-    "text": "🙌 Thank You and Asanteni Sana!\nTo every Kenyan who turned up, cheered loudly, and waved our flag with pride, thank you. Your presence and passion made this day unforgettable.\nLet’s continue showing up for each other, whether on the track or in everyday life.\n\nStay connected for future meetups, sports outings, and cultural events.\n📬 Subscribe to community updates or Join the Volunteer List"
-  },
-  {
-    "objectID": "stories/glas-tulaichean-hike.html",
-    "href": "stories/glas-tulaichean-hike.html",
-    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
-    "section": "",
-    "text": "On Saturday, 21st June 2025, members and friends of the Kenyan Community in Scotland came together for a stunning summer hike in the Glenshee region, conquering two magnificent Munros: Glas Tulaichean (1,051 m / 3,448 ft) and Càrn an Rìgh (1,029 m / 3,376 ft)."
-  },
-  {
-    "objectID": "stories/glas-tulaichean-hike.html#the-day-unfolded",
-    "href": "stories/glas-tulaichean-hike.html#the-day-unfolded",
-    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
-    "section": "🌄 The Day Unfolded",
-    "text": "🌄 The Day Unfolded\nWe departed Edinburgh at 6:00 AM, having assembled at Usher Hall with excitement and anticipation. After arriving around 8:00 AM at the Dalmunzie Hotel near Spittal of Glenshee, we began our 19 km circular hike under gradually clearing skies. The trail offered a mixture of gentle climbs and steeper sections through glens and ridges, revealing breathtaking Highland vistas."
-  },
-  {
-    "objectID": "stories/glas-tulaichean-hike.html#journey-highlights",
-    "href": "stories/glas-tulaichean-hike.html#journey-highlights",
-    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
-    "section": "📸 Journey Highlights",
-    "text": "📸 Journey Highlights\n\nFrom Dalmunzie Hotel to Glas Tulaichean Summit\n\nThe journey begins at Dalmunzie: packs on, boots laced, spirits high.\n\nOpen terrain and distant peaks set the tone for the first Munro.\n\nFinal push to Glas Tulaichean with encouragement at every step.\n\n\n\nGlas Tulaichean Summit Moments\n\nA moment of triumph at 1,051 metres: smiles and cheers all around.\n\nResting at the top with Highland views all around.\n\n\n\nTrek to Càrn an Rìgh\n\nDescending Glas Tulaichean before the next climb begins.\n\nThe trail to Càrn an Rìgh opens wide as the next summit comes into view.\n\n\n\nCàrn an Rìgh Summit Celebration\n\nSecond Munro conquered: a well-earned sense of achievement.\n\n\n\nJourney Back to Dalmunzie Hotel\n\nA red tent dots the shore of Loch nan Eun: a quiet reminder of solitude amidst vast Highland beauty.\n\nFeet tired but hearts full, we descended together through gentle paths and forested edges.\n With Dalmunzie in sight, conversations turned to food, photos, and future hikes."
-  },
-  {
-    "objectID": "stories/glas-tulaichean-hike.html#reflections",
-    "href": "stories/glas-tulaichean-hike.html#reflections",
-    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
-    "section": "💬 Reflections",
-    "text": "💬 Reflections\nFor many participants, this was their first Munro experience, and what a perfect introduction it was. From shared snacks and supportive steps to scenic breaks and collective encouragement, the hike embodied resilience, joy, and community.\nThis adventure reminded us of what lies at the heart of our community: togetherness, wellness, and exploration."
-  },
-  {
-    "objectID": "stories/glas-tulaichean-hike.html#thank-you",
-    "href": "stories/glas-tulaichean-hike.html#thank-you",
-    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
-    "section": "🙌 Thank You",
-    "text": "🙌 Thank You\nA huge thanks to everyone who made this event successful, from organising transport and guiding the route to bringing contagious enthusiasm. You made it memorable!"
-  },
-  {
-    "objectID": "stories/glas-tulaichean-hike.html#stay-involved",
-    "href": "stories/glas-tulaichean-hike.html#stay-involved",
-    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
-    "section": "📬 Stay Involved",
-    "text": "📬 Stay Involved\nDon’t miss future adventures!\n👉 Join our mailing list or sign up to volunteer"
-  },
-  {
-    "objectID": "accessibility.html",
-    "href": "accessibility.html",
-    "title": "Accessibility Commitment",
-    "section": "",
-    "text": "The Kenyan Community in Scotland is committed to ensuring digital accessibility for all visitors to our website, including people with disabilities. We aim to make our website and content as accessible, inclusive, and user-friendly as possible."
-  },
-  {
-    "objectID": "accessibility.html#our-commitment",
-    "href": "accessibility.html#our-commitment",
-    "title": "Accessibility Commitment",
-    "section": "Our Commitment",
-    "text": "Our Commitment\nWe strive to:\n\nDesign content that is usable and readable for everyone.\nEnsure that our website is navigable by keyboard and assistive technologies.\nProvide text alternatives for non-text content, such as images.\nMaintain high contrast between text and background colors.\nUse clear and simple language wherever possible."
-  },
-  {
-    "objectID": "accessibility.html#accessibility-features",
-    "href": "accessibility.html#accessibility-features",
-    "title": "Accessibility Commitment",
-    "section": "Accessibility Features",
-    "text": "Accessibility Features\nOur website includes the following features:\n\nResponsive design that works across desktop, tablet, and mobile devices.\nAlternative text descriptions for images.\nAccessible navigation menus.\nLogical heading structures to assist screen readers."
-  },
-  {
-    "objectID": "accessibility.html#ongoing-improvements",
-    "href": "accessibility.html#ongoing-improvements",
-    "title": "Accessibility Commitment",
-    "section": "Ongoing Improvements",
-    "text": "Ongoing Improvements\nWe recognize that accessibility is an ongoing effort. We are continuously reviewing and updating our website to improve usability for all users.\nIf you encounter any accessibility barriers or have suggestions for improvements, we welcome your feedback."
-  },
-  {
-    "objectID": "accessibility.html#contact-us",
-    "href": "accessibility.html#contact-us",
-    "title": "Accessibility Commitment",
-    "section": "Contact Us",
-    "text": "Contact Us\nWe value your input and want to ensure everyone can access our content with ease. If you encounter any issues or have suggestions to help us improve accessibility:\n\n 🛠️ Report an Accessibility Issue"
+    "text": "Banking Guide for Kenyans in Scotland\n\n\nA beginner’s guide to setting up and managing a UK bank account for newcomers from Kenya.\n\n\n\n\n\n\n\n\n\n\nHealthcare Guide for Kenyans in Scotland\n\n\nEverything newcomers need to know about accessing healthcare in Scotland through the NHS.\n\n\n\n\n\n\n\n\n\n\nImmigration Guide for Newcomers\n\n\nStep-by-step immigration and settlement tips for Kenyans moving to Scotland.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources/healthcare-guide-for-kenyans-in-scotland.html",
@@ -896,18 +203,767 @@
     "text": "🤝 Need Help?\nIf you’re unsure, contact us via the contact page, and we’ll help you navigate NHS services and connect with trusted local support.\nYour health matters. And in Scotland, you’re not alone."
   },
   {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Resources",
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility Commitment",
     "section": "",
-    "text": "Banking Guide for Kenyans in Scotland\n\n\nA beginner’s guide to setting up and managing a UK bank account for newcomers from Kenya.\n\n\n\n\n\n\n\n\n\n\nHealthcare Guide for Kenyans in Scotland\n\n\nEverything newcomers need to know about accessing healthcare in Scotland through the NHS.\n\n\n\n\n\n\n\n\n\n\nImmigration Guide for Newcomers\n\n\nStep-by-step immigration and settlement tips for Kenyans moving to Scotland.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The Kenyan Community in Scotland is committed to ensuring digital accessibility for all visitors to our website, including people with disabilities. We aim to make our website and content as accessible, inclusive, and user-friendly as possible."
   },
   {
-    "objectID": "signups.html",
-    "href": "signups.html",
-    "title": "Community Signups",
+    "objectID": "accessibility.html#our-commitment",
+    "href": "accessibility.html#our-commitment",
+    "title": "Accessibility Commitment",
+    "section": "Our Commitment",
+    "text": "Our Commitment\nWe strive to:\n\nDesign content that is usable and readable for everyone.\nEnsure that our website is navigable by keyboard and assistive technologies.\nProvide text alternatives for non-text content, such as images.\nMaintain high contrast between text and background colors.\nUse clear and simple language wherever possible."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-features",
+    "href": "accessibility.html#accessibility-features",
+    "title": "Accessibility Commitment",
+    "section": "Accessibility Features",
+    "text": "Accessibility Features\nOur website includes the following features:\n\nResponsive design that works across desktop, tablet, and mobile devices.\nAlternative text descriptions for images.\nAccessible navigation menus.\nLogical heading structures to assist screen readers."
+  },
+  {
+    "objectID": "accessibility.html#ongoing-improvements",
+    "href": "accessibility.html#ongoing-improvements",
+    "title": "Accessibility Commitment",
+    "section": "Ongoing Improvements",
+    "text": "Ongoing Improvements\nWe recognize that accessibility is an ongoing effort. We are continuously reviewing and updating our website to improve usability for all users.\nIf you encounter any accessibility barriers or have suggestions for improvements, we welcome your feedback."
+  },
+  {
+    "objectID": "accessibility.html#contact-us",
+    "href": "accessibility.html#contact-us",
+    "title": "Accessibility Commitment",
+    "section": "Contact Us",
+    "text": "Contact Us\nWe value your input and want to ensure everyone can access our content with ease. If you encounter any issues or have suggestions to help us improve accessibility:\n\n 🛠️ Report an Accessibility Issue"
+  },
+  {
+    "objectID": "stories/glas-tulaichean-hike.html",
+    "href": "stories/glas-tulaichean-hike.html",
+    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
     "section": "",
-    "text": "Community Signups Dashboard\nBelow is a live overview of the community members who have joined us!\n\n\nShiny applications not supported in static R Markdown documents"
+    "text": "On Saturday, 21st June 2025, members and friends of the Kenyan Community in Scotland came together for a stunning summer hike in the Glenshee region, conquering two magnificent Munros: Glas Tulaichean (1,051 m / 3,448 ft) and Càrn an Rìgh (1,029 m / 3,376 ft)."
+  },
+  {
+    "objectID": "stories/glas-tulaichean-hike.html#the-day-unfolded",
+    "href": "stories/glas-tulaichean-hike.html#the-day-unfolded",
+    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
+    "section": "🌄 The Day Unfolded",
+    "text": "🌄 The Day Unfolded\nWe departed Edinburgh at 6:00 AM, having assembled at Usher Hall with excitement and anticipation. After arriving around 8:00 AM at the Dalmunzie Hotel near Spittal of Glenshee, we began our 19 km circular hike under gradually clearing skies. The trail offered a mixture of gentle climbs and steeper sections through glens and ridges, revealing breathtaking Highland vistas."
+  },
+  {
+    "objectID": "stories/glas-tulaichean-hike.html#journey-highlights",
+    "href": "stories/glas-tulaichean-hike.html#journey-highlights",
+    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
+    "section": "📸 Journey Highlights",
+    "text": "📸 Journey Highlights\n\nFrom Dalmunzie Hotel to Glas Tulaichean Summit\n\nThe journey begins at Dalmunzie: packs on, boots laced, spirits high.\n\nOpen terrain and distant peaks set the tone for the first Munro.\n\nFinal push to Glas Tulaichean with encouragement at every step.\n\n\n\nGlas Tulaichean Summit Moments\n\nA moment of triumph at 1,051 metres: smiles and cheers all around.\n\nResting at the top with Highland views all around.\n\n\n\nTrek to Càrn an Rìgh\n\nDescending Glas Tulaichean before the next climb begins.\n\nThe trail to Càrn an Rìgh opens wide as the next summit comes into view.\n\n\n\nCàrn an Rìgh Summit Celebration\n\nSecond Munro conquered: a well-earned sense of achievement.\n\n\n\nJourney Back to Dalmunzie Hotel\n\nA red tent dots the shore of Loch nan Eun: a quiet reminder of solitude amidst vast Highland beauty.\n\nFeet tired but hearts full, we descended together through gentle paths and forested edges.\n With Dalmunzie in sight, conversations turned to food, photos, and future hikes."
+  },
+  {
+    "objectID": "stories/glas-tulaichean-hike.html#reflections",
+    "href": "stories/glas-tulaichean-hike.html#reflections",
+    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
+    "section": "💬 Reflections",
+    "text": "💬 Reflections\nFor many participants, this was their first Munro experience, and what a perfect introduction it was. From shared snacks and supportive steps to scenic breaks and collective encouragement, the hike embodied resilience, joy, and community.\nThis adventure reminded us of what lies at the heart of our community: togetherness, wellness, and exploration."
+  },
+  {
+    "objectID": "stories/glas-tulaichean-hike.html#thank-you",
+    "href": "stories/glas-tulaichean-hike.html#thank-you",
+    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
+    "section": "🙌 Thank You",
+    "text": "🙌 Thank You\nA huge thanks to everyone who made this event successful, from organising transport and guiding the route to bringing contagious enthusiasm. You made it memorable!"
+  },
+  {
+    "objectID": "stories/glas-tulaichean-hike.html#stay-involved",
+    "href": "stories/glas-tulaichean-hike.html#stay-involved",
+    "title": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee",
+    "section": "📬 Stay Involved",
+    "text": "📬 Stay Involved\nDon’t miss future adventures!\n👉 Join our mailing list or sign up to volunteer"
+  },
+  {
+    "objectID": "stories/world-indoor-champs-glasgow.html",
+    "href": "stories/world-indoor-champs-glasgow.html",
+    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
+    "section": "",
+    "text": "On Saturday, 2 March 2024, members of the Kenyan Community in Scotland gathered in Glasgow to attend the World Athletics Indoor Championships 2024, showing support and solidarity with Team Kenya at the Emirates Arena. It was a celebration of excellence, pride, and unity.\n The SSE Hydro and SEC Armadillo en route to the event\nWe started the day travelling through iconic Glasgow landmarks, eventually arriving at the venue, which buzzed with anticipation and flags from every corner of the world.\n Crowds approaching Emirates Arena\n Emirates Arena entrance with event banners"
+  },
+  {
+    "objectID": "stories/world-indoor-champs-glasgow.html#global-stage-kenyan-pride",
+    "href": "stories/world-indoor-champs-glasgow.html#global-stage-kenyan-pride",
+    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
+    "section": "",
+    "text": "On Saturday, 2 March 2024, members of the Kenyan Community in Scotland gathered in Glasgow to attend the World Athletics Indoor Championships 2024, showing support and solidarity with Team Kenya at the Emirates Arena. It was a celebration of excellence, pride, and unity.\n The SSE Hydro and SEC Armadillo en route to the event\nWe started the day travelling through iconic Glasgow landmarks, eventually arriving at the venue, which buzzed with anticipation and flags from every corner of the world.\n Crowds approaching Emirates Arena\n Emirates Arena entrance with event banners"
+  },
+  {
+    "objectID": "stories/world-indoor-champs-glasgow.html#connecting-with-fellow-kenyans-and-fans",
+    "href": "stories/world-indoor-champs-glasgow.html#connecting-with-fellow-kenyans-and-fans",
+    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
+    "section": "👋 Connecting with Fellow Kenyans and Fans",
+    "text": "👋 Connecting with Fellow Kenyans and Fans\nInside, it was more than just athletics - it was a mini-reunion. We met other passionate fans and supporters of Team Kenya from across Scotland and beyond.\n Selfie with fans in full Kenyan gear\nThe crowd energy was contagious as we watched heats, sprints, hurdles, jumps, and more.\n A packed Emirates Arena during one of the sessions\n Spectators following the events attentively\n Track view of athletes and audience\n More views of the vibrant arena"
+  },
+  {
+    "objectID": "stories/world-indoor-champs-glasgow.html#kenya-on-the-podium",
+    "href": "stories/world-indoor-champs-glasgow.html#kenya-on-the-podium",
+    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
+    "section": "🥉 Kenya on the Podium",
+    "text": "🥉 Kenya on the Podium\nA proud moment came when Beatrice Chepkoech secured a bronze medal in the Women’s 3000 metres, clocking 8:22.68, a new national record.\n Chepkoech smiles alongside the Ethiopian winner after the Women’s 3000m final"
+  },
+  {
+    "objectID": "stories/world-indoor-champs-glasgow.html#post-event-meetup-and-reflections",
+    "href": "stories/world-indoor-champs-glasgow.html#post-event-meetup-and-reflections",
+    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
+    "section": "🍴 Post-Event Meetup and Reflections",
+    "text": "🍴 Post-Event Meetup and Reflections\nAfter the event, the Kenyan community met up to reflect and share a meal. We gathered at the athlete hotel and later visited Kenyan-owned local spots in Glasgow to celebrate.\n Meeting Kenyan athletes and supporters at the hotel lounge\n Post-race group celebration over drinks and Tusker\n Dinner with Kenyan team officials and staff"
+  },
+  {
+    "objectID": "stories/world-indoor-champs-glasgow.html#bonus-highlights",
+    "href": "stories/world-indoor-champs-glasgow.html#bonus-highlights",
+    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
+    "section": "📸 Bonus Highlights",
+    "text": "📸 Bonus Highlights\nWe captured even more moments from the stands and during athlete warm-ups:\n Kenyan fan overlooking the arena\n Side view of the packed venue during live events\n Broadcast setup and track overview\n Group photo with Beatrice Chepkoech at the hotel\n Chilling out with the Kenyan delegation at the hotel cafe"
+  },
+  {
+    "objectID": "stories/world-indoor-champs-glasgow.html#thank-you-and-asanteni-sana",
+    "href": "stories/world-indoor-champs-glasgow.html#thank-you-and-asanteni-sana",
+    "title": "Cheering On Team Kenya at the World Athletics Indoor Championships in Glasgow",
+    "section": "🙌 Thank You and Asanteni Sana!",
+    "text": "🙌 Thank You and Asanteni Sana!\nTo every Kenyan who turned up, cheered loudly, and waved our flag with pride, thank you. Your presence and passion made this day unforgettable.\nLet’s continue showing up for each other, whether on the track or in everyday life.\n\nStay connected for future meetups, sports outings, and cultural events.\n📬 Subscribe to community updates or Join the Volunteer List"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "We would love to hear from you! Whether you have a question, feedback, or are interested in joining or partnering with the Kenyan Community in Scotland, feel free to reach out."
+  },
+  {
+    "objectID": "contact.html#connect-with-us",
+    "href": "contact.html#connect-with-us",
+    "title": "Contact Us",
+    "section": "Connect with Us",
+    "text": "Connect with Us\nStay updated with our latest news, events, and community activities by connecting with us on social media. Follow our official accounts to learn about upcoming cultural festivals, community gatherings, professional networking opportunities, and important updates that matter to the Kenyan community living in Scotland. Our platforms also provide a space to celebrate our achievements, share our stories, and support one another."
+  },
+  {
+    "objectID": "contact.html#visit-us",
+    "href": "contact.html#visit-us",
+    "title": "Contact Us",
+    "section": "Visit Us",
+    "text": "Visit Us\nWe occasionally host community events, meetups, and cultural festivals across Scotland. Keep an eye on our Events page for upcoming gatherings!"
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Contact Us",
+    "section": "Contact Form",
+    "text": "Contact Form\n\n  \nYour Name * \nYour Email Address * \nSubject * \nMessage *\n\n\nSend Message"
+  },
+  {
+    "objectID": "events/glas-tulaichean-hike.html",
+    "href": "events/glas-tulaichean-hike.html",
+    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
+    "section": "",
+    "text": "Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, Glas Tulaichean (1,051 m / 3,448 ft) and Càrn an Rìgh (1,029 m / 3,376 ft) both in the heart of the scenic Glenshee Highlands."
+  },
+  {
+    "objectID": "events/glas-tulaichean-hike.html#glas-tulaichean-càrn-an-rìgh-hiking-trip-from-spittal-of-glenshee",
+    "href": "events/glas-tulaichean-hike.html#glas-tulaichean-càrn-an-rìgh-hiking-trip-from-spittal-of-glenshee",
+    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
+    "section": "",
+    "text": "Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, Glas Tulaichean (1,051 m / 3,448 ft) and Càrn an Rìgh (1,029 m / 3,376 ft) both in the heart of the scenic Glenshee Highlands."
+  },
+  {
+    "objectID": "events/glas-tulaichean-hike.html#date",
+    "href": "events/glas-tulaichean-hike.html#date",
+    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
+    "section": "🗓️ Date",
+    "text": "🗓️ Date\nSaturday, 21st June 2025"
+  },
+  {
+    "objectID": "events/glas-tulaichean-hike.html#location",
+    "href": "events/glas-tulaichean-hike.html#location",
+    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
+    "section": "📍 Location",
+    "text": "📍 Location\nMeeting Point: Usher Hall, Edinburgh\nTime: Departure at 9:30 AM sharp"
+  },
+  {
+    "objectID": "events/glas-tulaichean-hike.html#hike-overview",
+    "href": "events/glas-tulaichean-hike.html#hike-overview",
+    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
+    "section": "🥾 Hike Overview",
+    "text": "🥾 Hike Overview\n\nDistance: ~19 km (loop)\nElevation Gain: ~1,100 meters\nDifficulty: Moderate to Strenuous\nDuration: 6–7 hours (including breaks)"
+  },
+  {
+    "objectID": "events/glas-tulaichean-hike.html#what-to-bring",
+    "href": "events/glas-tulaichean-hike.html#what-to-bring",
+    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
+    "section": "🎒 What to Bring",
+    "text": "🎒 What to Bring\n\nGood hiking boots\nWaterproof layers\nPacked lunch and water\nSun protection\nA positive spirit!"
+  },
+  {
+    "objectID": "events/glas-tulaichean-hike.html#travel",
+    "href": "events/glas-tulaichean-hike.html#travel",
+    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
+    "section": "🚗 Travel",
+    "text": "🚗 Travel\nCarpooling options may be available. Please indicate in the sign-up form if you can offer or need a lift."
+  },
+  {
+    "objectID": "events/glas-tulaichean-hike.html#register",
+    "href": "events/glas-tulaichean-hike.html#register",
+    "title": "Glas Tulaichean & Càrn Hike: Saturday, 21 June 2025",
+    "section": "📝 Register",
+    "text": "📝 Register\nIf you plan to attend, please contact us or fill out the Volunteer form and mention the event in the message.\n\nWe look forward to sharing the trail with you!"
+  },
+  {
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "Events",
+    "section": "",
+    "text": "Ben Nevis Hike: Saturday, 19th July 2025\n\n\n\nCommunity\n\nOutdoor\n\nHiking\n\n\n\n\n\n\nJul 4, 2025\n\n\nLinus Chirchir\n\n2 min\n\n229 words\n\n\n\n\n\n\n\n\n\n\n\n\nPentland Hills Hike: Saturday, 4 July 2025\n\n\n\nCommunity\n\nOutdoor\n\nHiking\n\n\n\n\n\n\nJun 1, 2025\n\n\nLinus Chirchir\n\n2 min\n\n272 words\n\n\n\n\n\n\n\n\n\n\n\n\nGlas Tulaichean & Càrn Hike: Saturday, 21 June 2025\n\n\n\nCommunity\n\nOutdoor\n\nHiking\n\n\n\n\n\n\nJun 1, 2025\n\n\nLinus Chirchir\n\n1 min\n\n141 words\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "gallery/community-event-highlights.html",
+    "href": "gallery/community-event-highlights.html",
+    "title": "Community Event Highlights",
+    "section": "",
+    "text": "Enjoy some beautiful moments from our recent events!\n  \nStay tuned for more memories and celebrations!"
+  },
+  {
+    "objectID": "gallery/gallery1.html",
+    "href": "gallery/gallery1.html",
+    "title": "Cultural Festival Highlights",
+    "section": "",
+    "text": "Photos capturing the vibrancy, colors, and spirit of the Maasai cultural festival."
+  },
+  {
+    "objectID": "gallery/index.html",
+    "href": "gallery/index.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Cultural Festival Highlights\n\n\n\nGallery\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCommunity Event Highlights\n\n\n\nGallery\n\n\n\n\nJan 14, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/pentland-hills-hike.html",
+    "href": "events/pentland-hills-hike.html",
+    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
+    "section": "",
+    "text": "Join us for a rejuvenating summer day out in the Pentland Hills Regional Park. This circular walk from Flotterstone offers panoramic views, peaceful trails, and a wonderful opportunity to connect with nature and fellow community members."
+  },
+  {
+    "objectID": "events/pentland-hills-hike.html#pentland-hills-circular-walk-from-flotterstone",
+    "href": "events/pentland-hills-hike.html#pentland-hills-circular-walk-from-flotterstone",
+    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
+    "section": "",
+    "text": "Join us for a rejuvenating summer day out in the Pentland Hills Regional Park. This circular walk from Flotterstone offers panoramic views, peaceful trails, and a wonderful opportunity to connect with nature and fellow community members."
+  },
+  {
+    "objectID": "events/pentland-hills-hike.html#date",
+    "href": "events/pentland-hills-hike.html#date",
+    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
+    "section": "🗓️ Date",
+    "text": "🗓️ Date\nSaturday, 4th July 2025"
+  },
+  {
+    "objectID": "events/pentland-hills-hike.html#location",
+    "href": "events/pentland-hills-hike.html#location",
+    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
+    "section": "📍 Location",
+    "text": "📍 Location\nMeeting Point: Usher Hall, Edinburgh\nTime: Meet at 7:00 AM for a prompt 7:15 AM departure"
+  },
+  {
+    "objectID": "events/pentland-hills-hike.html#walk-overview",
+    "href": "events/pentland-hills-hike.html#walk-overview",
+    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
+    "section": "🥾 Walk Overview",
+    "text": "🥾 Walk Overview\n\nRoute: Circular trail via Turnhouse Hill and Carnethy Hill\nDistance: ~11 km / 7 miles\n\nElevation Gain: ~550 meters\n\nHighest Points:\n\nTurnhouse Hill – 506 m / 1,660 ft\n\nCarnethy Hill – 573 m / 1,880 ft\n\n\nDifficulty: Moderate\n\nEstimated Duration: 3.5–4.5 hours (including breaks and photo stops)\n\nThis hike is suitable for individuals with a basic to moderate fitness level and includes a mix of steady climbs, rolling hills, and stunning views across Edinburgh and Midlothian."
+  },
+  {
+    "objectID": "events/pentland-hills-hike.html#what-to-bring",
+    "href": "events/pentland-hills-hike.html#what-to-bring",
+    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
+    "section": "🎒 What to Bring",
+    "text": "🎒 What to Bring\n\nComfortable hiking boots or sturdy walking shoes\n\nLayered clothing and waterproof outerwear\n\nWater and packed lunch/snacks\n\nSunscreen and a sunhat\n\nCamera or phone for photos\n\nA friendly smile and adventurous spirit!"
+  },
+  {
+    "objectID": "events/pentland-hills-hike.html#getting-there",
+    "href": "events/pentland-hills-hike.html#getting-there",
+    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
+    "section": "🚗 Getting There",
+    "text": "🚗 Getting There\n\nBy car: Free parking is available at the Flotterstone Car Park\nBy bus: Lothian Buses 101/102 serve the nearby area\n\nLet us know if you’d like to carpool—we’ll do our best to help coordinate rides."
+  },
+  {
+    "objectID": "events/pentland-hills-hike.html#register",
+    "href": "events/pentland-hills-hike.html#register",
+    "title": "Pentland Hills Hike: Saturday, 4 July 2025",
+    "section": "📝 Register",
+    "text": "📝 Register\nInterested in joining us?\n👉 Sign up through the Volunteer form and mention “Pentlands Hike” in the message section.\nOr feel free to email us.\n\nWe look forward to walking the Pentlands with you!"
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html",
+    "href": "events/ben-nevis-hike.html",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "",
+    "text": "Take on the highest mountain in the UK. Join us for an unforgettable summer hiking challenge as we summit Ben Nevis (1,345 m / 4,413 ft), one of Scotland’s most iconic peaks."
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#ben-nevis-hiking-trip-via-mountain-track-from-fort-william",
+    "href": "events/ben-nevis-hike.html#ben-nevis-hiking-trip-via-mountain-track-from-fort-william",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "",
+    "text": "Take on the highest mountain in the UK. Join us for an unforgettable summer hiking challenge as we summit Ben Nevis (1,345 m / 4,413 ft), one of Scotland’s most iconic peaks."
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#date",
+    "href": "events/ben-nevis-hike.html#date",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "🗓️ Date",
+    "text": "🗓️ Date\nSaturday, 19th July 2025"
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#location",
+    "href": "events/ben-nevis-hike.html#location",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "📍 Location",
+    "text": "📍 Location\nMeeting Point: Usher Hall, Edinburgh\nTime: Departure to for the Mountain Path at 4:00 AM"
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#about-ben-nevis",
+    "href": "events/ben-nevis-hike.html#about-ben-nevis",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "🏞️ About Ben Nevis",
+    "text": "🏞️ About Ben Nevis\nLocated near the town of Fort William in the Scottish Highlands, Ben Nevis is a magnet for hikers and mountaineers. The trail offers breathtaking views, rugged beauty, and a true sense of accomplishment."
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#hike-overview",
+    "href": "events/ben-nevis-hike.html#hike-overview",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "🥾 Hike Overview",
+    "text": "🥾 Hike Overview\n\nRoute: Mountain Track (also known as the Tourist Route)\nDistance: ~17 km round trip\nElevation Gain: ~1,350 meters\nDifficulty: Strenuous\nEstimated Duration: 7–9 hours"
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#what-to-bring",
+    "href": "events/ben-nevis-hike.html#what-to-bring",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "🎒 What to Bring",
+    "text": "🎒 What to Bring\n\nSturdy hiking boots\nWeather-appropriate clothing (layers, waterproofs)\nPlenty of water and snacks\nSun protection and personal first aid kit\nTrekking poles (optional but helpful)"
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#important-notes",
+    "href": "events/ben-nevis-hike.html#important-notes",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "⚠️ Important Notes",
+    "text": "⚠️ Important Notes\n\nWeather in the Highlands can change rapidly. Be prepared for rain, wind, or fog.\nThis hike is physically demanding — a good fitness level is required.\nChildren under 16 must be accompanied by a responsible adult."
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#travel",
+    "href": "events/ben-nevis-hike.html#travel",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "🚗 Travel",
+    "text": "🚗 Travel\nParticipants are encouraged to arrange carpooling. Let us know in advance if you can offer or need a lift."
+  },
+  {
+    "objectID": "events/ben-nevis-hike.html#register",
+    "href": "events/ben-nevis-hike.html#register",
+    "title": "Ben Nevis Hike: Saturday, 19th July 2025",
+    "section": "📝 Register",
+    "text": "📝 Register\nInterested in joining? Please contact us or fill out the Volunteer form and mention Ben Nevis Hike in the message.\n\nLet’s summit the UK’s tallest mountain together!"
+  },
+  {
+    "objectID": "partners.html",
+    "href": "partners.html",
+    "title": "Our Partners",
+    "section": "",
+    "text": "The Kenyan Community in Scotland is proud to have received support from various organizations featured on our homepage that share our mission of unity, growth, and opportunity.\nWe sincerely thank our partners for their ongoing collaboration and encouragement."
+  },
+  {
+    "objectID": "partners.html#why-partnerships-matter",
+    "href": "partners.html#why-partnerships-matter",
+    "title": "Our Partners",
+    "section": "Why Partnerships Matter",
+    "text": "Why Partnerships Matter\nOur partnerships help us to:\n\nDeliver meaningful cultural events\nEmpower community development initiatives\nStrengthen ties between Kenyans and Scottish communities"
+  },
+  {
+    "objectID": "partners.html#join-our-growing-network",
+    "href": "partners.html#join-our-growing-network",
+    "title": "Our Partners",
+    "section": "Join Our Growing Network",
+    "text": "Join Our Growing Network\n\n\n\n\n\n\nNote\n\n\n\nWould your organization like to join this growing network of supporters?\n👉 Partner with Us\nTogether, we can build a stronger future for our community!"
+  },
+  {
+    "objectID": "ts-and-cs.html",
+    "href": "ts-and-cs.html",
+    "title": "Terms and Conditions",
+    "section": "",
+    "text": "Welcome to the Kenyan Community in Scotland website. By accessing or using our website, you agree to the following terms and conditions."
+  },
+  {
+    "objectID": "ts-and-cs.html#use-of-content",
+    "href": "ts-and-cs.html#use-of-content",
+    "title": "Terms and Conditions",
+    "section": "Use of Content",
+    "text": "Use of Content\nAll content published on this website is for informational purposes only. Unless otherwise stated, all content is owned by or licensed to the Kenyan Community in Scotland and is protected by applicable copyright and intellectual property laws.\nYou may share and adapt our content under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) provided you:\n\nAttribute the work appropriately.\nDo not use the content for commercial purposes.\nShare any adaptations under the same license.\n\nFor full license details, visit Creative Commons BY-NC-SA 4.0."
+  },
+  {
+    "objectID": "ts-and-cs.html#website-use",
+    "href": "ts-and-cs.html#website-use",
+    "title": "Terms and Conditions",
+    "section": "Website Use",
+    "text": "Website Use\nYou agree not to use this website in a manner that:\n\nViolates any applicable laws or regulations.\nInfringes the rights of others.\nAttempts to gain unauthorized access to systems or data.\nImpairs or interferes with the operation of this website."
+  },
+  {
+    "objectID": "ts-and-cs.html#external-links",
+    "href": "ts-and-cs.html#external-links",
+    "title": "Terms and Conditions",
+    "section": "External Links",
+    "text": "External Links\nOur website may contain links to external websites that are not maintained by us. We are not responsible for the content or accessibility of these external sites."
+  },
+  {
+    "objectID": "ts-and-cs.html#disclaimer",
+    "href": "ts-and-cs.html#disclaimer",
+    "title": "Terms and Conditions",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThe Kenyan Community in Scotland makes every effort to ensure the accuracy of the information on this site but does not guarantee its completeness or suitability for any purpose."
+  },
+  {
+    "objectID": "ts-and-cs.html#changes-to-these-terms",
+    "href": "ts-and-cs.html#changes-to-these-terms",
+    "title": "Terms and Conditions",
+    "section": "Changes to These Terms",
+    "text": "Changes to These Terms\nWe reserve the right to modify these terms and conditions at any time. Changes will be effective immediately upon posting on the website."
+  },
+  {
+    "objectID": "ts-and-cs.html#contact-us",
+    "href": "ts-and-cs.html#contact-us",
+    "title": "Terms and Conditions",
+    "section": "Contact Us",
+    "text": "Contact Us\nIf you have any questions about these terms and conditions:\n\n 📩 Ask a Question About These Terms"
+  },
+  {
+    "objectID": "stories/networking-mixer.html",
+    "href": "stories/networking-mixer.html",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
+    "section": "",
+    "text": "On 14 January 2024, the Kenyan Community in Scotland hosted a memorable Networking Mixer at The Foot of The Walk - JD Wetherspoon in Edinburgh. The afternoon was filled with energy, laughter, and meaningful conversations, bringing together a vibrant group of Kenyan professionals and friends.\nA huge thank you to everyone who made time to attend. It was heartwarming to see so many familiar faces and meet new members of our growing community. The positive atmosphere reflected the strength and unity of Kenyans living in Scotland."
+  },
+  {
+    "objectID": "stories/networking-mixer.html#coming-together-in-edinburgh",
+    "href": "stories/networking-mixer.html#coming-together-in-edinburgh",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
+    "section": "",
+    "text": "On 14 January 2024, the Kenyan Community in Scotland hosted a memorable Networking Mixer at The Foot of The Walk - JD Wetherspoon in Edinburgh. The afternoon was filled with energy, laughter, and meaningful conversations, bringing together a vibrant group of Kenyan professionals and friends.\nA huge thank you to everyone who made time to attend. It was heartwarming to see so many familiar faces and meet new members of our growing community. The positive atmosphere reflected the strength and unity of Kenyans living in Scotland."
+  },
+  {
+    "objectID": "stories/networking-mixer.html#event-highlights",
+    "href": "stories/networking-mixer.html#event-highlights",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
+    "section": "Event Highlights",
+    "text": "Event Highlights\n\nLively Networking Sessions: Attendees engaged in dynamic discussions, exchanging ideas, career experiences, and professional insights across diverse industries including healthcare, IT, education, business, and the arts.\nSharing Life in Edinburgh: Many shared personal journeys about settling and thriving in Edinburgh, offering invaluable advice to newcomers.\nStrengthening Community Bonds: Friendships were rekindled and new relationships were formed, reinforcing the importance of staying connected and supporting each other.\nYouth and Family Engagement: It was also wonderful to see younger members of the community present, adding to the joyful and inclusive spirit of the day."
+  },
+  {
+    "objectID": "stories/networking-mixer.html#a-special-thanks",
+    "href": "stories/networking-mixer.html#a-special-thanks",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
+    "section": "A Special Thanks",
+    "text": "A Special Thanks\nOur heartfelt appreciation goes to our venue, The Foot of The Walk - JD Wetherspoon, for providing a welcoming, comfortable, and relaxed environment. The excellent service and cozy setting contributed immensely to the success of the event."
+  },
+  {
+    "objectID": "stories/networking-mixer.html#reflections-and-next-steps",
+    "href": "stories/networking-mixer.html#reflections-and-next-steps",
+    "title": "A Fantastic Afternoon at Our Networking Mixer",
+    "section": "Reflections and Next Steps",
+    "text": "Reflections and Next Steps\nThis mixer was more than just an event; it was a reminder of the strength that lies in community. It highlighted our shared experiences, our aspirations, and the endless possibilities that collaboration brings.\nWe are excited about the future and are already planning more events to continue building a strong, supportive, and thriving Kenyan community network in Scotland.\nStay tuned for announcements on upcoming workshops, social events, and mentorship programs. Together, we are building a brighter future!"
+  },
+  {
+    "objectID": "stories/index.html",
+    "href": "stories/index.html",
+    "title": "Stories",
+    "section": "",
+    "text": "Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee\n\n\n\nCommunity\n\nOutdoor\n\nHiking\n\nEvents\n\n\n\n\n\n\nJun 22, 2025\n\n\nLinus Chirchir\n\n3 min\n\n410 words\n\n\n\n\n\n\n\n\n\n\n\n\nCheering On Team Kenya at the World Athletics Indoor Championships in Glasgow\n\n\n\nCommunity\n\nSports\n\nEvents\n\nAthletics\n\n\n\n\n\n\nMar 3, 2024\n\n\nLinus Chirchir\n\n3 min\n\n467 words\n\n\n\n\n\n\n\n\n\n\n\n\nA Fantastic Afternoon at Our Networking Mixer\n\n\n\nCommunity\n\nNetworking\n\nEvents\n\n\n\n\n\n\nJan 14, 2024\n\n\nLinus Chirchir\n\n2 min\n\n296 words\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join the Community",
+    "section": "",
+    "text": "We are excited to welcome new members to the Kenyan Community in Scotland. By becoming a member, you join a vibrant and supportive network of Kenyans living, studying, and working across Scotland."
+  },
+  {
+    "objectID": "join.html#why-join-us",
+    "href": "join.html#why-join-us",
+    "title": "Join the Community",
+    "section": "Why Join Us?",
+    "text": "Why Join Us?\n\nConnect with fellow Kenyans across Scotland.\n\nParticipate in cultural events, networking forums, and community development projects.\n\nAccess mentorship, support, and learning opportunities.\n\nCelebrate and promote Kenyan culture and achievements."
+  },
+  {
+    "objectID": "join.html#membership-sign-up-form",
+    "href": "join.html#membership-sign-up-form",
+    "title": "Join the Community",
+    "section": "Membership Sign-Up Form",
+    "text": "Membership Sign-Up Form\n\n   \nFull Name * \nEmail Address * \nMobile Number * \nArea of Interest *  Select an option Networking Community Events Mentorship Professional Development Youth Engagement Cultural Promotion General Membership \nMessage\n\n\nJoin Now"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kenyan Community in Scotland",
+    "section": "",
+    "text": "Fostering unity, growth, and opportunity for Kenyans living in Scotland through community engagement, culture, and support. Be part of a growing movement: connect, contribute, and make an impact today!\n\nJoin the Community Partner with Us"
+  },
+  {
+    "objectID": "index.html#events",
+    "href": "index.html#events",
+    "title": "Kenyan Community in Scotland",
+    "section": "Events",
+    "text": "Events\n\n\n\n\n\n\n\n\n\n\nBen Nevis Hike: Saturday, 19th July 2025\n\n\n\n\n\n\nLinus Chirchir\n\n\nJul 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nPentland Hills Hike: Saturday, 4 July 2025\n\n\n\n\n\n\nLinus Chirchir\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlas Tulaichean & Càrn Hike: Saturday, 21 June 2025\n\n\n\n\n\n\nLinus Chirchir\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#stories",
+    "href": "index.html#stories",
+    "title": "Kenyan Community in Scotland",
+    "section": "Stories",
+    "text": "Stories\n\n\n\n\n\n\n\n\n\n\nSummiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee\n\n\n\n\n\n\nLinus Chirchir\n\n\nJun 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nCheering On Team Kenya at the World Athletics Indoor Championships in Glasgow\n\n\n\n\n\n\nLinus Chirchir\n\n\nMar 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Fantastic Afternoon at Our Networking Mixer\n\n\n\n\n\n\nLinus Chirchir\n\n\nJan 14, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#profiles",
+    "href": "index.html#profiles",
+    "title": "Kenyan Community in Scotland",
+    "section": "Profiles",
+    "text": "Profiles\n\n\n\n\n\n\n\n\n\n\nDr. Kamau Wairuri\n\n\n\n\n\n\nLinus Chirchir\n\n\nMay 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLouis Kimanzi\n\n\n\n\n\n\nLinus Chirchir\n\n\nMay 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nLinus Chirchir\n\n\n\n\n\n\nLinus Chirchir\n\n\nMay 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "Kenyan Community in Scotland",
+    "section": "Resources",
+    "text": "Resources\n\n\n\n\n\n\n\n\n\n\nBanking Guide for Kenyans in Scotland\n\n\nA beginner’s guide to setting up and managing a UK bank account for newcomers from Kenya.\n\n\n\nLinus Chirchir\n\n\nMay 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHealthcare Guide for Kenyans in Scotland\n\n\nEverything newcomers need to know about accessing healthcare in Scotland through the NHS.\n\n\n\nLinus Chirchir\n\n\nMay 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nImmigration Guide for Newcomers\n\n\nStep-by-step immigration and settlement tips for Kenyans moving to Scotland.\n\n\n\nLinus Chirchir\n\n\nMay 12, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#gallery",
+    "href": "index.html#gallery",
+    "title": "Kenyan Community in Scotland",
+    "section": "Gallery",
+    "text": "Gallery\n\n\n\n\n\n\n\n\n\n\nCultural Festival Highlights\n\n\n\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\nCommunity Event Highlights\n\n\n\n\n\n\n\n\n\nJan 14, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
+    "title": "Kenyan Community in Scotland",
+    "section": "Partners",
+    "text": "Partners"
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html",
+    "href": "resources/immigration-guide-for-newcomers.html",
+    "title": "Immigration Guide for Newcomers",
+    "section": "",
+    "text": "Moving to Scotland from Kenya is an exciting journey, but it can also feel overwhelming at first. This guide walks you through the essential steps for settling in, with helpful resources, legal guidance, and local support links."
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#welcome-to-scotland",
+    "href": "resources/immigration-guide-for-newcomers.html#welcome-to-scotland",
+    "title": "Immigration Guide for Newcomers",
+    "section": "",
+    "text": "Moving to Scotland from Kenya is an exciting journey, but it can also feel overwhelming at first. This guide walks you through the essential steps for settling in, with helpful resources, legal guidance, and local support links."
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#visa-types-and-application",
+    "href": "resources/immigration-guide-for-newcomers.html#visa-types-and-application",
+    "title": "Immigration Guide for Newcomers",
+    "section": "📌 1. Visa Types and Application",
+    "text": "📌 1. Visa Types and Application\nDepending on your purpose, you’ll apply for one of these visas:\n\nStudent Visa – For those studying at a university or college.\nSkilled Worker Visa – For individuals with job offers in eligible occupations.\nFamily Visa – For joining a spouse, child, or parent.\nVisitor Visa – Short-term stay (e.g. tourism, business, or visiting family).\nGraduate Visa – For students who have completed their UK studies.\n\n🔗 Check which UK visa you need"
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#documents-youll-need",
+    "href": "resources/immigration-guide-for-newcomers.html#documents-youll-need",
+    "title": "Immigration Guide for Newcomers",
+    "section": "📄 2. Documents You’ll Need",
+    "text": "📄 2. Documents You’ll Need\nEnsure you have these key documents ready:\n\nValid passport\n\nVisa confirmation (BRP or digital status)\n\nProof of accommodation in Scotland\n\nNHS registration (after arrival)\n\nTB test certificate (for long-term visas)\n\nPolice registration (if required)"
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#finding-a-place-to-live",
+    "href": "resources/immigration-guide-for-newcomers.html#finding-a-place-to-live",
+    "title": "Immigration Guide for Newcomers",
+    "section": "🏠 3. Finding a Place to Live",
+    "text": "🏠 3. Finding a Place to Live\nHousing options include:\n\nUniversity accommodation (for students)\n\nPrivate rentals – via Rightmove, Zoopla, or Gumtree\n\nCouncil or social housing (in special cases)\n\n📌 Tip: Get a tenancy agreement and avoid cash-only landlords."
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#healthcare-and-the-nhs",
+    "href": "resources/immigration-guide-for-newcomers.html#healthcare-and-the-nhs",
+    "title": "Immigration Guide for Newcomers",
+    "section": "🏥 4. Healthcare and the NHS",
+    "text": "🏥 4. Healthcare and the NHS\n\nOnce you arrive, register with a local GP (doctor).\nAccess to healthcare is mostly free through the NHS, but some services like prescriptions may have fees.\nEmergency: Dial 999\n\nNon-emergency: Dial 111\n\n🔗 Find a local GP"
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#national-insurance-number",
+    "href": "resources/immigration-guide-for-newcomers.html#national-insurance-number",
+    "title": "Immigration Guide for Newcomers",
+    "section": "💼 5. National Insurance Number",
+    "text": "💼 5. National Insurance Number\nYou’ll need a National Insurance (NI) Number to work legally and pay taxes in the UK.\n🔗 Apply online for an NI Number"
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#settling-in-what-else-to-do",
+    "href": "resources/immigration-guide-for-newcomers.html#settling-in-what-else-to-do",
+    "title": "Immigration Guide for Newcomers",
+    "section": "📚 6. Settling In: What Else to Do",
+    "text": "📚 6. Settling In: What Else to Do\n\nOpen a bank account: Use Monzo, Revolut, or traditional banks (Barclays, Lloyds, etc.)\nGet a SIM card: Giffgaff, Lebara, or EE offer good deals for international calls\nKnow your rights: Especially if you’re a tenant or employee\nAttend local orientation events: Check our Events"
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#community-support",
+    "href": "resources/immigration-guide-for-newcomers.html#community-support",
+    "title": "Immigration Guide for Newcomers",
+    "section": "🌍 Community & Support",
+    "text": "🌍 Community & Support\nYou don’t have to do this alone. Join other Kenyans in Scotland:\n\nConnect via Kenyan Community in Scotland\nFollow us on Facebook or Instagram\nExplore cultural events and mixers in Edinburgh and Glasgow"
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#checklist-before-after-arrival",
+    "href": "resources/immigration-guide-for-newcomers.html#checklist-before-after-arrival",
+    "title": "Immigration Guide for Newcomers",
+    "section": "✅ Checklist Before & After Arrival",
+    "text": "✅ Checklist Before & After Arrival\n\n\n\nTask\nStatus\n\n\n\n\nApply for visa\n☐\n\n\nBook accommodation\n☐\n\n\nConfirm airport pickup\n☐\n\n\nRegister with GP\n☐\n\n\nAttend KCS welcome session\n☐"
+  },
+  {
+    "objectID": "resources/immigration-guide-for-newcomers.html#need-help",
+    "href": "resources/immigration-guide-for-newcomers.html#need-help",
+    "title": "Immigration Guide for Newcomers",
+    "section": "🤝 Need Help?",
+    "text": "🤝 Need Help?\nReach out to us via contact page or email info@kenyancommunityinscotland.uk.\nWe’re here to make your transition smooth, safe, and successful. Karibu Scotland!"
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "",
+    "text": "A UK bank account is essential for:\n\nGetting paid (salary, benefits, stipends)\nPaying rent, bills, and subscriptions\nBuilding a credit history\nSending money internationally\n\nYou’ll need to open either a basic current account or a student account, depending on your situation."
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#opening-a-uk-bank-account",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#opening-a-uk-bank-account",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "",
+    "text": "A UK bank account is essential for:\n\nGetting paid (salary, benefits, stipends)\nPaying rent, bills, and subscriptions\nBuilding a credit history\nSending money internationally\n\nYou’ll need to open either a basic current account or a student account, depending on your situation."
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#types-of-banks-to-consider",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#types-of-banks-to-consider",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "🏦 1. Types of Banks to Consider",
+    "text": "🏦 1. Types of Banks to Consider\n\n🏛️ Traditional Banks:\n\nBarclays\n\nLloyds Bank\n\nHalifax\n\nHSBC\n\nNatWest\n\nBank of Scotland\nRoyal Bank of Scotland (RBS)\n\n\n\n📱 Digital-First Banks:\n\nMonzo\n\nStarling\n\nRevolut (also supports international transfers)\n\n📌 Tip: Digital banks are quicker to set up and require fewer documents — ideal if you’ve just arrived."
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#documents-you-need",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#documents-you-need",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "📄 2. Documents You Need",
+    "text": "📄 2. Documents You Need\nMost banks require:\n\nProof of identity: passport or biometric residence permit (BRP)\n\nProof of address: tenancy agreement, utility bill, or a letter from your university/employer\n\n🔐 Some banks may accept a letter from your university or the Post Office EasyID app for verification."
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#how-to-open-an-account",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#how-to-open-an-account",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "🧭 3. How to Open an Account",
+    "text": "🧭 3. How to Open an Account\n\nApply online via the bank’s website or app (for digital banks)\nOr visit a branch in person for traditional banks\nSubmit ID and address documents\nWait for approval (may take hours to a few days)\nReceive your debit card and PIN by post"
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#features-to-look-for",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#features-to-look-for",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "💡 4. Features to Look For",
+    "text": "💡 4. Features to Look For\n\nNo monthly fees (most basic accounts are free)\nContactless card + online banking\nMobile app for money transfers\nDirect debit and standing order options\nOverdraft protection or student incentives (for student accounts)"
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#sending-receiving-money",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#sending-receiving-money",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "🔄 5. Sending & Receiving Money",
+    "text": "🔄 5. Sending & Receiving Money\n\nUK Transfers: Use account number and sort code\n\nInternational Transfers: Use SWIFT/BIC and IBAN\n\nApps like Wise, WorldRemit, and Revolut offer affordable remittance options for sending money back to Kenya"
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#banking-safety-tips",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#banking-safety-tips",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "🔐 6. Banking Safety Tips",
+    "text": "🔐 6. Banking Safety Tips\n\nNever share your PIN or login details\n\nEnable biometric login on banking apps\n\nWatch out for fake emails (phishing scams)\n\nReport lost cards immediately"
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#student-banking",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#student-banking",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "👨🏽‍🎓 7. Student Banking",
+    "text": "👨🏽‍🎓 7. Student Banking\nIf you’re a student: - Ask your university for a proof of student status letter - Many banks offer student-specific accounts with perks (e.g., free railcards)\nPopular student-friendly banks: - Santander (16–25 Railcard) - HSBC - RBS (in Scotland)"
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#building-your-financial-footprint",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#building-your-financial-footprint",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "🧾 8. Building Your Financial Footprint",
+    "text": "🧾 8. Building Your Financial Footprint\n\nPay your bills on time (e.g., mobile contract)\nAvoid unnecessary overdraft usage\nRegister on the electoral roll\nConsider small savings or budgeting apps"
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#quick-checklist",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#quick-checklist",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "✅ Quick Checklist",
+    "text": "✅ Quick Checklist\n\n\n\nTask\nStatus\n\n\n\n\nChoose a bank\n☐\n\n\nGather ID and address documents\n☐\n\n\nApply online or visit a branch\n☐\n\n\nSet up mobile banking app\n☐\n\n\nEnable alerts and security settings\n☐"
+  },
+  {
+    "objectID": "resources/banking-guide-for-kenyans-in-scotland.html#need-help",
+    "href": "resources/banking-guide-for-kenyans-in-scotland.html#need-help",
+    "title": "Banking Guide for Kenyans in Scotland",
+    "section": "💬 Need Help?",
+    "text": "💬 Need Help?\nHave questions? Our Contact page is open — or join the community on Facebook to ask for advice from fellow Kenyans.\nA bank account is your first financial step. We’re here to help you take it with confidence."
+  },
+  {
+    "objectID": "profiles/kamau-wairuri.html",
+    "href": "profiles/kamau-wairuri.html",
+    "title": "Dr. Kamau Wairuri",
+    "section": "",
+    "text": "Dr. Kamau Wairuri is a Kenyan political scientist, policy-oriented researcher, educator, and thought leader with a passion for democracy, human rights, and inclusive governance. His work focuses on policing, violence, and the experiences of marginalised communities in Africa."
+  },
+  {
+    "objectID": "profiles/kamau-wairuri.html#academic-background",
+    "href": "profiles/kamau-wairuri.html#academic-background",
+    "title": "Dr. Kamau Wairuri",
+    "section": "🎓 Academic Background",
+    "text": "🎓 Academic Background\nDr. Wairuri holds:\n\nPhD in African Studies, University of Edinburgh\nMSc in African Studies, University of Oxford\nBA in Political Science and Sociology, University of Nairobi\n\nHis academic journey reflects a deep commitment to interrogating systems of power, security, and social justice in Africa."
+  },
+  {
+    "objectID": "profiles/kamau-wairuri.html#research-focus",
+    "href": "profiles/kamau-wairuri.html#research-focus",
+    "title": "Dr. Kamau Wairuri",
+    "section": "🔍 Research Focus",
+    "text": "🔍 Research Focus\nKamau’s research is widely respected and centres around:\n\nPolitics of state policing, police abuse, reform, and accountability\nPolicing of marginalised, stigmatised, and criminalised groups\nViolence, including political violence, terrorism, and urban crime\n\nHis scholarship has been published in leading journals such as African Affairs and Africa, and edited volumes like the Routledge Handbook for the Horn of Africa. He currently co-edits a book project on migration and marginalisation in East Africa.\nHe is an active member of professional networks, including:\n\nBritish Institute in Eastern Africa (BIEA)\nAfrican Studies Association (UK)\nDevelopment Studies Association (UK)"
+  },
+  {
+    "objectID": "profiles/kamau-wairuri.html#educator-mentor",
+    "href": "profiles/kamau-wairuri.html#educator-mentor",
+    "title": "Dr. Kamau Wairuri",
+    "section": "👨🏽‍🏫 Educator & Mentor",
+    "text": "👨🏽‍🏫 Educator & Mentor\nDr. Wairuri is currently a Lecturer in Criminology at Edinburgh Napier University, where he teaches undergraduate and postgraduate courses on policing and transnational crime. He also leads the Institute of Public Policy and Governance (IPPG) at Strathmore University Business School, Nairobi.\nHe has delivered lectures and seminars at prestigious institutions including:\n\nUniversity of Oxford\nUniversity of Cambridge\nUniversity of Strathclyde\n\nHe is also an Associate Fellow of the Higher Education Academy (UK)."
+  },
+  {
+    "objectID": "profiles/kamau-wairuri.html#policy-public-engagement",
+    "href": "profiles/kamau-wairuri.html#policy-public-engagement",
+    "title": "Dr. Kamau Wairuri",
+    "section": "🧭 Policy & Public Engagement",
+    "text": "🧭 Policy & Public Engagement\nAs a policy and public affairs consultant, Dr. Wairuri has advised organisations and leaders on:\n\nSafety and security\nGender inclusion and equity\nHuman rights mainstreaming\nYouth empowerment\n\nHis work in this space has been captured in technical reports and policy briefs."
+  },
+  {
+    "objectID": "profiles/kamau-wairuri.html#public-thought-leadership",
+    "href": "profiles/kamau-wairuri.html#public-thought-leadership",
+    "title": "Dr. Kamau Wairuri",
+    "section": "🗞️ Public Thought Leadership",
+    "text": "🗞️ Public Thought Leadership\nKamau is a regular contributor to public debates on governance and social justice. His articles have appeared in:\n\nDaily Nation, The Standard (as a former columnist), and The East African\nAfrican Arguments and The Elephant\n\nHe is the host of The Kenyanist, a podcast exploring the political and social issues affecting Kenyans today."
+  },
+  {
+    "objectID": "profiles/kamau-wairuri.html#in-his-words",
+    "href": "profiles/kamau-wairuri.html#in-his-words",
+    "title": "Dr. Kamau Wairuri",
+    "section": "💬 In His Words",
+    "text": "💬 In His Words\n\n“Scholarship should serve society – through truth, clarity, and the courage to challenge injustice.”"
+  },
+  {
+    "objectID": "profiles/kamau-wairuri.html#connect-with-dr.-kamau-wairuri",
+    "href": "profiles/kamau-wairuri.html#connect-with-dr.-kamau-wairuri",
+    "title": "Dr. Kamau Wairuri",
+    "section": "🌐 Connect with Dr. Kamau Wairuri",
+    "text": "🌐 Connect with Dr. Kamau Wairuri\n\nPodcast: The Kenyanist\nLinkedIn: Kamau Wairuri"
   },
   {
     "objectID": "profiles/linus-chirchir.html",
