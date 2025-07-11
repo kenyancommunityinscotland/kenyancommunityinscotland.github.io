@@ -1,33 +1,25 @@
 [
   {
-    "listing": "/profiles/index.html",
+    "listing": "/gallery/index.html",
     "items": [
-      "/profiles/kamau-wairuri.html",
-      "/profiles/louis-kimanzi.html",
-      "/profiles/linus-chirchir.html"
-    ]
-  },
-  {
-    "listing": "/resources/index.html",
-    "items": [
-      "/resources/banking-guide-for-kenyans-in-scotland.html",
-      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html"
+      "/gallery/summer-graduates-2025.html",
+      "/gallery/networking-mixer-gallery-january-2024.html"
     ]
   },
   {
     "listing": "/events/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
-      "/events/pentland-hills-hike.html",
-      "/events/glas-tulaichean-hike.html"
+      "/events/glas-tulaichean-hike.html",
+      "/events/pentland-hills-hike.html"
     ]
   },
   {
-    "listing": "/gallery/index.html",
+    "listing": "/profiles/index.html",
     "items": [
-      "/gallery/gallery1.html",
-      "/gallery/community-event-highlights.html"
+      "/profiles/kamau-wairuri.html",
+      "/profiles/louis-kimanzi.html",
+      "/profiles/linus-chirchir.html"
     ]
   },
   {
@@ -39,11 +31,19 @@
     ]
   },
   {
+    "listing": "/resources/index.html",
+    "items": [
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
-      "/events/pentland-hills-hike.html",
       "/events/glas-tulaichean-hike.html",
+      "/events/pentland-hills-hike.html",
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html",
@@ -53,8 +53,8 @@
       "/resources/banking-guide-for-kenyans-in-scotland.html",
       "/resources/healthcare-guide-for-kenyans-in-scotland.html",
       "/resources/immigration-guide-for-newcomers.html",
-      "/gallery/gallery1.html",
-      "/gallery/community-event-highlights.html"
+      "/gallery/summer-graduates-2025.html",
+      "/gallery/networking-mixer-gallery-january-2024.html"
     ]
   }
 ]

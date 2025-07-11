@@ -11,7 +11,7 @@
 <description>Discover and participate in events organised by the Kenyan Community in Scotland.
 </description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 04 Jul 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Jul 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Ben Nevis Hike: Saturday, 19th July 2025</title>
   <dc:creator>Linus Chirchir</dc:creator>
@@ -85,8 +85,71 @@
   <category>Outdoor</category>
   <category>Hiking</category>
   <guid>http://kenyancommunityinscotland.uk/events/ben-nevis-hike.html</guid>
-  <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+  <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
   <media:content url="http://kenyancommunityinscotland.uk/events/images/ben-nevis.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Glas Tulaichean &amp; Càrn Hike: Saturday, 21 June 2025</title>
+  <dc:creator>Linus Chirchir</dc:creator>
+  <link>http://kenyancommunityinscotland.uk/events/glas-tulaichean-hike.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="glas-tulaichean-càrn-an-rìgh-hiking-trip-from-spittal-of-glenshee" class="level2">
+<h2 class="anchored" data-anchor-id="glas-tulaichean-càrn-an-rìgh-hiking-trip-from-spittal-of-glenshee">Glas Tulaichean &amp; Càrn an Rìgh Hiking Trip from Spittal of Glenshee</h2>
+<p>Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, Glas Tulaichean (1,051 m / 3,448 ft) and Càrn an Rìgh (1,029 m / 3,376 ft) both in the heart of the scenic Glenshee Highlands.</p>
+</section>
+<section id="date" class="level2">
+<h2 class="anchored" data-anchor-id="date">🗓️ Date</h2>
+<p><strong>Saturday, 21st June 2025</strong></p>
+</section>
+<section id="location" class="level2">
+<h2 class="anchored" data-anchor-id="location">📍 Location</h2>
+<p><strong>Meeting Point:</strong> Usher Hall, Edinburgh<br>
+<strong>Time:</strong> Departure at 9:30 AM sharp</p>
+</section>
+<section id="hike-overview" class="level2">
+<h2 class="anchored" data-anchor-id="hike-overview">🥾 Hike Overview</h2>
+<ul>
+<li><strong>Distance:</strong> ~19 km (loop)</li>
+<li><strong>Elevation Gain:</strong> ~1,100 meters</li>
+<li><strong>Difficulty:</strong> Moderate to Strenuous</li>
+<li><strong>Duration:</strong> 6–7 hours (including breaks)</li>
+</ul>
+</section>
+<section id="what-to-bring" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-bring">🎒 What to Bring</h2>
+<ul>
+<li>Good hiking boots</li>
+<li>Waterproof layers</li>
+<li>Packed lunch and water</li>
+<li>Sun protection</li>
+<li>A positive spirit!</li>
+</ul>
+</section>
+<section id="travel" class="level2">
+<h2 class="anchored" data-anchor-id="travel">🚗 Travel</h2>
+<p>Carpooling options may be available. Please indicate in the sign-up form if you can offer or need a lift.</p>
+</section>
+<section id="register" class="level2">
+<h2 class="anchored" data-anchor-id="register">📝 Register</h2>
+<p>If you plan to attend, please <a href="mailto:info@kenyancommunityinscotland.uk">contact us</a> or <a href="../volunteer.html">fill out the Volunteer form</a> and mention the event in the message.</p>
+<hr>
+<p>We look forward to sharing the trail with you!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Community</category>
+  <category>Outdoor</category>
+  <category>Hiking</category>
+  <guid>http://kenyancommunityinscotland.uk/events/glas-tulaichean-hike.html</guid>
+  <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="http://kenyancommunityinscotland.uk/events/images/glas-tulaichean.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Pentland Hills Hike: Saturday, 4 July 2025</title>
@@ -174,69 +237,6 @@ Or feel free to <a href="mailto:info@kenyancommunityinscotland.uk">email us</a>.
   <guid>http://kenyancommunityinscotland.uk/events/pentland-hills-hike.html</guid>
   <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
   <media:content url="http://kenyancommunityinscotland.uk/events/images/pentlands-hills.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Glas Tulaichean &amp; Càrn Hike: Saturday, 21 June 2025</title>
-  <dc:creator>Linus Chirchir</dc:creator>
-  <link>http://kenyancommunityinscotland.uk/events/glas-tulaichean-hike.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="glas-tulaichean-càrn-an-rìgh-hiking-trip-from-spittal-of-glenshee" class="level2">
-<h2 class="anchored" data-anchor-id="glas-tulaichean-càrn-an-rìgh-hiking-trip-from-spittal-of-glenshee">Glas Tulaichean &amp; Càrn an Rìgh Hiking Trip from Spittal of Glenshee</h2>
-<p>Join us for a breathtaking summer hiking adventure as we summit two iconic Munros, Glas Tulaichean (1,051 m / 3,448 ft) and Càrn an Rìgh (1,029 m / 3,376 ft) both in the heart of the scenic Glenshee Highlands.</p>
-</section>
-<section id="date" class="level2">
-<h2 class="anchored" data-anchor-id="date">🗓️ Date</h2>
-<p><strong>Saturday, 21st June 2025</strong></p>
-</section>
-<section id="location" class="level2">
-<h2 class="anchored" data-anchor-id="location">📍 Location</h2>
-<p><strong>Meeting Point:</strong> Usher Hall, Edinburgh<br>
-<strong>Time:</strong> Departure at 9:30 AM sharp</p>
-</section>
-<section id="hike-overview" class="level2">
-<h2 class="anchored" data-anchor-id="hike-overview">🥾 Hike Overview</h2>
-<ul>
-<li><strong>Distance:</strong> ~19 km (loop)</li>
-<li><strong>Elevation Gain:</strong> ~1,100 meters</li>
-<li><strong>Difficulty:</strong> Moderate to Strenuous</li>
-<li><strong>Duration:</strong> 6–7 hours (including breaks)</li>
-</ul>
-</section>
-<section id="what-to-bring" class="level2">
-<h2 class="anchored" data-anchor-id="what-to-bring">🎒 What to Bring</h2>
-<ul>
-<li>Good hiking boots</li>
-<li>Waterproof layers</li>
-<li>Packed lunch and water</li>
-<li>Sun protection</li>
-<li>A positive spirit!</li>
-</ul>
-</section>
-<section id="travel" class="level2">
-<h2 class="anchored" data-anchor-id="travel">🚗 Travel</h2>
-<p>Carpooling options may be available. Please indicate in the sign-up form if you can offer or need a lift.</p>
-</section>
-<section id="register" class="level2">
-<h2 class="anchored" data-anchor-id="register">📝 Register</h2>
-<p>If you plan to attend, please <a href="mailto:info@kenyancommunityinscotland.uk">contact us</a> or <a href="../volunteer.html">fill out the Volunteer form</a> and mention the event in the message.</p>
-<hr>
-<p>We look forward to sharing the trail with you!</p>
-
-
-</section>
-
- ]]></description>
-  <category>Community</category>
-  <category>Outdoor</category>
-  <category>Hiking</category>
-  <guid>http://kenyancommunityinscotland.uk/events/glas-tulaichean-hike.html</guid>
-  <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
-  <media:content url="http://kenyancommunityinscotland.uk/events/images/glas-tulaichean.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
