@@ -1,5 +1,35 @@
 [
   {
+    "listing": "/stories/index.html",
+    "items": [
+      "/stories/glas-tulaichean-hike.html",
+      "/stories/world-indoor-champs-glasgow.html",
+      "/stories/networking-mixer.html"
+    ]
+  },
+  {
+    "listing": "/profiles/index.html",
+    "items": [
+      "/profiles/kamau-wairuri.html",
+      "/profiles/louis-kimanzi.html",
+      "/profiles/linus-chirchir.html"
+    ]
+  },
+  {
+    "listing": "/events/index.html",
+    "items": [
+      "/events/ben-nevis-hike.html",
+      "/events/glas-tulaichean-hike.html",
+      "/events/pentland-hills-hike.html"
+    ]
+  },
+  {
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/networking-mixer-gallery-january-2024.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
@@ -14,56 +44,16 @@
       "/resources/banking-guide-for-kenyans-in-scotland.html",
       "/resources/healthcare-guide-for-kenyans-in-scotland.html",
       "/resources/immigration-guide-for-newcomers.html",
-      "/gallery/gallery1.html",
-      "/gallery/community-event-highlights.html"
-    ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/glas-tulaichean-hike.html",
-      "/blog/world-indoor-champs-glasgow.html",
-      "/blog/networking-mixer.html"
-    ]
-  },
-  {
-    "listing": "/events/index.html",
-    "items": [
-      "/events/ben-nevis-hike.html",
-      "/events/glas-tulaichean-hike.html",
-      "/events/pentland-hills-hike.html"
-    ]
-  },
-  {
-    "listing": "/news/index.html",
-    "items": []
-  },
-  {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/gallery1.html",
-      "/gallery/community-event-highlights.html"
+      "/gallery/summer-graduates-2025.html",
+      "/gallery/networking-mixer-gallery-january-2024.html"
     ]
   },
   {
     "listing": "/resources/index.html",
     "items": [
-      "/resources/resource1.html",
-      "/resources/guide-to-kenyan-passport-renewal-in-the-uk.html"
-    ]
-  },
-  {
-    "listing": "/stories/index.html",
-    "items": [
-      "/stories/glas-tulaichean-hike.html",
-      "/stories/world-indoor-champs-glasgow.html",
-      "/stories/networking-mixer.html"
-    ]
-  },
-  {
-    "listing": "/profiles/index.html",
-    "items": [
-      "/profiles/linus-chirchir.html"
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html"
     ]
   }
 ]

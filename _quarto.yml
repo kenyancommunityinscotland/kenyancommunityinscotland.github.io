@@ -166,6 +166,9 @@ format:
     css: assets/styles.css
     code-link: true
     link-external-newwindow: true
+    includes:
+      in-header: _includes/glightbox-head.html
+      after-body: _includes/glightbox-init.html
 
 execute:
   freeze: true

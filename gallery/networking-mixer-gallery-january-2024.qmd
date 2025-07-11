@@ -1,0 +1,32 @@
+---
+title: "**Networking Mixer Gallery: January 2024**"
+date: 2024-01-15
+categories: [Gallery]
+format:
+  html:
+    page-layout: full
+filters:
+  - lightbox
+lightbox: auto
+---
+
+
+A heartfelt thank you to everyone who attended our **Networking Mixer** held on **14 January 2024** at *The Foot of The Walk – JD Wetherspoon* in Edinburgh.
+
+The afternoon was filled with connection, laughter, and inspiration. Below are some memorable snapshots that capture the spirit of our community gathering.
+
+---
+
+::: {layout-ncol=3}
+
+![](/gallery/images/networking-mixer-1.jpg){group="mixer" description="Attendees enjoying the afternoon together."}
+
+![](/gallery/images/networking-mixer-2.jpg){group="mixer" description="Warm conversations and shared laughter."}
+
+![](/gallery/images/networking-mixer-3.jpg){group="mixer" description="New friendships and fond memories."}
+
+:::
+
+---
+
+*#KenyanCommunityInScotland #KenyanScots #KenyansInUK #KenyansInDiaspora*
