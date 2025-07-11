@@ -2,8 +2,8 @@
 title: "**Summiting Glas Tulaichean & Càrn an Rìgh: A Memorable Day in Glenshee**"
 author: "Linus Chirchir"
 date: 2025-06-22
-image: /blog/images/glas-tulaichean-summit.jpg
-image-alt: "Group of hikers at the summit of Glas Tulaichean"
+image: /stories/images/glas-tulaichean-summit.jpg
+image-alt: "Linus Chirchir at the summit of Glas Tulaichean"
 categories: [Community, Outdoor, Hiking, Events]
 format:
   html:

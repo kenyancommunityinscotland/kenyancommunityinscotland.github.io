@@ -16,17 +16,18 @@
     ]
   },
   {
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/summer-graduates-2025.html",
+      "/gallery/networking-mixer-gallery-january-2024.html"
+    ]
+  },
+  {
     "listing": "/events/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
       "/events/glas-tulaichean-hike.html",
       "/events/pentland-hills-hike.html"
-    ]
-  },
-  {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/networking-mixer-gallery-january-2024.html"
     ]
   },
   {
