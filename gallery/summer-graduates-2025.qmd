@@ -10,7 +10,7 @@ format:
     page-layout: full
 ---
 
-We are thrilled to celebrate the achievements of Kenyan graduates across Scotland! 🎉 This gallery honours our Summer 2025 graduates, beginning with those from **Edinburgh Napier University**.
+We are thrilled to celebrate the achievements of Kenyan graduates across Scotland! 🎉 This gallery honours our Summer 2025 graduates, beginning with those from **Edinburgh Napier University** and the **University of Edinburgh**.
 
 ---
 
@@ -39,6 +39,32 @@ We are thrilled to celebrate the achievements of Kenyan graduates across Scotlan
 
 ---
 
-More universities and graduates will be added soon. If you would like to be featured, please [get in touch](/contact.qmd)!
+## 🎓 The University of Edinburgh
+
+### 👩🏾‍🎓 Jackie Maingi
+
+::: {layout-ncol=2}
+
+![Jackie smiling confidently against a purple backdrop](/gallery/images/jackie-maingi-1.jpeg){group="jackie" description="Jackie shines in her graduation gown, radiating joy against a vibrant purple background."}
+
+![Jackie by a decorative lamp post at McEwan Hall](/gallery/images/jackie-maingi-2.jpeg){group="jackie" description="Posing gracefully by an ornate lamp post, Jackie celebrates her milestone in style."}
+
+![Jackie smiling brightly while turning toward the camera](/gallery/images/jackie-maingi-3.jpeg){group="jackie" description="A beaming Jackie glances back with pride outside McEwan Hall."}
+
+![Jackie standing in front of a majestic wooden door](/gallery/images/jackie-maingi-4.jpeg){group="jackie" description="Jackie stands tall before the grand doors, ready for the next chapter."}
+
+![Jackie leaning with flair on one side of the wooden door](/gallery/images/jackie-maingi-5.jpeg){group="jackie" description="Stylish and confident, Jackie strikes a celebratory pose."}
+
+![Jackie on the steps in front of McEwan Hall with graduates in the background](/gallery/images/jackie-maingi-6.jpeg){group="jackie" description="Amid the buzz of graduation, Jackie takes center stage."}
+
+![Jackie holding graduation certificate and scroll in front of UoE banner](/gallery/images/jackie-maingi-7.jpeg){group="jackie" description="Victory pose! Jackie celebrates in front of The University of Edinburgh Class of 2025 banner."}
+
+![Jackie walking with joy down the steps of McEwan Hall](/gallery/images/jackie-maingi-8.jpeg){group="jackie" description="With a joyful step, Jackie completes her walk as a graduate of the Class of 2025."}
+
+:::
+
+---
+
+More universities and graduates will be added soon. If you would like to be featured, please [get in touch](/contact.qmd)
 
 *#KenyanCommunityInScotland #KenyanScots #KenyansInUK #KenyansInDiaspora #Graduation2025*
