@@ -3,7 +3,7 @@ title: "**Dr. Kamau Wairuri**"
 subtitle: "Political Scientist, Criminology Lecturer & Thought Leader"
 date: 2025-05-29
 author: "Linus Chirchir"
-image: /profiles/images/kamau-wairuri.jpg
+image: /profiles/images/kamau-wairuri-preview.jpg
 image-alt: "Dr. Kamau Wairuri speaking at an academic event"
 categories: [Profiles, Community]
 format:

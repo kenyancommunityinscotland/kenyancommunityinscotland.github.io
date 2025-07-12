@@ -3,7 +3,7 @@ title: "**Linus Chirchir**"
 subtitle: "Data Scientist and Community Connector"
 date: 2025-05-01
 author: "Linus Chirchir"
-image: /profiles/images/linus-chirchir.jpg
+image: /profiles/images/linus-chirchir-preview.jpg
 image-alt: "Linus Chirchir in Edinburgh"
 categories: [Profiles, Community]
 format:

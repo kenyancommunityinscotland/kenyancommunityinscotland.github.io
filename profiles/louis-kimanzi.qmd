@@ -3,7 +3,7 @@ title: "**Louis Kimanzi**"
 subtitle: "Sport Scientist, Community Advocate & Product Owner"
 date: 2025-05-15
 author: "Linus Chirchir"
-image: /profiles/images/louis-kimanzi.jpeg
+image: /profiles/images/louis-kimanzi-preview.jpeg
 image-alt: "Louis Kimanzi at a sporting event"
 categories: [Profiles, Community]
 format:
