@@ -10,7 +10,7 @@ format:
     page-layout: full
 ---
 
-We are thrilled to celebrate the achievements of Kenyan graduates across Scotland! 🎉 This gallery honours our Summer 2025 graduates, beginning with those from **Edinburgh Napier University** and the **University of Edinburgh**.
+We are thrilled to celebrate the achievements of Kenyan graduates across Scotland! 🎉 This gallery honours our Summer 2025 graduates, beginning with those from **Edinburgh Napier University** and **The University of Edinburgh**.
 
 ---
 
@@ -42,6 +42,7 @@ We are thrilled to celebrate the achievements of Kenyan graduates across Scotlan
 ## 🎓 The University of Edinburgh
 
 ### 👩🏾‍🎓 Jackie Maingi
+*Master of Science in International Development*
 
 ::: {layout-ncol=2}
 
