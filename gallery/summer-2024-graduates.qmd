@@ -1,0 +1,36 @@
+---
+title: "Summer 2024 Graduates in Scotland"
+date: 2024-07-12
+categories: [Gallery]
+format:
+  html:
+    lightbox: auto
+    page-layout: full
+---
+
+We are thrilled to celebrate the achievements of Kenyan graduates across Scotland. This gallery honours our Summer 2024 graduates, beginning with **The University of Edinburgh**.
+
+---
+
+## 🎓 The University of Edinburgh
+
+### 👩🏾‍🎓 Bridgit Muasa
+*Doctor of Philosophy*
+
+::: {layout-ncol=2}
+
+![Close-up of Bridgit holding her scroll, smiling confidently](/gallery/images/bridgit-muasa-1.jpg){group="bridgit" description="**Bridgit’s joy captured in a proud close-up shot.**"}
+
+![Bridgit standing outside wooden graduation doors, smiling at her phone](/gallery/images/bridgit-muasa-2.jpg){group="bridgit" description="**Capturing the moment — Bridgit at the university steps after the ceremony.**"}
+
+![Bridgit posing in front of festival-themed graduation setup](/gallery/images/bridgit-muasa-3.jpg){group="bridgit" description="**A celebratory moment: Bridgit with a bright smile in her graduation gown.**"}
+
+![Bridgit smiling with her scroll outside the university](/gallery/images/bridgit-muasa-4.jpg){group="bridgit" description="**Bridgit beaming with pride next to the 'Congratulations Class of 2024' banner.**"}
+
+:::
+
+---
+
+More graduates and universities will be added soon. If you would like to be featured, please [get in touch](/contact.qmd).
+
+*#KenyanCommunityInScotland #KenyanScots #KenyansInUK #KenyansInDiaspora #Graduation2024*
