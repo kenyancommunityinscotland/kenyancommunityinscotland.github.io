@@ -1,5 +1,5 @@
 ---
-title: "Summer 2024 Graduates in Scotland"
+title: "**Summer 2024 Graduates in Scotland**"
 date: 2024-07-12
 categories: [Gallery]
 format:

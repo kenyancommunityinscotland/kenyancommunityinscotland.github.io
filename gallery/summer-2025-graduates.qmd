@@ -1,7 +1,7 @@
 ---
 title: "**Summer 2025 Graduates in Scotland**"
 date: 2025-07-11
-image: /gallery/images/preview.png
+image: /gallery/images/enu-preview.png
 image-alt: "Summer 2025 Graduates in Scotland"
 categories: [Gallery]
 format:
