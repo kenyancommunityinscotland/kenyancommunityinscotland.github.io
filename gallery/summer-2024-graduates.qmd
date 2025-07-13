@@ -14,7 +14,7 @@ We are thrilled to celebrate the achievements of Kenyan graduates across Scotlan
 
 ## 🎓 The University of Edinburgh
 
-### 👩🏾‍🎓 Bridgit Muasa
+### 👩🏾‍🎓 Bridgit Muasa  
 *Doctor of Philosophy in Developmental Biology*
 
 ::: {layout-ncol=2}
@@ -26,6 +26,21 @@ We are thrilled to celebrate the achievements of Kenyan graduates across Scotlan
 ![Bridgit posing in front of festival-themed graduation setup](/gallery/images/bridgit-muasa-3.jpg){group="bridgit" description="**A celebratory moment: Bridgit with a bright smile in her graduation gown.**"}
 
 ![Bridgit smiling with her scroll outside the university](/gallery/images/bridgit-muasa-4.jpg){group="bridgit" description="**Bridgit beaming with pride next to the 'Congratulations Class of 2024' banner.**"}
+
+:::
+
+---
+
+### 👩🏾‍🎓 Hellen Mbaya  
+*Doctor of Philosophy in Agriculture and Food Security*
+
+![Hellen proudly standing in front of the red University of Edinburgh backdrop](/gallery/images/hellen-mbaya-1.jpeg){group="hellen" description="**Hellen Mbaya radiates confidence and achievement outside the University of Edinburgh.**"}
+
+::: {layout-ncol=2}
+
+![Hellen checking her phone joyfully at the wooden graduation doors](/gallery/images/hellen-mbaya-2.jpeg){group="hellen" description="**A joyful glance — Hellen checks messages of congratulations after her graduation.**"}
+
+![Hellen smiling next to the 'Class of 2024' banner, scroll in hand](/gallery/images/hellen-mbaya-3.jpeg){group="hellen" description="**Hellen proudly displaying her graduation scroll with a radiant smile.**"}
 
 :::
 
