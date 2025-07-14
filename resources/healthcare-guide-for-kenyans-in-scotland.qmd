@@ -23,6 +23,7 @@ Healthcare in Scotland is **free at the point of use** through the **NHS (Nation
 - Services are based on clinical need — not your immigration status, as long as you're eligible.
 
 🔗 [Learn about NHS Scotland](https://www.nhsinform.scot/care-support-and-rights/health-rights/access/healthcare-for-overseas-visitors)
+🔗 [Explore NHS services and support](https://www.nhsinform.scot/care-support-and-rights/nhs-services/)
 
 ---
 
@@ -78,7 +79,7 @@ Other urgent services:
 - Opticians can refer you to hospital eye specialists if needed.
 
 🔗 [Find a dentist](https://www.nhsinform.scot/scotlands-service-directory/dental-services)  
-🔗 [Find an optician](https://www.nhsinform.scot/scotlands-service-directory/optician-services)
+🔗 [Find an optician](https://www.nhsinform.scot/scotlands-service-directory/opticians)
 
 ---
 
@@ -92,6 +93,7 @@ Mental health is taken seriously in Scotland. Services include:
 - Community mental health services
 
 Helpful links:
+
 - 🔗 [Breathing Space Scotland](https://breathingspace.scot/)  
 - 🔗 [Samaritans](https://www.samaritans.org/) – call **116 123** any time, free  
 - 🔗 [NHS Mental Health](https://www.nhsinform.scot/mental-wellbeing)
