@@ -1,30 +1,11 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/profiles/index.html",
     "items": [
-      "/events/ben-nevis-hike.html",
-      "/events/glas-tulaichean-hike.html",
-      "/events/pentland-hills-hike.html",
-      "/stories/glas-tulaichean-hike.html",
-      "/stories/world-indoor-champs-glasgow.html",
-      "/stories/networking-mixer.html",
       "/profiles/kamau-wairuri.html",
+      "/profiles/josphat-kinyumu.html",
       "/profiles/louis-kimanzi.html",
-      "/profiles/linus-chirchir.html",
-      "/resources/banking-guide-for-kenyans-in-scotland.html",
-      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html",
-      "/gallery/summer-2025-graduates.html",
-      "/gallery/summer-2024-graduates.html",
-      "/gallery/networking-mixer-gallery-january-2024.html"
-    ]
-  },
-  {
-    "listing": "/resources/index.html",
-    "items": [
-      "/resources/banking-guide-for-kenyans-in-scotland.html",
-      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html"
+      "/profiles/linus-chirchir.html"
     ]
   },
   {
@@ -36,11 +17,32 @@
     ]
   },
   {
-    "listing": "/profiles/index.html",
+    "listing": "/resources/index.html",
     "items": [
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/events/ben-nevis-hike.html",
+      "/events/glas-tulaichean-hike.html",
+      "/events/pentland-hills-hike.html",
+      "/stories/glas-tulaichean-hike.html",
+      "/stories/world-indoor-champs-glasgow.html",
+      "/stories/networking-mixer.html",
       "/profiles/kamau-wairuri.html",
+      "/profiles/josphat-kinyumu.html",
       "/profiles/louis-kimanzi.html",
-      "/profiles/linus-chirchir.html"
+      "/profiles/linus-chirchir.html",
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html",
+      "/gallery/summer-2025-graduates.html",
+      "/gallery/summer-2024-graduates.html",
+      "/gallery/networking-mixer-gallery-january-2024.html"
     ]
   },
   {
