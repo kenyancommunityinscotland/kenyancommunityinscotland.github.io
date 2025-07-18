@@ -1,0 +1,56 @@
+---
+title: "**Josphat Kinyumu**"
+subtitle: "Tech Risk & IT Audit Professional"
+date: 2025-05-29
+author: "Linus Chirchir"
+image: /profiles/images/josphat-kinyumu.jpeg
+image-alt: "Josphat Kinyumu in Edinburgh"
+categories: [Profiles, Community]
+format:
+  html:
+    page-layout: full
+---
+
+![](/profiles/images/josphat-kinyumu.jpeg)
+
+Josphat Kinyumu is a skilled professional with many years of experience in technology risk and IT audits. He has worked with well-known companies in the UK and East Africa, helping businesses in industries like banking, energy, insurance, manufacturing, and telecom stay secure and meet regulations.
+
+---
+
+## 💼 Professional Journey
+
+Josphat currently works at **Aberdeen** as an **IT Internal Audit Manager**, where he looks after technology risks, IT controls, and how well systems are managed within one of the UK’s top financial firms.
+
+His career started at **PwC East Africa**, where he joined as a graduate trainee and later led tech audits for some of Kenya’s biggest banks and insurance firms helping them meet regulatory standards.
+
+He later moved to the UK to work at **KPMG**, spending several years as a **Manager in External Audit**, leading IT audit work for major clients. After that, he joined **Forvis Mazars**, where he headed a team of IT audit specialists focused on banking clients.
+
+---
+
+## 🌍 Thought Leadership & Contributions
+
+Across roles, Josphat has been a trusted voice on aligning IT systems with financial reporting and compliance objectives. He has contributed to tech-enabled audit transformation, supported diversity initiatives, and mentored emerging professionals with a focus on clarity, growth, and inclusiveness. His interest in bridging technology and governance continues to fuel meaningful dialogue and collaborative learning, especially within multicultural and cross-functional teams.
+
+---
+
+## 🎓 Education & Qualifications
+
+Josphat’s education gives him a strong mix of tech know-how and business understanding:
+
+- Certified Information Systems Auditor (CISA)  
+- Certified Public Accountant (CPA)  
+- BSc in Computer Science, First Class Honours, University of Nairobi  
+
+---
+
+## 💬 In His Words
+
+> *“Audit isn’t just about spotting problems. It’s about building trust, improving systems, and helping others feel confident. I love learning, and every project gives me a chance to help connect technology with smart decision-making.”*
+
+---
+
+## 🌐 Connect with Josphat
+
+- LinkedIn: [Josphat Kyalo Kinyumu](https://www.linkedin.com/in/josphat-kyalo-kinyumu-100b6b79/)
+
+---
