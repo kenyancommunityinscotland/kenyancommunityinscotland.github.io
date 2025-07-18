@@ -165,7 +165,7 @@ format:
         - assets/dark.scss
     css: assets/styles.css
     code-link: true
-    link-external-newwindow: true
+    link-external-newwindow: false
     includes:
       in-header: _includes/glightbox-head.html
       after-body: _includes/glightbox-init.html
