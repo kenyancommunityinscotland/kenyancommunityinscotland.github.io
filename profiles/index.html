@@ -447,7 +447,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UHJvZmlsZXMlMkNDb21tdW5pdHk=" data-listing-date-sort="1749686400000" data-listing-file-modified-sort="1752862051044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="305">
+<div class="quarto-post image-right" data-index="0" data-categories="UHJvZmlsZXMlMkNDb21tdW5pdHk=" data-listing-date-sort="1749686400000" data-listing-file-modified-sort="1752862504816" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="305">
 <div class="thumbnail"><a href="../profiles/josphat-kinyumu.html" class="no-external">
 
 <img loading="lazy" src="../profiles/images/josphat-kinyumu.jpeg" class="thumbnail-image" alt="Josphat Kinyumu in Edinburgh">
@@ -480,7 +480,7 @@ Linus Chirchir
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="UHJvZmlsZXMlMkNDb21tdW5pdHk=" data-listing-date-sort="1748476800000" data-listing-file-modified-sort="1752862051044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="376">
+<div class="quarto-post image-right" data-index="1" data-categories="UHJvZmlsZXMlMkNDb21tdW5pdHk=" data-listing-date-sort="1748476800000" data-listing-file-modified-sort="1752862504816" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="376">
 <div class="thumbnail"><a href="../profiles/kamau-wairuri.html" class="no-external">
 
 <img loading="lazy" src="../profiles/images/kamau-wairuri-preview.jpg" class="thumbnail-image" alt="Dr. Kamau Wairuri speaking at an academic event">
@@ -513,7 +513,7 @@ Linus Chirchir
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="UHJvZmlsZXMlMkNDb21tdW5pdHk=" data-listing-date-sort="1747267200000" data-listing-file-modified-sort="1752862051044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<div class="quarto-post image-right" data-index="2" data-categories="UHJvZmlsZXMlMkNDb21tdW5pdHk=" data-listing-date-sort="1747267200000" data-listing-file-modified-sort="1752862504816" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
 <div class="thumbnail"><a href="../profiles/louis-kimanzi.html" class="no-external">
 
 <img loading="lazy" src="../profiles/images/louis-kimanzi-preview.jpeg" class="thumbnail-image" alt="Louis Kimanzi at a sporting event">
@@ -546,7 +546,7 @@ Linus Chirchir
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="UHJvZmlsZXMlMkNDb21tdW5pdHk=" data-listing-date-sort="1746057600000" data-listing-file-modified-sort="1752862051044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="429">
+<div class="quarto-post image-right" data-index="3" data-categories="UHJvZmlsZXMlMkNDb21tdW5pdHk=" data-listing-date-sort="1746057600000" data-listing-file-modified-sort="1752862504816" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="429">
 <div class="thumbnail"><a href="../profiles/linus-chirchir.html" class="no-external">
 
 <img loading="lazy" src="../profiles/images/linus-chirchir-preview.jpg" class="thumbnail-image" alt="Linus Chirchir in Edinburgh">
@@ -681,6 +681,11 @@ Linus Chirchir
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
