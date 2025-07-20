@@ -9,12 +9,21 @@
     ]
   },
   {
+    "listing": "/resources/index.html",
+    "items": [
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/events/buachaille-etive-mor.html",
       "/events/ben-nevis-hike.html",
       "/events/pentland-hills-hike.html",
       "/events/glas-tulaichean-hike.html",
+      "/stories/ben-nevis-hike.html",
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html",
@@ -31,16 +40,9 @@
     ]
   },
   {
-    "listing": "/resources/index.html",
-    "items": [
-      "/resources/banking-guide-for-kenyans-in-scotland.html",
-      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html"
-    ]
-  },
-  {
     "listing": "/stories/index.html",
     "items": [
+      "/stories/ben-nevis-hike.html",
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html"
