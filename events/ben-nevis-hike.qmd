@@ -1,6 +1,6 @@
 ---
 title: "**Ben Nevis Hike:  Saturday, 19th July 2025**"
-date: today
+date: 2025-07-01
 author: "Linus Chirchir"
 image: /events/images/ben-nevis.jpg
 image-alt: "View of Ben Nevis summit on a clear day"
