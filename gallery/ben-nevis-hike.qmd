@@ -1,0 +1,102 @@
+---
+title: "**Ben Nevis Hike Gallery: July 2025**"
+date: 2025-07-20
+image: /gallery/images/ben-nevis-summit.jpg
+image-alt: "Kenyan hikers atop Ben Nevis"
+categories: [Gallery]
+format:
+  html:
+    lightbox: auto
+    page-layout: full
+---
+
+On **19 July 2025**, members of the Kenyan community in Scotland took on the exhilarating challenge of hiking **Ben Nevis**—the tallest mountain in the UK. From misty trails to panoramic summit views, it was a day filled with grit, laughter, and a shared love for the outdoors.
+
+---
+
+::: {layout-ncol=4}
+
+![Image 1](/gallery/images/ben-nevis (1).jpg){group="bennevis"}
+![Image 2](/gallery/images/ben-nevis (2).jpg){group="bennevis"}
+![Image 3](/gallery/images/ben-nevis (3).jpg){group="bennevis"}
+![Image 4](/gallery/images/ben-nevis (4).jpg){group="bennevis"}
+
+![Image 5](/gallery/images/ben-nevis (5).jpg){group="bennevis"}
+![Image 6](/gallery/images/ben-nevis (6).jpg){group="bennevis"}
+![Image 7](/gallery/images/ben-nevis (7).jpg){group="bennevis"}
+![Image 8](/gallery/images/ben-nevis (8).jpg){group="bennevis"}
+
+![Image 9](/gallery/images/ben-nevis (9).jpg){group="bennevis"}
+![Image 10](/gallery/images/ben-nevis (10).jpg){group="bennevis"}
+![Image 11](/gallery/images/ben-nevis (11).jpg){group="bennevis"}
+![Image 12](/gallery/images/ben-nevis (12).jpg){group="bennevis"}
+
+![Image 13](/gallery/images/ben-nevis (13).jpg){group="bennevis"}
+![Image 14](/gallery/images/ben-nevis (14).jpg){group="bennevis"}
+![Image 15](/gallery/images/ben-nevis (15).jpg){group="bennevis"}
+![Image 16](/gallery/images/ben-nevis (16).jpg){group="bennevis"}
+
+![Image 17](/gallery/images/ben-nevis (17).jpg){group="bennevis"}
+![Image 18](/gallery/images/ben-nevis (18).jpg){group="bennevis"}
+![Image 19](/gallery/images/ben-nevis (19).jpg){group="bennevis"}
+![Image 20](/gallery/images/ben-nevis (20).jpg){group="bennevis"}
+
+![Image 21](/gallery/images/ben-nevis (21).jpg){group="bennevis"}
+![Image 22](/gallery/images/ben-nevis (22).jpg){group="bennevis"}
+![Image 23](/gallery/images/ben-nevis (23).jpg){group="bennevis"}
+![Image 24](/gallery/images/ben-nevis (24).jpg){group="bennevis"}
+
+![Image 25](/gallery/images/ben-nevis (25).jpg){group="bennevis"}
+![Image 26](/gallery/images/ben-nevis (26).jpg){group="bennevis"}
+![Image 27](/gallery/images/ben-nevis (27).jpg){group="bennevis"}
+![Image 28](/gallery/images/ben-nevis (28).jpg){group="bennevis"}
+
+![Image 29](/gallery/images/ben-nevis (29).jpg){group="bennevis"}
+![Image 30](/gallery/images/ben-nevis (30).jpg){group="bennevis"}
+![Image 31](/gallery/images/ben-nevis (31).jpg){group="bennevis"}
+![Image 32](/gallery/images/ben-nevis (32).jpg){group="bennevis"}
+
+![Image 33](/gallery/images/ben-nevis (33).jpg){group="bennevis"}
+![Image 34](/gallery/images/ben-nevis (34).jpg){group="bennevis"}
+![Image 35](/gallery/images/ben-nevis (35).jpg){group="bennevis"}
+![Image 36](/gallery/images/ben-nevis (36).jpg){group="bennevis"}
+
+![Image 37](/gallery/images/ben-nevis (37).jpg){group="bennevis"}
+![Image 38](/gallery/images/ben-nevis (38).jpg){group="bennevis"}
+![Image 39](/gallery/images/ben-nevis (39).jpg){group="bennevis"}
+![Image 40](/gallery/images/ben-nevis (40).jpg){group="bennevis"}
+
+![Image 41](/gallery/images/ben-nevis (41).jpg){group="bennevis"}
+![Image 42](/gallery/images/ben-nevis (42).jpg){group="bennevis"}
+![Image 43](/gallery/images/ben-nevis (43).jpg){group="bennevis"}
+![Image 44](/gallery/images/ben-nevis (44).jpg){group="bennevis"}
+
+![Image 45](/gallery/images/ben-nevis (45).jpg){group="bennevis"}
+![Image 46](/gallery/images/ben-nevis (46).jpg){group="bennevis"}
+![Image 47](/gallery/images/ben-nevis (47).jpg){group="bennevis"}
+![Image 48](/gallery/images/ben-nevis (48).jpg){group="bennevis"}
+
+![Image 49](/gallery/images/ben-nevis (49).jpg){group="bennevis"}
+![Image 50](/gallery/images/ben-nevis (50).jpg){group="bennevis"}
+![Image 51](/gallery/images/ben-nevis (51).jpg){group="bennevis"}
+![Image 52](/gallery/images/ben-nevis (52).jpg){group="bennevis"}
+
+![Image 53](/gallery/images/ben-nevis (53).jpg){group="bennevis"}
+![Image 54](/gallery/images/ben-nevis (54).jpg){group="bennevis"}
+![Image 55](/gallery/images/ben-nevis (55).jpg){group="bennevis"}
+![Image 56](/gallery/images/ben-nevis (56).jpg){group="bennevis"}
+
+![Image 57](/gallery/images/ben-nevis (57).jpg){group="bennevis"}
+![Image 58](/gallery/images/ben-nevis (58).jpg){group="bennevis"}
+![Image 59](/gallery/images/ben-nevis (59).jpg){group="bennevis"}
+![Image 60](/gallery/images/ben-nevis (60).jpg){group="bennevis"}
+
+:::
+
+---
+
+From first step to final summit snapshot, this was more than just a hike—it was a celebration of resilience, unity, and the adventurous Kenyan spirit in Scotland. Want to join us for the next one? [Get in touch](/contact.qmd)!
+
+*#KenyanCommunityInScotland #KenyanScots #KenyansInUK #KenyansInDiaspora #KenyanExplorers #BenNevis2025*
+
+---
