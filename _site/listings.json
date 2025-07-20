@@ -2,10 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/events/ben-nevis-hike.html",
       "/events/buachaille-etive-mor.html",
+      "/events/ben-nevis-hike.html",
       "/events/pentland-hills-hike.html",
       "/events/glas-tulaichean-hike.html",
+      "/stories/ben-nevis-hike.html",
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html",
