@@ -1,35 +1,20 @@
 [
   {
-    "listing": "/profiles/index.html",
+    "listing": "/events/index.html",
     "items": [
-      "/profiles/josphat-kinyumu.html",
-      "/profiles/kamau-wairuri.html",
-      "/profiles/louis-kimanzi.html",
-      "/profiles/linus-chirchir.html"
-    ]
-  },
-  {
-    "listing": "/stories/index.html",
-    "items": [
-      "/stories/glas-tulaichean-hike.html",
-      "/stories/world-indoor-champs-glasgow.html",
-      "/stories/networking-mixer.html"
-    ]
-  },
-  {
-    "listing": "/resources/index.html",
-    "items": [
-      "/resources/banking-guide-for-kenyans-in-scotland.html",
-      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html"
+      "/events/ben-nevis-hike.html",
+      "/events/buachaille-etive-mor.html",
+      "/events/pentland-hills-hike.html",
+      "/events/glas-tulaichean-hike.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
       "/events/ben-nevis-hike.html",
-      "/events/glas-tulaichean-hike.html",
+      "/events/buachaille-etive-mor.html",
       "/events/pentland-hills-hike.html",
+      "/events/glas-tulaichean-hike.html",
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html",
@@ -46,11 +31,28 @@
     ]
   },
   {
-    "listing": "/events/index.html",
+    "listing": "/resources/index.html",
     "items": [
-      "/events/ben-nevis-hike.html",
-      "/events/glas-tulaichean-hike.html",
-      "/events/pentland-hills-hike.html"
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html"
+    ]
+  },
+  {
+    "listing": "/stories/index.html",
+    "items": [
+      "/stories/glas-tulaichean-hike.html",
+      "/stories/world-indoor-champs-glasgow.html",
+      "/stories/networking-mixer.html"
+    ]
+  },
+  {
+    "listing": "/profiles/index.html",
+    "items": [
+      "/profiles/josphat-kinyumu.html",
+      "/profiles/kamau-wairuri.html",
+      "/profiles/louis-kimanzi.html",
+      "/profiles/linus-chirchir.html"
     ]
   },
   {
