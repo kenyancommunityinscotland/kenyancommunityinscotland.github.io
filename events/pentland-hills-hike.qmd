@@ -1,6 +1,6 @@
 ---
 title: "**Pentland Hills Hike: Saturday, 4 July 2025**"
-date: 2025-06-01
+date: 2025-06-07
 author: "Linus Chirchir"
 image: /events/images/pentlands-hills.jpg
 image-alt: "Pentland Hills view near Flotterstone"
