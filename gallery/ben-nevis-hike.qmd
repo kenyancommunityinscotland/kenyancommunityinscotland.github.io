@@ -6,98 +6,143 @@ image-alt: "Kenyan hikers atop Ben Nevis"
 categories: [Gallery]
 format:
   html:
-    lightbox: true
+    lightbox: auto
     page-layout: full
 ---
 
-On **19 July 2025**, members of the Kenyan community in Scotland took on the exhilarating challenge of hiking **Ben Nevis**—the tallest mountain in the UK. From misty trails to panoramic summit views, it was a day filled with grit, laughter, and a shared love for the outdoors.
+On **19 July 2025**, members of the Kenyan community in Scotland took on the exhilarating challenge of hiking **Ben Nevis**, the tallest mountain in the UK. From misty trails to panoramic summit views, it was a day filled with grit, laughter, and a shared love for the outdoors.
 
 ---
 
-::: {layout-ncol=4}
+::: {layout-ncol=3}
 
-![](/gallery/images/ben-nevis-01.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-02.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-03.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-04.jpg){group="bennevis"}
+![View from inside a car heading through a forested road in the Highlands.](/gallery/images/ben-nevis-01.jpg){group="bennevis" description="Driving through lush green forests on the way to Fort William."}
 
-![](/gallery/images/ben-nevis-05.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-06.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-07.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-08.jpg){group="bennevis"}
+![Mountain road curving toward Buachaille Etive Mòr in Glen Coe.](/gallery/images/ben-nevis-02.jpg){group="bennevis" description="Scenic approach to Glen Coe with Buachaille Etive Mòr ahead."}
 
-![](/gallery/images/ben-nevis-09.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-10.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-11.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-12.jpg){group="bennevis"}
+![Welcome board at Ben Nevis trailhead showing walking map and safety tips.](/gallery/images/ben-nevis-03.jpg){group="bennevis" description="Ben Nevis visitor board with route map and safety information."}
 
-![](/gallery/images/ben-nevis-13.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-14.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-15.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-16.jpg){group="bennevis"}
+![Pedestrian bridge with metal arches surrounded by greenery.](/gallery/images/ben-nevis-04.jpg){group="bennevis" description="Crossing the River Nevis footbridge at the hike’s start point."}
 
-![](/gallery/images/ben-nevis-17.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-18.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-19.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-20.jpg){group="bennevis"}
+![Three hikers climbing a rocky trail with rolling hills in the background.](/gallery/images/ben-nevis-05.jpg){group="bennevis" description="Early climb with hikers ascending through the rolling highlands."}
 
-![](/gallery/images/ben-nevis-21.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-22.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-23.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-24.jpg){group="bennevis"}
+![Group selfie of smiling hikers posing with peace signs on the trail.](/gallery/images/ben-nevis-06.jpg){group="bennevis" description="Smiles and peace signs—spirits high on the mountain trail!"}
 
-![](/gallery/images/ben-nevis-25.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-26.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-27.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-28.jpg){group="bennevis"}
+![Group of hikers looking out over the valley from the mountainside trail.](/gallery/images/ben-nevis-07.jpg){group="bennevis" description="Hikers pause to admire the lush valley views from the trail."}
 
-![](/gallery/images/ben-nevis-29.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-30.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-31.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-32.jpg){group="bennevis"}
+![Hiking group posing together with backpacks, smiling on a trail ledge.](/gallery/images/ben-nevis-08.jpg){group="bennevis" description="A cheerful group break mid-way, soaking in the mountain air."}
 
-![](/gallery/images/ben-nevis-33.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-34.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-35.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-36.jpg){group="bennevis"}
+![Expansive view of green hills, forest, and winding trails in Glen Nevis.](/gallery/images/ben-nevis-09.jpg){group="bennevis" description="A panoramic view of the Nevis valley and surrounding forests."}
 
-![](/gallery/images/ben-nevis-37.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-38.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-39.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-40.jpg){group="bennevis"}
+![Trail packed with hikers climbing up a rocky path surrounded by trees.](/gallery/images/ben-nevis-10.jpg){group="bennevis" description="Crowds of hikers tackling the rocky ascent trail toward the summit."}
 
-![](/gallery/images/ben-nevis-41.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-42.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-43.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-44.jpg){group="bennevis"}
+![Group of hikers gathered around a stream crossing the rocky trail.](/gallery/images/ben-nevis-11.jpg){group="bennevis" description="Resting near a bubbling stream midway up the mountain."}
 
-![](/gallery/images/ben-nevis-45.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-46.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-47.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-48.jpg){group="bennevis"}
+![Wide-angle shot of hikers ascending through rocky terrain.](/gallery/images/ben-nevis-12.jpg){group="bennevis" description="Climbers navigating uneven terrain as the mist rolls in."}
 
-![](/gallery/images/ben-nevis-49.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-50.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-51.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-52.jpg){group="bennevis"}
+![Two hikers smiling with dramatic cliffs behind them.](/gallery/images/ben-nevis-13.jpg){group="bennevis" description="Beaming faces with scenic views in the background."}
 
-![](/gallery/images/ben-nevis-53.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-54.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-55.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-56.jpg){group="bennevis"}
+![Hiking party posing on a grassy outcrop with elevation in view.](/gallery/images/ben-nevis-14.jpg){group="bennevis" description="Mid-hike group shot with lush green slopes below."}
 
-![](/gallery/images/ben-nevis-57.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-58.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-59.jpg){group="bennevis"}
-![](/gallery/images/ben-nevis-60.jpg){group="bennevis"}
+![Group standing beside a cairn, surrounded by rugged stones.](/gallery/images/ben-nevis-15.jpg){group="bennevis" description="Taking a breather beside a historic waymarker on the trail."}
+
+![Hiker looking out over mist-covered valleys below the peak.](/gallery/images/ben-nevis-16.jpg){group="bennevis" description="Quiet reflection as the clouds drift over the Highlands."}
+
+![Group descending slowly with trekking poles for balance.](/gallery/images/ben-nevis-17.jpg){group="bennevis" description="Making their way down as sunlight peeks through the fog."}
+
+![Hikers celebrating with arms raised at a rocky plateau.](/gallery/images/ben-nevis-18.jpg){group="bennevis" description="Victory pose near the summit with hands stretched skyward."}
+
+![Backpacks piled together during a group break on a rock shelf.](/gallery/images/ben-nevis-19.jpg){group="bennevis" description="Gear down and rest time before the final ascent."}
+
+![High-angle photo showing winding trail far below.](/gallery/images/ben-nevis-20.jpg){group="bennevis" description="Looking back at the path already conquered — elevation pride."}
+
+![Group pausing beside Lochan Meall an t-Suidhe (Halfway Lochan).](/gallery/images/ben-nevis-21.jpg){group="bennevis" description="Taking a scenic break beside the tranquil Halfway Lochan."}
+
+![Two hikers smiling with the lochan and peaks behind them.](/gallery/images/ben-nevis-22.jpg){group="bennevis" description="Beaming faces with dramatic Highland backdrops."}
+
+![View of the path curving uphill past the lochan.](/gallery/images/ben-nevis-23.jpg){group="bennevis" description="Winding trail climbing above the Halfway Lochan under clear skies."}
+
+![Hiker pointing toward distant hills across the lochan.](/gallery/images/ben-nevis-24.jpg){group="bennevis" description="Appreciating the view from one of the highest freshwater lochs in the UK."}
+
+![Group climbing a rocky segment of the Mountain Track.](/gallery/images/ben-nevis-25.jpg){group="bennevis" description="Focused climb as the terrain becomes more challenging."}
+
+![Wide shot of hikers crossing a ridge with the valley far below.](/gallery/images/ben-nevis-26.jpg){group="bennevis" description="Commanding views over Glen Nevis as hikers press on."}
+
+![Group spreading out on the winding trail above tree level.](/gallery/images/ben-nevis-27.jpg){group="bennevis" description="Above the treeline and into the rugged upper slopes."}
+
+![Rocky slope leading toward the summit plateau.](/gallery/images/ben-nevis-28.jpg){group="bennevis" description="Trekking through loose scree and jagged rock paths."}
+
+![Trail marker among boulders with mist rolling in.](/gallery/images/ben-nevis-29.jpg){group="bennevis" description="Following cairns through the final stretch toward the summit."}
+
+![Climbers helping each other over a steep rocky ledge.](/gallery/images/ben-nevis-30.jpg){group="bennevis" description="Teamwork in action — navigating one of the steeper segments safely."}
+
+![Final push toward the summit through thick mist.](/gallery/images/ben-nevis-31.jpg){group="bennevis" description="Approaching the top with visibility fading — determination in the air."}
+
+![Hiker posing at the edge of a misty cliff near the summit.](/gallery/images/ben-nevis-32.jpg){group="bennevis" description="Capturing a proud moment above the clouds."}
+
+![Group gathering at the Ben Nevis summit trig point.](/gallery/images/ben-nevis-33.jpg){group="bennevis" description="Reaching the highest point in the UK — pure joy and triumph."}
+
+![Waving flags and raised hands at the snowy summit.](/gallery/images/ben-nevis-34.jpg){group="bennevis" description="Kenyan pride flying high on Ben Nevis!"}
+
+![Hikers posing beside the summit shelter structure.](/gallery/images/ben-nevis-35.jpg){group="bennevis" description="Huddled around the stone shelter marking a successful ascent."}
+
+![Panoramic view of the summit cairn and cloudy skyline.](/gallery/images/ben-nevis-36.jpg){group="bennevis" description="Standing on the rooftop of Britain — cold, cloudy, and incredible."}
+
+![Group descending with clouds parting in the background.](/gallery/images/ben-nevis-37.jpg){group="bennevis" description="Beginning the journey back down through shifting weather."}
+
+![Rest stop overlooking Glen Nevis in clearer afternoon light.](/gallery/images/ben-nevis-38.jpg){group="bennevis" description="Well-earned pause with stunning views of the valley below."}
+
+![Trail weaving downward with hikers spaced out for safety.](/gallery/images/ben-nevis-39.jpg){group="bennevis" description="Descending in sequence across steep, rocky terrain."}
+
+![Looking back at the mountain trail carved into the slope.](/gallery/images/ben-nevis-40.jpg){group="bennevis" description="Appreciating the journey — the trail that led to the summit."}
+
+![Smiling hikers posing during descent with cloudy backdrop.](/gallery/images/ben-nevis-41.jpg){group="bennevis" description="A cheerful moment on the way down — tired but triumphant."}
+
+![Panoramic shot of Glen Nevis and winding paths below.](/gallery/images/ben-nevis-42.jpg){group="bennevis" description="Breathtaking views stretch across Glen Nevis from high above."}
+
+![Hikers taking a short rest beside a rocky ridge.](/gallery/images/ben-nevis-43.jpg){group="bennevis" description="Recharging with a quick break near the ridgeline."}
+
+![View of steep trail as hikers descend cautiously.](/gallery/images/ben-nevis-44.jpg){group="bennevis" description="Navigating the final steep segments of the rocky trail."}
+
+![Two hikers giving thumbs-up beside trail marker.](/gallery/images/ben-nevis-45.jpg){group="bennevis" description="Posing with pride beside a key trail waypoint."}
+
+![Sun breaking through clouds over green valleys below.](/gallery/images/ben-nevis-46.jpg){group="bennevis" description="Sunlight slices through the mist, lighting the Highland floor."}
+
+![Group selfie with wide smiles and a sweeping background.](/gallery/images/ben-nevis-47.jpg){group="bennevis" description="United in the joy of accomplishment — group selfie time!"}
+
+![Back view of hikers stepping down uneven stone path.](/gallery/images/ben-nevis-48.jpg){group="bennevis" description="Focused descent on rugged terrain, one careful step at a time."}
+
+![Group gathered near the river at the hike’s endpoint.](/gallery/images/ben-nevis-49.jpg){group="bennevis" description="Crossing the final footbridge — journey complete!"}
+
+![Final photo with hikers relaxing beside the River Nevis.](/gallery/images/ben-nevis-50.jpg){group="bennevis" description="Celebrating a full-circle hike with well-deserved rest and smiles."}
+
+![Relaxed group shot near the River Nevis after the descent.](/gallery/images/ben-nevis-51.jpg){group="bennevis" description="Smiles all around — the hike ends in high spirits."}
+
+![Peaceful moment by the riverside, shoes off and feet in the water.](/gallery/images/ben-nevis-52.jpg){group="bennevis" description="Cooling down in the refreshing waters of the River Nevis."}
+
+![Close-up of muddy hiking boots on a rock by the river.](/gallery/images/ben-nevis-53.jpg){group="bennevis" description="Proof of the trek — worn boots and satisfied feet."}
+
+![Group enjoying snacks and chatting on grassy riverside.](/gallery/images/ben-nevis-54.jpg){group="bennevis" description="Post-hike picnic vibes with laughter and stories."}
+
+![Two hikers fist-bumping in celebration by the car park.](/gallery/images/ben-nevis-55.jpg){group="bennevis" description="A final fist bump seals the day’s adventure."}
+
+![Group photo beside parked vehicles with hiking gear.](/gallery/images/ben-nevis-56.jpg){group="bennevis" description="Packed up and proud — mission accomplished."}
+
+![Final wide shot of Ben Nevis shrouded in distant clouds.](/gallery/images/ben-nevis-57.jpg){group="bennevis" description="Looking back at the mighty mountain — until next time!"}
+
+![Hands holding Kenyan and Scottish flags at the end of the hike.](/gallery/images/ben-nevis-58.jpg){group="bennevis" description="Flags raised with pride — a celebration of identity and adventure."}
+
+![Car window view of winding Highland road during drive back.](/gallery/images/ben-nevis-59.jpg){group="bennevis" description="Heading home through scenic Highland roads after a big day."}
+
+![Sunset falling over the hills in the rearview mirror.](/gallery/images/ben-nevis-60.jpg){group="bennevis" description="Golden light signals the end of an unforgettable journey."}
 
 :::
 
 ---
 
-From the first step to the final summit, this was more than just a hike—it was a celebration of resilience, unity, and the adventurous Kenyan spirit in Scotland.
+From the first step to the final summit, this was more than just a hike, it was a celebration of resilience, unity, and the adventurous Kenyan spirit in Scotland.
 
-Want to join the next one? [Get in touch](/contact.qmd)!
+Want to join the next one? [Get in touch](/contact.qmd)
 
 *#KenyanCommunityInScotland #KenyanScots #KenyansInUK #KenyansInDiaspora #KenyanExplorers #BenNevis2025*
 

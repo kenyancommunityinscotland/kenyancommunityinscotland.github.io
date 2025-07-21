@@ -10,6 +10,7 @@
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html",
+      "/profiles/simon-munga.html",
       "/profiles/josphat-kinyumu.html",
       "/profiles/kamau-wairuri.html",
       "/profiles/louis-kimanzi.html",
@@ -42,6 +43,7 @@
   {
     "listing": "/gallery/index.html",
     "items": [
+      "/gallery/ben-nevis-hike.html",
       "/gallery/summer-2025-graduates.html",
       "/gallery/summer-2024-graduates.html",
       "/gallery/networking-mixer-gallery-january-2024.html"
@@ -50,6 +52,7 @@
   {
     "listing": "/profiles/index.html",
     "items": [
+      "/profiles/simon-munga.html",
       "/profiles/josphat-kinyumu.html",
       "/profiles/kamau-wairuri.html",
       "/profiles/louis-kimanzi.html",
