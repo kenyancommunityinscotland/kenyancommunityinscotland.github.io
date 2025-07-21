@@ -1,20 +1,10 @@
 [
   {
-    "listing": "/profiles/index.html",
+    "listing": "/resources/index.html",
     "items": [
-      "/profiles/josphat-kinyumu.html",
-      "/profiles/kamau-wairuri.html",
-      "/profiles/louis-kimanzi.html",
-      "/profiles/linus-chirchir.html"
-    ]
-  },
-  {
-    "listing": "/stories/index.html",
-    "items": [
-      "/stories/ben-nevis-hike.html",
-      "/stories/glas-tulaichean-hike.html",
-      "/stories/world-indoor-champs-glasgow.html",
-      "/stories/networking-mixer.html"
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html"
     ]
   },
   {
@@ -28,6 +18,7 @@
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html",
+      "/profiles/simon-munga.html",
       "/profiles/josphat-kinyumu.html",
       "/profiles/kamau-wairuri.html",
       "/profiles/louis-kimanzi.html",
@@ -42,11 +33,22 @@
     ]
   },
   {
-    "listing": "/resources/index.html",
+    "listing": "/stories/index.html",
     "items": [
-      "/resources/banking-guide-for-kenyans-in-scotland.html",
-      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html"
+      "/stories/ben-nevis-hike.html",
+      "/stories/glas-tulaichean-hike.html",
+      "/stories/world-indoor-champs-glasgow.html",
+      "/stories/networking-mixer.html"
+    ]
+  },
+  {
+    "listing": "/profiles/index.html",
+    "items": [
+      "/profiles/simon-munga.html",
+      "/profiles/josphat-kinyumu.html",
+      "/profiles/kamau-wairuri.html",
+      "/profiles/louis-kimanzi.html",
+      "/profiles/linus-chirchir.html"
     ]
   },
   {
