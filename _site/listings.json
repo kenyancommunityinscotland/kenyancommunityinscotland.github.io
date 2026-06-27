@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/events/edinburgh-meeting-with-kenyan-high-commissioner.html",
       "/events/buachaille-etive-mor.html",
       "/events/ben-nevis-hike.html",
       "/events/pentland-hills-hike.html",
@@ -35,9 +36,10 @@
   {
     "listing": "/events/index.html",
     "items": [
+      "/events/buachaille-etive-mor.html",
       "/events/ben-nevis-hike.html",
-      "/events/glas-tulaichean-hike.html",
-      "/events/pentland-hills-hike.html"
+      "/events/pentland-hills-hike.html",
+      "/events/glas-tulaichean-hike.html"
     ]
   },
   {
@@ -62,6 +64,7 @@
   {
     "listing": "/stories/index.html",
     "items": [
+      "/stories/ben-nevis-hike.html",
       "/stories/glas-tulaichean-hike.html",
       "/stories/world-indoor-champs-glasgow.html",
       "/stories/networking-mixer.html"
