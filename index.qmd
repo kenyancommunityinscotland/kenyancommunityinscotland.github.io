@@ -2,8 +2,8 @@
 pagetitle: "Kenyan Community in Scotland"
 page-layout: full
 search: true
-image: /images/kenyans.JPG
-image-alt: "Kenyans in Edinburgh"
+image: /images/kenyans-at-the-efi.JPG
+image-alt: "Kenyans at the Edinburgh Futures Institute"
 repo-actions: [edit, issue]
 # comments:
 #  giscus:
