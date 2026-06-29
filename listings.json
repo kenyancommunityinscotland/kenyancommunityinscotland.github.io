@@ -19,6 +19,7 @@
       "/resources/banking-guide-for-kenyans-in-scotland.html",
       "/resources/healthcare-guide-for-kenyans-in-scotland.html",
       "/resources/immigration-guide-for-newcomers.html",
+      "/gallery/winter-2025-graduates.html",
       "/gallery/ben-nevis-hike.html",
       "/gallery/summer-2025-graduates.html",
       "/gallery/summer-2024-graduates.html",
@@ -26,21 +27,22 @@
     ]
   },
   {
-    "listing": "/resources/index.html",
+    "listing": "/gallery/index.html",
     "items": [
-      "/resources/banking-guide-for-kenyans-in-scotland.html",
-      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
-      "/resources/immigration-guide-for-newcomers.html"
+      "/gallery/winter-2025-graduates.html",
+      "/gallery/ben-nevis-hike.html",
+      "/gallery/summer-2025-graduates.html",
+      "/gallery/summer-2024-graduates.html",
+      "/gallery/networking-mixer-gallery-january-2024.html"
     ]
   },
   {
-    "listing": "/profiles/index.html",
+    "listing": "/stories/index.html",
     "items": [
-      "/profiles/simon-munga.html",
-      "/profiles/josphat-kinyumu.html",
-      "/profiles/kamau-wairuri.html",
-      "/profiles/louis-kimanzi.html",
-      "/profiles/linus-chirchir.html"
+      "/stories/ben-nevis-hike.html",
+      "/stories/glas-tulaichean-hike.html",
+      "/stories/world-indoor-champs-glasgow.html",
+      "/stories/networking-mixer.html"
     ]
   },
   {
@@ -54,21 +56,21 @@
     ]
   },
   {
-    "listing": "/stories/index.html",
+    "listing": "/profiles/index.html",
     "items": [
-      "/stories/ben-nevis-hike.html",
-      "/stories/glas-tulaichean-hike.html",
-      "/stories/world-indoor-champs-glasgow.html",
-      "/stories/networking-mixer.html"
+      "/profiles/simon-munga.html",
+      "/profiles/josphat-kinyumu.html",
+      "/profiles/kamau-wairuri.html",
+      "/profiles/louis-kimanzi.html",
+      "/profiles/linus-chirchir.html"
     ]
   },
   {
-    "listing": "/gallery/index.html",
+    "listing": "/resources/index.html",
     "items": [
-      "/gallery/ben-nevis-hike.html",
-      "/gallery/summer-2025-graduates.html",
-      "/gallery/summer-2024-graduates.html",
-      "/gallery/networking-mixer-gallery-january-2024.html"
+      "/resources/banking-guide-for-kenyans-in-scotland.html",
+      "/resources/healthcare-guide-for-kenyans-in-scotland.html",
+      "/resources/immigration-guide-for-newcomers.html"
     ]
   }
 ]
