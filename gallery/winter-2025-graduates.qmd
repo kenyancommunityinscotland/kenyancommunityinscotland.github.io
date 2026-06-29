@@ -1,0 +1,38 @@
+---
+title: "**Winter 2025 Graduates in Scotland**"
+date: 2025-12-01
+image: /gallery/images/bertha-odawa-1.jpeg
+image-alt: "Winter 2025 Graduates in Scotland"
+categories: [Gallery]
+format:
+  html:
+    lightbox: auto
+    page-layout: full
+---
+
+We are thrilled to celebrate the achievements of Kenyan graduates across Scotland. This gallery honours our Winter 2025 graduates, beginning with those from **The University of Glasgow**.
+
+---
+
+## 🎓 The University of Glasgow
+
+### 👩🏾‍🎓 Bertha Odawa  
+*Master of Science in Public Policy and Management*
+
+::: {layout-ncol=2}
+
+![Bertha Odawa smiling through a gold picture frame at the University of Glasgow World Changers backdrop](/gallery/images/bertha-odawa-1.jpeg){group="bertha" description="Bertha celebrates her graduation at The University of Glasgow with joy and confidence, framed beautifully against the World Changers display."}
+
+![Bertha Odawa standing proudly in her graduation gown against a University of Glasgow backdrop](/gallery/images/bertha-odawa-2.jpeg){group="bertha" description="Bertha marks her MSc graduation in style, standing proudly in her gown at The University of Glasgow."}
+
+![Bertha Odawa holding a bouquet of sunflowers outside a historic University of Glasgow building](/gallery/images/bertha-odawa-3.jpg){group="bertha" description="A bright and memorable graduation moment as Bertha poses with sunflowers on the University of Glasgow campus."}
+
+![Bertha Odawa smiling in her graduation gown under the arches at the University of Glasgow](/gallery/images/bertha-odawa-4.jpg){group="bertha" description="Bertha celebrates her achievement with elegance and pride beneath the iconic arches of The University of Glasgow."}
+
+:::
+
+---
+
+More universities and graduates will be added soon. If you would like to be featured, please [get in touch](/contact.qmd).
+
+*#KenyanCommunityInScotland #KenyanScots #KenyansInUK #KenyansInDiaspora #Graduation2025*
